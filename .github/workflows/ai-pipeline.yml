@@ -27,8 +27,16 @@ jobs:
     - env:
         DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
       run: |
+        echo "========================================"
+        echo "AI Pipeline - 17维评分算法"
+        echo "========================================"
         python .github/scripts/crawl_and_sync.py
         python .github/scripts/ai_pipeline_runner.py
+    
+    - name: Generate Full Website
+      run: |
+        echo "生成完整样式网站..."
+        python .github/scripts/generate_full_website.py
     
     - uses: actions/upload-artifact@v4
       with:
@@ -36,7 +44,7 @@ jobs:
         path: output/
         retention-days: 30
     
-    - name: Commit results to main branch
+    - name: Commit to repository
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
