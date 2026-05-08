@@ -4,9 +4,498 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>AI金融前沿信源 · 2026年05月08日</title>
-  <link rel="stylesheet" href="styles.css" />
+  <style>
+    /* ===== 完整样式系统 ===== */
+    :root {
+      --bg-primary: #fdfcfa;
+      --bg-secondary: #f7f5f0;
+      --bg-tertiary: #f0ede5;
+      --bg-card: #ffffff;
+      --text-primary: #1a1a1a;
+      --text-secondary: #6b6b6b;
+      --text-muted: #9ca3af;
+      --accent-primary: #ea580c;
+      --accent-secondary: #c2410c;
+      --accent-soft: #ffedd5;
+      --blue-soft: #dbeafe;
+      --blue-text: #1e40af;
+      --green-soft: #dcfce7;
+      --green-text: #166534;
+      --purple-soft: #f3e8ff;
+      --purple-text: #6b21a8;
+      --border-light: #e5e7eb;
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 16px;
+      --shadow-sm: 0 1px 2px rgba(0,0,0,0.04);
+      --shadow-md: 0 4px 12px rgba(0,0,0,0.05);
+      --shadow-lg: 0 8px 24px rgba(0,0,0,0.06);
+    }
+    
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+    
+    /* ===== 导航栏 ===== */
+    .top-bar {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1rem 2rem;
+      background: rgba(253, 252, 250, 0.95);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border-light);
+    }
+    
+    .brand-mark {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      font-weight: 600;
+      font-size: 1.125rem;
+    }
+    
+    .brand-icon {
+      width: 2rem;
+      height: 2rem;
+      background: var(--accent-primary);
+      color: white;
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 0.875rem;
+    }
+    
+    .brand-mark a {
+      color: var(--text-primary);
+      text-decoration: none;
+    }
+    
+    .nav-main {
+      display: flex;
+      align-items: center;
+      gap: 2rem;
+    }
+    
+    .nav-main a {
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 0.9375rem;
+      font-weight: 500;
+      transition: color 0.2s;
+    }
+    
+    .nav-main a:hover,
+    .nav-main a.active {
+      color: var(--accent-primary);
+    }
+    
+    .nav-cta {
+      background: var(--accent-primary);
+      color: white !important;
+      padding: 0.5rem 1rem;
+      border-radius: var(--radius-full);
+    }
+    
+    /* ===== Hero区域 ===== */
+    .hero-section {
+      position: relative;
+      padding: 4rem 2rem;
+      background: var(--bg-secondary);
+      overflow: hidden;
+    }
+    
+    .hero-content {
+      max-width: 800px;
+      margin: 0 auto;
+      text-align: center;
+    }
+    
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: white;
+      padding: 0.5rem 1rem;
+      border-radius: var(--radius-full);
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+      margin-bottom: 1.5rem;
+      box-shadow: var(--shadow-sm);
+    }
+    
+    .hero-badge-dot {
+      width: 8px;
+      height: 8px;
+      background: #22c55e;
+      border-radius: 50%;
+    }
+    
+    .hero-title {
+      font-size: 3rem;
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 1rem;
+    }
+    
+    .hero-title-accent {
+      background: linear-gradient(135deg, #ea580c 0%, #c2410c 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    
+    .hero-lead {
+      font-size: 1.125rem;
+      color: var(--text-secondary);
+      max-width: 600px;
+      margin: 0 auto 2rem;
+    }
+    
+    .hero-actions {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+    }
+    
+    .btn-main {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: var(--accent-primary);
+      color: white;
+      padding: 0.875rem 1.5rem;
+      border-radius: var(--radius-md);
+      font-weight: 600;
+      text-decoration: none;
+      transition: all 0.2s;
+    }
+    
+    .btn-main:hover {
+      background: var(--accent-secondary);
+      transform: translateY(-1px);
+    }
+    
+    /* ===== 主容器 ===== */
+    .main-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+    
+    /* ===== 状态条 ===== */
+    .status-bar {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      background: white;
+      padding: 1rem 1.5rem;
+      border-radius: var(--radius-md);
+      margin-bottom: 2rem;
+      box-shadow: var(--shadow-sm);
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+    }
+    
+    .status-divider {
+      color: var(--border-light);
+    }
+    
+    /* ===== 今日板块 ===== */
+    .today-section {
+      display: grid;
+      grid-template-columns: 1fr 380px;
+      gap: 2rem;
+    }
+    
+    @media (max-width: 1024px) {
+      .today-section {
+        grid-template-columns: 1fr;
+      }
+    }
+    
+    /* ===== 头条区域 ===== */
+    .headlines-area {
+      background: white;
+      border-radius: var(--radius-lg);
+      padding: 1.5rem;
+      box-shadow: var(--shadow-md);
+    }
+    
+    .section-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 1.5rem;
+      padding-bottom: 1rem;
+      border-bottom: 2px solid var(--border-light);
+    }
+    
+    .section-title {
+      font-size: 1.5rem;
+      font-weight: 700;
+    }
+    
+    .section-date {
+      color: var(--text-muted);
+      font-size: 0.875rem;
+    }
+    
+    /* ===== 头条卡片 ===== */
+    .headline-card {
+      background: var(--bg-secondary);
+      border-radius: var(--radius-md);
+      padding: 1.5rem;
+      margin-bottom: 1rem;
+      transition: all 0.2s;
+    }
+    
+    .headline-card:hover {
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-md);
+    }
+    
+    .headline-meta {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 0.75rem;
+    }
+    
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.25rem 0.75rem;
+      border-radius: var(--radius-full);
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+    
+    .tag-blue {
+      background: var(--blue-soft);
+      color: var(--blue-text);
+    }
+    
+    .tag-purple {
+      background: var(--purple-soft);
+      color: var(--purple-text);
+    }
+    
+    .tag-green {
+      background: var(--green-soft);
+      color: var(--green-text);
+    }
+    
+    .ai-badge {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 0.125rem 0.5rem;
+      border-radius: var(--radius-full);
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+    
+    .headline-score {
+      margin-left: auto;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+    
+    .headline-title {
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin-bottom: 0.75rem;
+      line-height: 1.4;
+    }
+    
+    .headline-summary {
+      color: var(--text-secondary);
+      font-size: 0.9375rem;
+      line-height: 1.7;
+      margin-bottom: 1rem;
+    }
+    
+    .headline-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    
+    .headline-time {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+    
+    .headline-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+      font-size: 0.875rem;
+      color: var(--accent-primary);
+      text-decoration: none;
+    }
+    
+    /* ===== 快讯区域 ===== */
+    .briefs-area {
+      background: white;
+      border-radius: var(--radius-lg);
+      padding: 1.5rem;
+      box-shadow: var(--shadow-md);
+      height: fit-content;
+    }
+    
+    .briefs-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 1rem;
+      padding-bottom: 1rem;
+      border-bottom: 2px solid var(--border-light);
+    }
+    
+    .briefs-title {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 1.125rem;
+      font-weight: 600;
+    }
+    
+    .briefs-icon {
+      color: var(--accent-primary);
+    }
+    
+    .briefs-count {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }
+    
+    .briefs-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+    
+    .brief-item {
+      display: flex;
+      gap: 0.75rem;
+      padding: 0.75rem;
+      border-radius: var(--radius-sm);
+      transition: background 0.2s;
+    }
+    
+    .brief-item:hover {
+      background: var(--bg-secondary);
+    }
+    
+    .brief-bullet {
+      width: 6px;
+      height: 6px;
+      background: var(--accent-primary);
+      border-radius: 50%;
+      margin-top: 0.5rem;
+      flex-shrink: 0;
+    }
+    
+    .brief-content {
+      flex: 1;
+    }
+    
+    .brief-text {
+      font-size: 0.9375rem;
+      color: var(--text-primary);
+      margin-bottom: 0.25rem;
+    }
+    
+    .brief-meta {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+    
+    .brief-source {
+      background: var(--bg-tertiary);
+      padding: 0.125rem 0.5rem;
+      border-radius: var(--radius-sm);
+    }
+    
+    /* ===== 信息区域 ===== */
+    .info-section {
+      margin: 2rem 0;
+      padding: 1.5rem;
+      background: var(--bg-secondary);
+      border-radius: var(--radius-md);
+    }
+    
+    .info-section h3 {
+      font-size: 1rem;
+      margin-bottom: 0.75rem;
+      color: var(--text-primary);
+    }
+    
+    .info-section p {
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+      line-height: 1.8;
+    }
+    
+    /* ===== 页脚 ===== */
+    .site-footer {
+      text-align: center;
+      padding: 3rem 2rem;
+      color: var(--text-muted);
+      font-size: 0.875rem;
+    }
+    
+    .site-footer p + p {
+      margin-top: 0.5rem;
+    }
+    
+    /* ===== 浮动按钮 ===== */
+    .floating-home-btn {
+      position: fixed;
+      bottom: 2rem;
+      right: 2rem;
+      width: 3rem;
+      height: 3rem;
+      background: white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: var(--shadow-lg);
+      color: var(--text-secondary);
+      z-index: 1000;
+      transition: all 0.2s;
+    }
+    
+    .floating-home-btn:hover {
+      transform: translateY(-2px);
+      color: var(--accent-primary);
+    }
+  </style>
 </head>
 <body>
+  <a href="index.html" class="floating-home-btn">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+      <polyline points="9 22 9 12 15 12 15 22"></polyline>
+    </svg>
+  </a>
+
   <header class="top-bar">
     <div class="brand-mark">
       <div class="brand-icon">AI</div>
@@ -22,7 +511,7 @@
   <section class="hero-section" id="today">
     <div class="hero-content">
       <div class="hero-badge">
-        <span class="hero-badge-dot" style="background: #22c55e;"></span>
+        <span class="hero-badge-dot"></span>
         AI自动生成完成
       </div>
       <h1 class="hero-title">
@@ -30,13 +519,17 @@
         <span class="hero-title-accent">金融早报</span>
       </h1>
       <p class="hero-lead">
-        基于17维金融评分算法（38天训练优化），从权威信源筛选3篇深度头条和8条市场快讯。
-        编辑AI评分 → 写手AI生成 → 审核AI检查。
+        基于17维金融评分算法（38天训练优化），从权威信源筛选3篇深度头条和8条市场快讯
       </p>
       <div class="hero-actions">
-        <a class="btn-main" href="#headlines">阅读今日</a>
-        <span style="margin-left: 20px; color: #6b6b6b; font-size: 14px;">
-          💰 API费用: 0.100元
+        <a class="btn-main" href="#headlines">
+          阅读今日
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M5 12h14M12 5l7 7-7 7"/>
+          </svg>
+        </a>
+        <span style="color: var(--text-secondary); font-size: 0.875rem;">
+          💰 本次API费用: 0.100元
         </span>
       </div>
     </div>
@@ -45,7 +538,7 @@
   <div class="main-container">
     <div class="status-bar">
       <strong>上次更新</strong>
-      <span>15:19</span>
+      <span>15:45</span>
       <span class="status-divider">|</span>
       <span>从 11 条候选源筛选</span>
       <span class="status-divider">|</span>
@@ -62,40 +555,58 @@
           
         <article class="headline-card">
           <div class="headline-meta">
-            <span class="tag tag-blue">CoinDesk</span>
-            <span style="font-size: 12px; color: #9ca3af; margin-left: auto;">评分: 46.0</span>
-            <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2px 8px; border-radius: 12px; font-size: 11px; margin-left: 8px;">AI</span>
+            <span class="tag tag-purple">CoinDesk</span>
+            <span class="headline-score">评分: 46.0</span>
+            <span class="ai-badge">AI</span>
           </div>
           <h3 class="headline-title">Coinbase bulls point to crypto legislation and stablecoins after earnings miss</h3>
           <p class="headline-summary">...</p>
           <div class="headline-footer">
-            <span class="headline-time">15:19</span>
+            <span class="headline-time">15:45</span>
+            <a href="https://www.coindesk.com/markets/2026/05/08/coinbase-bulls-point-to-crypto-legislation-and-stablecoins-after-earnings-miss" target="_blank" class="headline-link">
+              查看原文
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
           </div>
         </article>
         
         <article class="headline-card">
           <div class="headline-meta">
-            <span class="tag tag-blue">arXiv</span>
-            <span style="font-size: 12px; color: #9ca3af; margin-left: auto;">评分: 45.2</span>
-            <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2px 8px; border-radius: 12px; font-size: 11px; margin-left: 8px;">AI</span>
+            <span class="tag tag-blue">Investing.com</span>
+            <span class="headline-score">评分: 45.8</span>
+            <span class="ai-badge">AI</span>
+          </div>
+          <h3 class="headline-title">Earnings call transcript: Global Partners Q1 2026 beats EPS, stock rises</h3>
+          <p class="headline-summary">...</p>
+          <div class="headline-footer">
+            <span class="headline-time">15:45</span>
+            <a href="https://www.investing.com/news/transcripts/earnings-call-transcript-global-partners-q1-2026-beats-eps-stock-rises-93CH-4673320" target="_blank" class="headline-link">
+              查看原文
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+          </div>
+        </article>
+        
+        <article class="headline-card">
+          <div class="headline-meta">
+            <span class="tag tag-green">arXiv</span>
+            <span class="headline-score">评分: 45.2</span>
+            <span class="ai-badge">AI</span>
           </div>
           <h3 class="headline-title">A Review of Large Language Models for Stock Price Forecasting from a Hedge-Fund Perspective</h3>
           <p class="headline-summary">...</p>
           <div class="headline-footer">
-            <span class="headline-time">15:19</span>
-          </div>
-        </article>
-        
-        <article class="headline-card">
-          <div class="headline-meta">
-            <span class="tag tag-blue">CoinDesk</span>
-            <span style="font-size: 12px; color: #9ca3af; margin-left: auto;">评分: 44.6</span>
-            <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2px 8px; border-radius: 12px; font-size: 11px; margin-left: 8px;">AI</span>
-          </div>
-          <h3 class="headline-title">XRP pushes toward $1.40 as tightening range lowers breakout chances</h3>
-          <p class="headline-summary">...</p>
-          <div class="headline-footer">
-            <span class="headline-time">15:19</span>
+            <span class="headline-time">15:45</span>
+            <a href="https://arxiv.org/abs/2605.05211" target="_blank" class="headline-link">
+              查看原文
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
           </div>
         </article>
         
@@ -110,7 +621,7 @@
           </h3>
           <span class="briefs-count">8 条</span>
         </div>
-        <div class="briefs-list scrollable">
+        <div class="briefs-list">
           
         <div class="brief-item">
           <div class="brief-bullet"></div>
@@ -118,7 +629,18 @@
             <p class="brief-text">Coinbase bulls point to crypto legislation and stablecoins after earnings miss</p>
             <div class="brief-meta">
               <span class="brief-source">CoinDesk</span>
-              <span class="brief-time">15:19</span>
+              <span class="brief-time">15:45</span>
+            </div>
+          </div>
+        </div>
+        
+        <div class="brief-item">
+          <div class="brief-bullet"></div>
+          <div class="brief-content">
+            <p class="brief-text">Earnings call transcript: Global Partners Q1 2026 beats EPS, stock rises</p>
+            <div class="brief-meta">
+              <span class="brief-source">Investing.com</span>
+              <span class="brief-time">15:45</span>
             </div>
           </div>
         </div>
@@ -129,7 +651,7 @@
             <p class="brief-text">A Review of Large Language Models for Stock Price Forecasting from a Hedge-Fund Perspective</p>
             <div class="brief-meta">
               <span class="brief-source">arXiv</span>
-              <span class="brief-time">15:19</span>
+              <span class="brief-time">15:45</span>
             </div>
           </div>
         </div>
@@ -140,7 +662,7 @@
             <p class="brief-text">XRP pushes toward $1.40 as tightening range lowers breakout chances</p>
             <div class="brief-meta">
               <span class="brief-source">CoinDesk</span>
-              <span class="brief-time">15:19</span>
+              <span class="brief-time">15:45</span>
             </div>
           </div>
         </div>
@@ -151,7 +673,7 @@
             <p class="brief-text">Artificial Aesthetics: The Implicit Economics of Valuing AI-Generated Text</p>
             <div class="brief-meta">
               <span class="brief-source">arXiv</span>
-              <span class="brief-time">15:19</span>
+              <span class="brief-time">15:45</span>
             </div>
           </div>
         </div>
@@ -159,10 +681,10 @@
         <div class="brief-item">
           <div class="brief-bullet"></div>
           <div class="brief-content">
-            <p class="brief-text">Bitcoin and ethereum prices today, Friday, May 8, 2026: Prices holding following strong jobs report</p>
+            <p class="brief-text">Apple, IBD Stock Of The Day, Looks Ripe For The Picking. Here's Why.</p>
             <div class="brief-meta">
               <span class="brief-source">Yahoo Finance</span>
-              <span class="brief-time">15:19</span>
+              <span class="brief-time">15:45</span>
             </div>
           </div>
         </div>
@@ -170,21 +692,10 @@
         <div class="brief-item">
           <div class="brief-bullet"></div>
           <div class="brief-content">
-            <p class="brief-text">Tech stocks today: The tech-heavy Nasdaq Composite leads market gains, Musk-Altman court battle ends second week</p>
-            <div class="brief-meta">
-              <span class="brief-source">Yahoo Finance</span>
-              <span class="brief-time">15:19</span>
-            </div>
-          </div>
-        </div>
-        
-        <div class="brief-item">
-          <div class="brief-bullet"></div>
-          <div class="brief-content">
-            <p class="brief-text">Chewy stock hits 52-week low at $22.73 as market sentiment wanes</p>
+            <p class="brief-text">Why is Artivion stock plummeting today?</p>
             <div class="brief-meta">
               <span class="brief-source">Investing.com</span>
-              <span class="brief-time">15:19</span>
+              <span class="brief-time">15:45</span>
             </div>
           </div>
         </div>
@@ -192,10 +703,10 @@
         <div class="brief-item">
           <div class="brief-bullet"></div>
           <div class="brief-content">
-            <p class="brief-text">Why is Corpay stock surging today?</p>
+            <p class="brief-text">Stablecoins have their 'permission slip.' Now comes the hard part.</p>
             <div class="brief-meta">
-              <span class="brief-source">Investing.com</span>
-              <span class="brief-time">15:19</span>
+              <span class="brief-source">CoinDesk</span>
+              <span class="brief-time">15:45</span>
             </div>
           </div>
         </div>
@@ -204,21 +715,21 @@
       </div>
     </section>
 
-    <section style="margin: 40px 0; padding: 24px; background: #f7f5f0; border-radius: 12px;">
-      <h3 style="font-size: 16px; color: #1a1a1a; margin-bottom: 12px;">📊 数据来源与算法说明</h3>
-      <p style="font-size: 14px; color: #6b6b6b; line-height: 1.8;">
+    <section class="info-section">
+      <h3>📊 数据来源与算法说明</h3>
+      <p>
         本报告由AI自动爬取国际权威信源（Reuters、Yahoo Finance、SEC、CoinDesk等），
-        经过严格17维金融评分算法筛选：权威性、影响力、新颖性、时效性、相关性、可验证性、
-        信息密度、情感极性、信源可靠性(权重0.8)、多样性、传播潜力、波动性影响、资产覆盖、
-        宏观敏感性、政策预期差(权重0.9)、跨市场传染、机构持仓相关。
-        权重基于38天历史训练数据优化（2026-04-01至2026-05-08，88条评分记录，18个信源）。
+        经过严格17维金融评分算法筛选，权重基于38天历史训练数据优化（2026-04-01至2026-05-08，88条评分记录）。
         训练显示：高可靠性信源被选中率是低可靠性信源的13倍。
+        算法维度：权威性、影响力、新颖性、时效性、相关性、可验证性、信息密度、情感极性、
+        信源可靠性(权重0.8)、多样性、传播潜力、波动性影响、资产覆盖、宏观敏感性、
+        政策预期差(权重0.9)、跨市场传染、机构持仓相关。
       </p>
     </section>
 
-    <footer style="text-align: center; padding: 40px 0; color: #9ca3af; font-size: 14px;">
-      <p>AI金融前沿信源 · 自动生成于 2026年05月08日 15:19</p>
-      <p style="margin-top: 8px;">基于17维评分算法 · MMR多样性排序 · 三角色AI流程</p>
+    <footer class="site-footer">
+      <p>AI金融前沿信源 · 自动生成于 2026年05月08日 15:45</p>
+      <p>基于17维评分算法 · MMR多样性排序 · 三角色AI流程</p>
     </footer>
   </div>
 </body>
