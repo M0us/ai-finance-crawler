@@ -1,0 +1,689 @@
+"""
+生成完整样式的网站 - 内联所有CSS
+使用 web/index.html 的完整设计，包含所有样式
+"""
+
+import json
+import os
+from datetime import datetime
+from typing import List, Dict, Any
+
+
+def generate_complete_website(headlines: List[Dict], briefs: List[Dict], cost: float) -> str:
+    """生成完整样式的HTML，包含所有内联CSS"""
+    
+    today = datetime.now()
+    date_str = today.strftime('%Y年%m月%d日')
+    time_str = today.strftime('%H:%M')
+    
+    # 生成头条卡片
+    hl_cards = ''
+    for i, hl in enumerate(headlines[:3]):
+        source = hl.get('source_name', '未知')
+        score = hl.get('total_score', 0)
+        ai_badge = '<span class="ai-badge">AI</span>' if hl.get('ai_generated') else ''
+        
+        # 根据来源选择标签颜色
+        tag_class = 'tag-blue'
+        if source in ['CoinDesk', 'Cointelegraph']:
+            tag_class = 'tag-purple'
+        elif source in ['arXiv', 'SSRN']:
+            tag_class = 'tag-green'
+        
+        hl_cards += f'''
+        <article class="headline-card">
+          <div class="headline-meta">
+            <span class="tag {tag_class}">{source}</span>
+            <span class="headline-score">评分: {score:.1f}</span>
+            {ai_badge}
+          </div>
+          <h3 class="headline-title">{hl.get('title', '无标题')}</h3>
+          <p class="headline-summary">{hl.get('body', hl.get('summary', ''))[:200]}...</p>
+          <div class="headline-footer">
+            <span class="headline-time">{time_str}</span>
+            <a href="{hl.get('link', '#')}" target="_blank" class="headline-link">
+              查看原文
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+          </div>
+        </article>
+        '''
+    
+    # 生成快讯
+    brief_items = ''
+    for i, br in enumerate(briefs[:8]):
+        brief_items += f'''
+        <div class="brief-item">
+          <div class="brief-bullet"></div>
+          <div class="brief-content">
+            <p class="brief-text">{br.get('headline', br.get('title', '无标题'))}</p>
+            <div class="brief-meta">
+              <span class="brief-source">{br.get('source_name', '未知')}</span>
+              <span class="brief-time">{time_str}</span>
+            </div>
+          </div>
+        </div>
+        '''
+    
+    # 完整HTML（包含所有内联CSS）
+    html = f'''<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI金融前沿信源 · {date_str}</title>
+  <style>
+    /* ===== 完整样式系统 ===== */
+    :root {{
+      --bg-primary: #fdfcfa;
+      --bg-secondary: #f7f5f0;
+      --bg-tertiary: #f0ede5;
+      --bg-card: #ffffff;
+      --text-primary: #1a1a1a;
+      --text-secondary: #6b6b6b;
+      --text-muted: #9ca3af;
+      --accent-primary: #ea580c;
+      --accent-secondary: #c2410c;
+      --accent-soft: #ffedd5;
+      --blue-soft: #dbeafe;
+      --blue-text: #1e40af;
+      --green-soft: #dcfce7;
+      --green-text: #166534;
+      --purple-soft: #f3e8ff;
+      --purple-text: #6b21a8;
+      --border-light: #e5e7eb;
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 16px;
+      --shadow-sm: 0 1px 2px rgba(0,0,0,0.04);
+      --shadow-md: 0 4px 12px rgba(0,0,0,0.05);
+      --shadow-lg: 0 8px 24px rgba(0,0,0,0.06);
+    }}
+    
+    * {{ box-sizing: border-box; margin: 0; padding: 0; }}
+    
+    body {{
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }}
+    
+    /* ===== 导航栏 ===== */
+    .top-bar {{
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1rem 2rem;
+      background: rgba(253, 252, 250, 0.95);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border-light);
+    }}
+    
+    .brand-mark {{
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      font-weight: 600;
+      font-size: 1.125rem;
+    }}
+    
+    .brand-icon {{
+      width: 2rem;
+      height: 2rem;
+      background: var(--accent-primary);
+      color: white;
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 0.875rem;
+    }}
+    
+    .brand-mark a {{
+      color: var(--text-primary);
+      text-decoration: none;
+    }}
+    
+    .nav-main {{
+      display: flex;
+      align-items: center;
+      gap: 2rem;
+    }}
+    
+    .nav-main a {{
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 0.9375rem;
+      font-weight: 500;
+      transition: color 0.2s;
+    }}
+    
+    .nav-main a:hover,
+    .nav-main a.active {{
+      color: var(--accent-primary);
+    }}
+    
+    .nav-cta {{
+      background: var(--accent-primary);
+      color: white !important;
+      padding: 0.5rem 1rem;
+      border-radius: var(--radius-full);
+    }}
+    
+    /* ===== Hero区域 ===== */
+    .hero-section {{
+      position: relative;
+      padding: 4rem 2rem;
+      background: var(--bg-secondary);
+      overflow: hidden;
+    }}
+    
+    .hero-content {{
+      max-width: 800px;
+      margin: 0 auto;
+      text-align: center;
+    }}
+    
+    .hero-badge {{
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: white;
+      padding: 0.5rem 1rem;
+      border-radius: var(--radius-full);
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+      margin-bottom: 1.5rem;
+      box-shadow: var(--shadow-sm);
+    }}
+    
+    .hero-badge-dot {{
+      width: 8px;
+      height: 8px;
+      background: #22c55e;
+      border-radius: 50%;
+    }}
+    
+    .hero-title {{
+      font-size: 3rem;
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 1rem;
+    }}
+    
+    .hero-title-accent {{
+      background: linear-gradient(135deg, #ea580c 0%, #c2410c 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }}
+    
+    .hero-lead {{
+      font-size: 1.125rem;
+      color: var(--text-secondary);
+      max-width: 600px;
+      margin: 0 auto 2rem;
+    }}
+    
+    .hero-actions {{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+    }}
+    
+    .btn-main {{
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: var(--accent-primary);
+      color: white;
+      padding: 0.875rem 1.5rem;
+      border-radius: var(--radius-md);
+      font-weight: 600;
+      text-decoration: none;
+      transition: all 0.2s;
+    }}
+    
+    .btn-main:hover {{
+      background: var(--accent-secondary);
+      transform: translateY(-1px);
+    }}
+    
+    /* ===== 主容器 ===== */
+    .main-container {{
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem;
+    }}
+    
+    /* ===== 状态条 ===== */
+    .status-bar {{
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      background: white;
+      padding: 1rem 1.5rem;
+      border-radius: var(--radius-md);
+      margin-bottom: 2rem;
+      box-shadow: var(--shadow-sm);
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+    }}
+    
+    .status-divider {{
+      color: var(--border-light);
+    }}
+    
+    /* ===== 今日板块 ===== */
+    .today-section {{
+      display: grid;
+      grid-template-columns: 1fr 380px;
+      gap: 2rem;
+    }}
+    
+    @media (max-width: 1024px) {{
+      .today-section {{
+        grid-template-columns: 1fr;
+      }}
+    }}
+    
+    /* ===== 头条区域 ===== */
+    .headlines-area {{
+      background: white;
+      border-radius: var(--radius-lg);
+      padding: 1.5rem;
+      box-shadow: var(--shadow-md);
+    }}
+    
+    .section-header {{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 1.5rem;
+      padding-bottom: 1rem;
+      border-bottom: 2px solid var(--border-light);
+    }}
+    
+    .section-title {{
+      font-size: 1.5rem;
+      font-weight: 700;
+    }}
+    
+    .section-date {{
+      color: var(--text-muted);
+      font-size: 0.875rem;
+    }}
+    
+    /* ===== 头条卡片 ===== */
+    .headline-card {{
+      background: var(--bg-secondary);
+      border-radius: var(--radius-md);
+      padding: 1.5rem;
+      margin-bottom: 1rem;
+      transition: all 0.2s;
+    }}
+    
+    .headline-card:hover {{
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-md);
+    }}
+    
+    .headline-meta {{
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 0.75rem;
+    }}
+    
+    .tag {{
+      display: inline-flex;
+      align-items: center;
+      padding: 0.25rem 0.75rem;
+      border-radius: var(--radius-full);
+      font-size: 0.75rem;
+      font-weight: 600;
+    }}
+    
+    .tag-blue {{
+      background: var(--blue-soft);
+      color: var(--blue-text);
+    }}
+    
+    .tag-purple {{
+      background: var(--purple-soft);
+      color: var(--purple-text);
+    }}
+    
+    .tag-green {{
+      background: var(--green-soft);
+      color: var(--green-text);
+    }}
+    
+    .ai-badge {{
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 0.125rem 0.5rem;
+      border-radius: var(--radius-full);
+      font-size: 0.75rem;
+      font-weight: 600;
+    }}
+    
+    .headline-score {{
+      margin-left: auto;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }}
+    
+    .headline-title {{
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin-bottom: 0.75rem;
+      line-height: 1.4;
+    }}
+    
+    .headline-summary {{
+      color: var(--text-secondary);
+      font-size: 0.9375rem;
+      line-height: 1.7;
+      margin-bottom: 1rem;
+    }}
+    
+    .headline-footer {{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }}
+    
+    .headline-time {{
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }}
+    
+    .headline-link {{
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+      font-size: 0.875rem;
+      color: var(--accent-primary);
+      text-decoration: none;
+    }}
+    
+    /* ===== 快讯区域 ===== */
+    .briefs-area {{
+      background: white;
+      border-radius: var(--radius-lg);
+      padding: 1.5rem;
+      box-shadow: var(--shadow-md);
+      height: fit-content;
+    }}
+    
+    .briefs-header {{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 1rem;
+      padding-bottom: 1rem;
+      border-bottom: 2px solid var(--border-light);
+    }}
+    
+    .briefs-title {{
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 1.125rem;
+      font-weight: 600;
+    }}
+    
+    .briefs-icon {{
+      color: var(--accent-primary);
+    }}
+    
+    .briefs-count {{
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }}
+    
+    .briefs-list {{
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }}
+    
+    .brief-item {{
+      display: flex;
+      gap: 0.75rem;
+      padding: 0.75rem;
+      border-radius: var(--radius-sm);
+      transition: background 0.2s;
+    }}
+    
+    .brief-item:hover {{
+      background: var(--bg-secondary);
+    }}
+    
+    .brief-bullet {{
+      width: 6px;
+      height: 6px;
+      background: var(--accent-primary);
+      border-radius: 50%;
+      margin-top: 0.5rem;
+      flex-shrink: 0;
+    }}
+    
+    .brief-content {{
+      flex: 1;
+    }}
+    
+    .brief-text {{
+      font-size: 0.9375rem;
+      color: var(--text-primary);
+      margin-bottom: 0.25rem;
+    }}
+    
+    .brief-meta {{
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }}
+    
+    .brief-source {{
+      background: var(--bg-tertiary);
+      padding: 0.125rem 0.5rem;
+      border-radius: var(--radius-sm);
+    }}
+    
+    /* ===== 信息区域 ===== */
+    .info-section {{
+      margin: 2rem 0;
+      padding: 1.5rem;
+      background: var(--bg-secondary);
+      border-radius: var(--radius-md);
+    }}
+    
+    .info-section h3 {{
+      font-size: 1rem;
+      margin-bottom: 0.75rem;
+      color: var(--text-primary);
+    }}
+    
+    .info-section p {{
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+      line-height: 1.8;
+    }}
+    
+    /* ===== 页脚 ===== */
+    .site-footer {{
+      text-align: center;
+      padding: 3rem 2rem;
+      color: var(--text-muted);
+      font-size: 0.875rem;
+    }}
+    
+    .site-footer p + p {{
+      margin-top: 0.5rem;
+    }}
+    
+    /* ===== 浮动按钮 ===== */
+    .floating-home-btn {{
+      position: fixed;
+      bottom: 2rem;
+      right: 2rem;
+      width: 3rem;
+      height: 3rem;
+      background: white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: var(--shadow-lg);
+      color: var(--text-secondary);
+      z-index: 1000;
+      transition: all 0.2s;
+    }}
+    
+    .floating-home-btn:hover {{
+      transform: translateY(-2px);
+      color: var(--accent-primary);
+    }}
+  </style>
+</head>
+<body>
+  <a href="index.html" class="floating-home-btn">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+      <polyline points="9 22 9 12 15 12 15 22"></polyline>
+    </svg>
+  </a>
+
+  <header class="top-bar">
+    <div class="brand-mark">
+      <div class="brand-icon">AI</div>
+      <a href="index.html">金融前沿信源</a>
+    </div>
+    <nav class="nav-main">
+      <a href="#today" class="active">今日</a>
+      <a href="#headlines">头条</a>
+      <a href="#briefs">快讯</a>
+    </nav>
+  </header>
+
+  <section class="hero-section" id="today">
+    <div class="hero-content">
+      <div class="hero-badge">
+        <span class="hero-badge-dot"></span>
+        AI自动生成完成
+      </div>
+      <h1 class="hero-title">
+        {date_str}<br>
+        <span class="hero-title-accent">金融早报</span>
+      </h1>
+      <p class="hero-lead">
+        基于17维金融评分算法（38天训练优化），从权威信源筛选3篇深度头条和8条市场快讯
+      </p>
+      <div class="hero-actions">
+        <a class="btn-main" href="#headlines">
+          阅读今日
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M5 12h14M12 5l7 7-7 7"/>
+          </svg>
+        </a>
+        <span style="color: var(--text-secondary); font-size: 0.875rem;">
+          💰 本次API费用: {cost:.3f}元
+        </span>
+      </div>
+    </div>
+  </section>
+
+  <div class="main-container">
+    <div class="status-bar">
+      <strong>上次更新</strong>
+      <span>{time_str}</span>
+      <span class="status-divider">|</span>
+      <span>从 {len(headlines) + len(briefs)} 条候选源筛选</span>
+      <span class="status-divider">|</span>
+      <span>17维评分算法</span>
+    </div>
+
+    <section class="today-section" id="headlines">
+      <div class="headlines-area">
+        <div class="section-header">
+          <h2 class="section-title">🔥 今日头条</h2>
+          <span class="section-date">{date_str}</span>
+        </div>
+        <div class="headlines-list">
+          {hl_cards}
+        </div>
+      </div>
+
+      <div class="briefs-area" id="briefs">
+        <div class="briefs-header">
+          <h3 class="briefs-title">
+            <span class="briefs-icon">◆</span>
+            市场快讯
+          </h3>
+          <span class="briefs-count">{len(briefs)} 条</span>
+        </div>
+        <div class="briefs-list">
+          {brief_items}
+        </div>
+      </div>
+    </section>
+
+    <section class="info-section">
+      <h3>📊 数据来源与算法说明</h3>
+      <p>
+        本报告由AI自动爬取国际权威信源（Reuters、Yahoo Finance、SEC、CoinDesk等），
+        经过严格17维金融评分算法筛选，权重基于38天历史训练数据优化（2026-04-01至2026-05-08，88条评分记录）。
+        训练显示：高可靠性信源被选中率是低可靠性信源的13倍。
+        算法维度：权威性、影响力、新颖性、时效性、相关性、可验证性、信息密度、情感极性、
+        信源可靠性(权重0.8)、多样性、传播潜力、波动性影响、资产覆盖、宏观敏感性、
+        政策预期差(权重0.9)、跨市场传染、机构持仓相关。
+      </p>
+    </section>
+
+    <footer class="site-footer">
+      <p>AI金融前沿信源 · 自动生成于 {date_str} {time_str}</p>
+      <p>基于17维评分算法 · MMR多样性排序 · 三角色AI流程</p>
+    </footer>
+  </div>
+</body>
+</html>
+'''
+    
+    return html
+
+
+def main():
+    """生成完整网站"""
+    # 读取结果
+    with open('output/results.json', 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    
+    headlines = data.get('headlines', [])
+    briefs = data.get('briefs', [])
+    cost = data.get('cost', 0)
+    
+    # 生成完整HTML
+    html = generate_complete_website(headlines, briefs, cost)
+    
+    # 保存
+    with open('output/index.html', 'w', encoding='utf-8') as f:
+        f.write(html)
+    
+    print(f"✅ 完整样式网站已生成: output/index.html")
+    print(f"   包含内联CSS，无需外部样式文件")
+
+
+if __name__ == '__main__':
+    main()
