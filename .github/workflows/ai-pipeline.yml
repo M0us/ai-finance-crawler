@@ -1,0 +1,32 @@
+name: AI Finance Pipeline - 17维算法完整流程
+
+on:
+  schedule:
+    - cron: '0 1 * * *'   # 09:00 北京
+    - cron: '0 5 * * *'   # 13:00 北京
+    - cron: '30 13 * * *' # 21:30 北京
+    - cron: '0 22 * * *'  # 06:00 北京
+  workflow_dispatch:
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    - run: pip install requests beautifulsoup4 feedparser lxml
+    - env:
+        DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      run: |
+        python .github/scripts/crawl_and_sync.py
+        python .github/scripts/ai_pipeline_runner.py
+    - uses: actions/upload-artifact@v4
+      with:
+        name: results
+        path: output/
+    - uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./output
