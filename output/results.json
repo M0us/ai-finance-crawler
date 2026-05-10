@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "Microsoft Deal Strengthens Black Hills Corporation (BKH) Prospects as a High Growth Utility Stock to Buy",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/microsoft-deal-strengthens-black-hills-212750740.html",
+      "title": "Robinhood's Next Big Growth Engine May Not Be Crypto. Here's Why Prediction Markets Could Matter More.",
+      "link": "https://finance.yahoo.com/markets/options/articles/robinhoods-next-big-growth-engine-212500151.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-09T22:49:28.313633",
+      "published": "2026-05-10T04:49:49.425760",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -39,7 +39,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-09T22:49:28.694416",
+      "published": "2026-05-10T04:49:49.731080",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Why cybersecurity stocks will be net beneficiaries of the AI risks",
-      "link": "https://www.investing.com/news/stock-market-news/why-cybersecurity-stocks-will-be-net-beneficiaries-of-the-ai-risks-4674733",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "The $3.4 Billion Reason Nvidia Drove IREN Stock Higher Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-4-billion-reason-nvidia-211653714.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-09T22:49:29.026245",
+      "published": "2026-05-10T04:49:49.425765",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -82,7 +82,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -92,22 +92,22 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
-      "brief_rank": 6,
+      "brief_rank": 2,
       "ai_generated": true
     }
   ],
   "briefs": [
     {
-      "title": "Microsoft Deal Strengthens Black Hills Corporation (BKH) Prospects as a High Growth Utility Stock to Buy",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/microsoft-deal-strengthens-black-hills-212750740.html",
+      "title": "Robinhood's Next Big Growth Engine May Not Be Crypto. Here's Why Prediction Markets Could Matter More.",
+      "link": "https://finance.yahoo.com/markets/options/articles/robinhoods-next-big-growth-engine-212500151.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-09T22:49:28.313633",
+      "published": "2026-05-10T04:49:49.425760",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Is DTE Energy Company (DTE) a High Growth Utility Stock to Buy on Data Center’s Opportunities?",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/dte-energy-company-dte-high-212744203.html",
+      "title": "The $3.4 Billion Reason Nvidia Drove IREN Stock Higher Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-4-billion-reason-nvidia-211653714.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-09T22:49:28.313635",
+      "published": "2026-05-10T04:49:49.425765",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -161,8 +161,9 @@
         "institutional_correlation": 1.2000000000000002
       },
       "total_score": 42.24,
-      "selected_for_headline": false,
+      "selected_for_headline": true,
       "selected_for_brief": true,
+      "headline_rank": 3,
       "brief_rank": 2,
       "ai_generated": true
     },
@@ -172,7 +173,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-09T22:49:28.694416",
+      "published": "2026-05-10T04:49:49.731080",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -205,7 +206,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-09T22:49:28.694422",
+      "published": "2026-05-10T04:49:49.731085",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -237,7 +238,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-09T22:49:28.694424",
+      "published": "2026-05-10T04:49:49.731092",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -264,22 +265,22 @@
       "ai_generated": true
     },
     {
-      "title": "Why cybersecurity stocks will be net beneficiaries of the AI risks",
-      "link": "https://www.investing.com/news/stock-market-news/why-cybersecurity-stocks-will-be-net-beneficiaries-of-the-ai-risks-4674733",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "LPs are lowering their return expectations, but don't expect fundraising to get easier",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lps-lowering-return-expectations-dont-212040070.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-09T22:49:29.026245",
+      "published": "2026-05-10T04:49:49.425762",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -287,22 +288,21 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 42.0,
-      "selected_for_headline": true,
+      "total_score": 40.84,
+      "selected_for_headline": false,
       "selected_for_brief": true,
-      "headline_rank": 3,
       "brief_rank": 6,
       "ai_generated": true
     },
     {
-      "title": "Warren Buffett sends blunt message on mortgages, home financing",
-      "link": "https://finance.yahoo.com/markets/options/articles/warren-buffett-sends-blunt-message-140700722.html",
+      "title": "FHA Loan for Investment Property: Rules and Strategies",
+      "link": "https://finance.yahoo.com/economy/policy/articles/fha-loan-investment-property-rules-212321873.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-09T22:49:28.313618",
+      "published": "2026-05-10T04:49:49.425752",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Is Cathie Wood Still Hopeful About Tesla (TSLA)?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-still-hopeful-tesla-220601937.html",
+      "title": "She paid taxes from every paycheck and still owed the IRS — a jump from 12% to 22% was the culprit",
+      "link": "https://finance.yahoo.com/economy/policy/articles/she-paid-taxes-every-paycheck-213500626.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-09T22:49:28.313628",
+      "published": "2026-05-10T04:49:49.425767",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-05-09T22:49:29.066543",
+  "timestamp": "2026-05-10T04:49:50.217439",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
