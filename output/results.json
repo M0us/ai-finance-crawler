@@ -1,22 +1,22 @@
 {
   "headlines": [
     {
-      "title": "Fed appoints Powell interim chair ahead of turbulent Warsh transition",
-      "link": "https://www.investing.com/news/economy-news/fed-appoints-powell-interim-chair-ahead-of-turbulent-warsh-transition-4694427",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Is NVIDIA Corporation (NVDA) Among the Most Profitable Tech Stocks to Buy?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-among-most-140749769.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-16T07:12:14.972743",
+      "published": "2026-05-16T14:40:45.725939",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 6.5,
+        "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -26,7 +26,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.4,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Best Buy Stock: Is Wall Street Bullish or Bearish?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/best-buy-stock-wall-street-020310314.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Crypto users are choosing juicy yields over protection, putting billions at risk of hacks",
+      "link": "https://www.coindesk.com/business/2026/05/16/crypto-users-are-choosing-juicy-yields-over-protection-putting-billions-at-risk-of-hacks",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-16T07:12:14.108636",
+      "published": "2026-05-16T14:40:46.070303",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "SpaceX targets June 11 IPO pricing, picks Nasdaq for historic market debut",
-      "link": "https://www.coindesk.com/markets/2026/05/15/spacex-targets-june-11-ipo-pricing-picks-nasdaq-for-historic-market-debut",
+      "title": "Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%",
+      "link": "https://www.coindesk.com/markets/2026/05/16/crypto-longs-lose-usd500-million-as-bitcoin-slides-to-usd78-000-sol-and-xrp-down-5",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-16T07:12:14.462913",
+      "published": "2026-05-16T14:40:46.070316",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,22 +102,22 @@
   ],
   "briefs": [
     {
-      "title": "Fed appoints Powell interim chair ahead of turbulent Warsh transition",
-      "link": "https://www.investing.com/news/economy-news/fed-appoints-powell-interim-chair-ahead-of-turbulent-warsh-transition-4694427",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Is NVIDIA Corporation (NVDA) Among the Most Profitable Tech Stocks to Buy?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-among-most-140749769.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-16T07:12:14.972743",
+      "published": "2026-05-16T14:40:45.725939",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 6.5,
+        "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -127,7 +127,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.4,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Best Buy Stock: Is Wall Street Bullish or Bearish?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/best-buy-stock-wall-street-020310314.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Crypto users are choosing juicy yields over protection, putting billions at risk of hacks",
+      "link": "https://www.coindesk.com/business/2026/05/16/crypto-users-are-choosing-juicy-yields-over-protection-putting-billions-at-risk-of-hacks",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-16T07:12:14.108636",
+      "published": "2026-05-16T14:40:46.070303",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "SpaceX targets June 11 IPO pricing, picks Nasdaq for historic market debut",
-      "link": "https://www.coindesk.com/markets/2026/05/15/spacex-targets-june-11-ipo-pricing-picks-nasdaq-for-historic-market-debut",
+      "title": "Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%",
+      "link": "https://www.coindesk.com/markets/2026/05/16/crypto-longs-lose-usd500-million-as-bitcoin-slides-to-usd78-000-sol-and-xrp-down-5",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-16T07:12:14.462913",
+      "published": "2026-05-16T14:40:46.070316",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -201,12 +201,12 @@
       "ai_generated": true
     },
     {
-      "title": "U.S. House lawmakers who oversee the CFTC are urging Trump to fill the commission",
-      "link": "https://www.coindesk.com/policy/2026/05/15/u-s-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission",
+      "title": "XRP beat bitcoin gains as CLARITY Act advanced, but a real bullrun still needs Congress",
+      "link": "https://www.coindesk.com/markets/2026/05/15/xrp-beat-bitcoin-gains-as-clarity-act-advanced-but-a-real-bullrun-still-needs-congress",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-16T07:12:14.462909",
+      "published": "2026-05-16T14:40:46.070314",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "Saudi Arabia is tokenizing its multi-trillion dollar economy to protect its wealth from global shocks",
-      "link": "https://www.coindesk.com/business/2026/05/15/saudi-arabia-is-tokenizing-its-multi-trillion-dollar-economy-to-protect-its-wealth-from-global-shocks",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "FDA drug center head fired after commissioner’s exit",
+      "link": "https://www.investing.com/news/stock-market-news/fda-drug-center-head-fired-after-commissioners-exit-4694463",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-16T07:12:14.462915",
+      "published": "2026-05-16T14:40:46.425064",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -248,7 +248,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -258,7 +258,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 41.84,
+      "total_score": 41.6,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 5,
@@ -270,7 +270,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-16T07:12:14.108622",
+      "published": "2026-05-16T14:40:45.725929",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Fermi Flags AI Power Push as Q1 Loss Widens on Expansion Costs",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/fermi-flags-ai-power-push-022103140.html",
+      "title": "Social Security could be depleted by 2032 — and a typical retired couple stands to lose $18,400 a year",
+      "link": "https://finance.yahoo.com/economy/policy/articles/social-security-could-depleted-2032-141500893.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-16T07:12:14.108633",
+      "published": "2026-05-16T14:40:45.725937",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Lightwave Logic, Inc. Q1 2026 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lightwave-logic-inc-q1-2026-004439419.html",
+      "title": "InterDiInterDigital, Inc. (IDCC) Announces Financial Results for First Quarter 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/interdiinterdigital-inc-idcc-announces-financial-140742613.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-16T07:12:14.108639",
+      "published": "2026-05-16T14:40:45.725941",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-05-16T07:12:15.013487",
+  "timestamp": "2026-05-16T14:40:46.459307",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
