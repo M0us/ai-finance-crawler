@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "$800B in AI spending is juicing GDP and stocks — while real wages fall and Americans cut back on goods",
-      "link": "https://finance.yahoo.com/economy/articles/800b-ai-spending-juicing-gdp-193500398.html",
+      "title": "Global shares stumble while bond yields climb on inflation worries",
+      "link": "https://finance.yahoo.com/news/asian-shares-dive-as-us-yields-hit-one-year-high-053836732.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-16T22:48:34.123044",
+      "published": "2026-05-17T04:56:42.172362",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -39,7 +39,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-16T22:48:34.362196",
+      "published": "2026-05-17T04:56:42.528714",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -63,16 +63,16 @@
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
-      "brief_rank": 2,
+      "brief_rank": 3,
       "ai_generated": true
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4694486",
+      "title": "Why China is positioned to capture the bulk of the economic robotic value",
+      "link": "https://www.investing.com/news/economy-news/why-china-is-positioned-to-capture-the-bulk-of-the-economic-robotic-value-4694505",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-16T22:48:34.727133",
+      "published": "2026-05-17T04:56:42.893087",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -96,18 +96,18 @@
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
-      "brief_rank": 5,
+      "brief_rank": 6,
       "ai_generated": true
     }
   ],
   "briefs": [
     {
-      "title": "$800B in AI spending is juicing GDP and stocks — while real wages fall and Americans cut back on goods",
-      "link": "https://finance.yahoo.com/economy/articles/800b-ai-spending-juicing-gdp-193500398.html",
+      "title": "Global shares stumble while bond yields climb on inflation worries",
+      "link": "https://finance.yahoo.com/news/asian-shares-dive-as-us-yields-hit-one-year-high-053836732.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-16T22:48:34.123044",
+      "published": "2026-05-17T04:56:42.172362",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -135,12 +135,44 @@
       "ai_generated": true
     },
     {
+      "title": "Weekly Wrap: Crypto Falls Alongside Stocks As Treasury Yields Spike",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-crypto-falls-alongside-212200569.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
+      "authority": 4,
+      "published": "2026-05-17T04:56:42.172358",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 5.5,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 3.04,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 1.2000000000000002
+      },
+      "total_score": 42.24,
+      "selected_for_headline": false,
+      "selected_for_brief": true,
+      "brief_rank": 2,
+      "ai_generated": true
+    },
+    {
       "title": "Jump Crypto’s ‘Firedancer’ is taking a slow and steady approach to its long-awaited Solana infrastructure rollout",
       "link": "https://www.coindesk.com/tech/2026/05/16/jump-crypto-s-firedancer-is-taking-a-slow-and-steady-approach-to-its-long-awaited-solana-infrastructure-rollout",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-16T22:48:34.362196",
+      "published": "2026-05-17T04:56:42.528714",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -164,7 +196,7 @@
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
-      "brief_rank": 2,
+      "brief_rank": 3,
       "ai_generated": true
     },
     {
@@ -173,39 +205,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-16T22:48:34.362206",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 5.5,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 42.24,
-      "selected_for_headline": false,
-      "selected_for_brief": true,
-      "brief_rank": 3,
-      "ai_generated": true
-    },
-    {
-      "title": "Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%",
-      "link": "https://www.coindesk.com/markets/2026/05/16/crypto-longs-lose-usd500-million-as-bitcoin-slides-to-usd78-000-sol-and-xrp-down-5",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
-      "authority": 4,
-      "published": "2026-05-16T22:48:34.362214",
+      "published": "2026-05-17T04:56:42.528722",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -232,12 +232,44 @@
       "ai_generated": true
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4694486",
+      "title": "Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%",
+      "link": "https://www.coindesk.com/markets/2026/05/16/crypto-longs-lose-usd500-million-as-bitcoin-slides-to-usd78-000-sol-and-xrp-down-5",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
+      "authority": 4,
+      "published": "2026-05-17T04:56:42.528729",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 5.5,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 3.04,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 1.2000000000000002
+      },
+      "total_score": 42.24,
+      "selected_for_headline": false,
+      "selected_for_brief": true,
+      "brief_rank": 5,
+      "ai_generated": true
+    },
+    {
+      "title": "Why China is positioned to capture the bulk of the economic robotic value",
+      "link": "https://www.investing.com/news/economy-news/why-china-is-positioned-to-capture-the-bulk-of-the-economic-robotic-value-4694505",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-16T22:48:34.727133",
+      "published": "2026-05-17T04:56:42.893087",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -261,16 +293,16 @@
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
-      "brief_rank": 5,
+      "brief_rank": 6,
       "ai_generated": true
     },
     {
-      "title": "Planet Fitness director Frances Rathke purchases $231,050 in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/planet-fitness-director-frances-rathke-purchases-231050-in-stock-93CH-4694483",
+      "title": "Japan and South Korea set a critical summit amid market volatility",
+      "link": "https://www.investing.com/news/economy-news/japan-and-south-korea-set-a-critical-summit-amid-market-volatility-4694504",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-16T22:48:34.727149",
+      "published": "2026-05-17T04:56:42.893094",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -293,7 +325,7 @@
       "total_score": 42.0,
       "selected_for_headline": false,
       "selected_for_brief": true,
-      "brief_rank": 6,
+      "brief_rank": 7,
       "ai_generated": true
     },
     {
@@ -302,7 +334,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-16T22:48:34.362212",
+      "published": "2026-05-17T04:56:42.528727",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -325,44 +357,12 @@
       "total_score": 41.84,
       "selected_for_headline": false,
       "selected_for_brief": true,
-      "brief_rank": 7,
-      "ai_generated": true
-    },
-    {
-      "title": "AI data centers employ very few people: What the numbers how",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/ai-data-centers-employ-very-165832949.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
-      "authority": 4,
-      "published": "2026-05-16T22:48:34.123030",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 40.04,
-      "selected_for_headline": false,
-      "selected_for_brief": true,
       "brief_rank": 8,
       "ai_generated": true
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-05-16T22:48:34.768847",
+  "timestamp": "2026-05-17T04:56:42.932003",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
