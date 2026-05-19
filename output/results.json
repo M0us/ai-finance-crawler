@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "Gates' foundation sold all of its Microsoft shares. Bill Ackman is loading up on the stock. What is Wall Street missing?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gates-foundation-sold-microsoft-shares-141500609.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Morning Bid: Markets in uneasy calm as inflation fears take root",
+      "link": "https://www.investing.com/news/economy-news/morning-bid-markets-in-uneasy-calm-as-inflation-fears-take-root-4697438",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-18T23:03:30.023718",
+      "published": "2026-05-19T05:07:17.812708",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -16,17 +16,17 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 4.5,
+        "macro_sensitivity": 3.5,
+        "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 44.04,
+      "total_score": 43.4,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "TradeMech: A Method to Multilaterally Net Trades Without Altering Counterparty Exposure",
-      "link": "https://arxiv.org/abs/2605.15210",
+      "title": "How War Distorts International Trade: Gravity-Model Evidence from Europe after the Russia-Ukraine Conflict",
+      "link": "https://arxiv.org/abs/2605.16334",
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-05-18T23:03:30.466815",
+      "published": "2026-05-19T05:07:17.705845",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
-      "link": "https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "This is why Autodesk, Inc. (ADSK) is one of Steve Cohen’s large-cap Stock Picks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-autodesk-inc-adsk-one-165407635.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-18T23:03:30.286001",
+      "published": "2026-05-19T05:07:17.190240",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -96,18 +96,18 @@
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
-      "brief_rank": 7,
+      "brief_rank": 4,
       "ai_generated": true
     }
   ],
   "briefs": [
     {
-      "title": "Gates' foundation sold all of its Microsoft shares. Bill Ackman is loading up on the stock. What is Wall Street missing?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gates-foundation-sold-microsoft-shares-141500609.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Morning Bid: Markets in uneasy calm as inflation fears take root",
+      "link": "https://www.investing.com/news/economy-news/morning-bid-markets-in-uneasy-calm-as-inflation-fears-take-root-4697438",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-18T23:03:30.023718",
+      "published": "2026-05-19T05:07:17.812708",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -117,17 +117,17 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 4.5,
+        "macro_sensitivity": 3.5,
+        "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 44.04,
+      "total_score": 43.4,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "TradeMech: A Method to Multilaterally Net Trades Without Altering Counterparty Exposure",
-      "link": "https://arxiv.org/abs/2605.15210",
+      "title": "How War Distorts International Trade: Gravity-Model Evidence from Europe after the Russia-Ukraine Conflict",
+      "link": "https://arxiv.org/abs/2605.16334",
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-05-18T23:03:30.466815",
+      "published": "2026-05-19T05:07:17.705845",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -168,18 +168,18 @@
       "ai_generated": true
     },
     {
-      "title": "Market Makers and Risk Aversion: A Hamiltonian Approach to the Excess Volatility Puzzle",
-      "link": "https://arxiv.org/abs/2605.15767",
+      "title": "Wage Rigidity, Exchange Rate Regimes, and Inflation Persistence in Transition Economies: A Cohort-Based Institutional Approach",
+      "link": "https://arxiv.org/abs/2605.16862",
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-05-18T23:03:30.466828",
+      "published": "2026-05-19T05:07:17.705859",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -188,10 +188,10 @@
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
+        "macro_sensitivity": 3.5,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
       "total_score": 42.4,
       "selected_for_headline": false,
@@ -200,12 +200,12 @@
       "ai_generated": true
     },
     {
-      "title": "Anthropic's shadow IPO market is already flashing trillion-dollar prices",
-      "link": "https://finance.yahoo.com/markets/article/anthropics-shadow-ipo-market-is-already-flashing-trillion-dollar-prices-141451664.html",
+      "title": "This is why Autodesk, Inc. (ADSK) is one of Steve Cohen’s large-cap Stock Picks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-autodesk-inc-adsk-one-165407635.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-18T23:03:30.023711",
+      "published": "2026-05-19T05:07:17.190240",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -226,18 +226,19 @@
         "institutional_correlation": 1.2000000000000002
       },
       "total_score": 42.24,
-      "selected_for_headline": false,
+      "selected_for_headline": true,
       "selected_for_brief": true,
+      "headline_rank": 3,
       "brief_rank": 4,
       "ai_generated": true
     },
     {
-      "title": "Anthropic’s Project Glasswing Could Be a Major Catalyst for Verizon Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-project-glasswing-could-major-141502288.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
+      "link": "https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-18T23:03:30.023714",
+      "published": "2026-05-19T05:07:17.453000",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -264,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Do Wall Street Analysts Like Darden Restaurants Stock?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-darden-restaurants-141453956.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Minnesotan banks and credit unions set to provide crypto custody August 1",
+      "link": "https://www.coindesk.com/policy/2026/05/18/minnesotan-banks-and-credit-unions-set-to-provide-crypto-custody-august-1",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-18T23:03:30.023716",
+      "published": "2026-05-19T05:07:17.453010",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -296,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
-      "link": "https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Fluor Corp.’s SWOT analysis: stock faces core business headwinds",
+      "link": "https://www.investing.com/news/swot-analysis/fluor-corps-swot-analysis-stock-faces-core-business-headwinds-93CH-4697439",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-18T23:03:30.286001",
+      "published": "2026-05-19T05:07:17.812722",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -311,7 +312,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -321,26 +322,25 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
-      "selected_for_headline": true,
+      "total_score": 42.0,
+      "selected_for_headline": false,
       "selected_for_brief": true,
-      "headline_rank": 3,
       "brief_rank": 7,
       "ai_generated": true
     },
     {
-      "title": "Minnesotan banks and credit unions set to provide crypto custody August 1",
-      "link": "https://www.coindesk.com/policy/2026/05/18/minnesotan-banks-and-credit-unions-set-to-provide-crypto-custody-august-1",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "NVDA Earnings, Alphabet Conference and Other Can't Miss Items this Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvda-earnings-alphabet-conference-other-170002623.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-18T23:03:30.286012",
+      "published": "2026-05-19T05:07:17.190237",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -350,11 +350,11 @@
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
+        "policy_surprise": 4.5,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 41.84,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-05-18T23:03:30.665534",
+  "timestamp": "2026-05-19T05:07:17.847871",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
