@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "Morning Bid: Markets in uneasy calm as inflation fears take root",
-      "link": "https://www.investing.com/news/economy-news/morning-bid-markets-in-uneasy-calm-as-inflation-fears-take-root-4697438",
+      "title": "Canaccord upgrades Progyny stock rating to buy on guidance beat streak",
+      "link": "https://www.investing.com/news/analyst-ratings/canaccord-upgrades-progyny-stock-rating-to-buy-on-guidance-beat-streak-93CH-4697639",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-19T05:07:17.812708",
+      "published": "2026-05-19T08:23:58.217479",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -21,12 +21,12 @@
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 3.5,
-        "policy_surprise": 2.7,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 4.5,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 43.4,
+      "total_score": 43.8,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -39,7 +39,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-05-19T05:07:17.705845",
+      "published": "2026-05-19T08:23:58.150419",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "This is why Autodesk, Inc. (ADSK) is one of Steve Cohen’s large-cap Stock Picks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-autodesk-inc-adsk-one-165407635.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
+      "link": "https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-19T05:07:17.190240",
+      "published": "2026-05-19T08:23:57.945610",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,12 +102,12 @@
   ],
   "briefs": [
     {
-      "title": "Morning Bid: Markets in uneasy calm as inflation fears take root",
-      "link": "https://www.investing.com/news/economy-news/morning-bid-markets-in-uneasy-calm-as-inflation-fears-take-root-4697438",
+      "title": "Canaccord upgrades Progyny stock rating to buy on guidance beat streak",
+      "link": "https://www.investing.com/news/analyst-ratings/canaccord-upgrades-progyny-stock-rating-to-buy-on-guidance-beat-streak-93CH-4697639",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-19T05:07:17.812708",
+      "published": "2026-05-19T08:23:58.217479",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -122,12 +122,12 @@
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 3.5,
-        "policy_surprise": 2.7,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 4.5,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 43.4,
+      "total_score": 43.8,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -140,7 +140,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-05-19T05:07:17.705845",
+      "published": "2026-05-19T08:23:58.150419",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -173,7 +173,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-05-19T05:07:17.705859",
+      "published": "2026-05-19T08:23:58.150436",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -200,12 +200,12 @@
       "ai_generated": true
     },
     {
-      "title": "This is why Autodesk, Inc. (ADSK) is one of Steve Cohen’s large-cap Stock Picks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-autodesk-inc-adsk-one-165407635.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
+      "link": "https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-19T05:07:17.190240",
+      "published": "2026-05-19T08:23:57.945610",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
-      "link": "https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg",
+      "title": "Minnesotan banks and credit unions set to provide crypto custody Aug. 1",
+      "link": "https://www.coindesk.com/policy/2026/05/18/minnesotan-banks-and-credit-unions-set-to-provide-crypto-custody-august-1",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-19T05:07:17.453000",
+      "published": "2026-05-19T08:23:57.945613",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Minnesotan banks and credit unions set to provide crypto custody August 1",
-      "link": "https://www.coindesk.com/policy/2026/05/18/minnesotan-banks-and-credit-unions-set-to-provide-crypto-custody-august-1",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Bernstein upgrades American Tower stock rating on satellite, rate concerns",
+      "link": "https://www.investing.com/news/analyst-ratings/bernstein-upgrades-american-tower-stock-rating-on-satellite-rate-concerns-93CH-4697637",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-19T05:07:17.453010",
+      "published": "2026-05-19T08:23:58.217488",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -280,7 +280,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -290,19 +290,19 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.0,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 6,
       "ai_generated": true
     },
     {
-      "title": "Fluor Corp.’s SWOT analysis: stock faces core business headwinds",
-      "link": "https://www.investing.com/news/swot-analysis/fluor-corps-swot-analysis-stock-faces-core-business-headwinds-93CH-4697439",
+      "title": "SAP shares climb 5% as software stocks rally in Europe",
+      "link": "https://www.investing.com/news/stock-market-news/sap-shares-climb-5-as-software-stocks-rally-in-europe-93CH-4697635",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-19T05:07:17.812722",
+      "published": "2026-05-19T08:23:58.217493",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,32 +329,32 @@
       "ai_generated": true
     },
     {
-      "title": "NVDA Earnings, Alphabet Conference and Other Can't Miss Items this Week",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvda-earnings-alphabet-conference-other-170002623.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Why is Lagercrantz stock surging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-lagercrantz-stock-surging-today-93CH-4697634",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-19T05:07:17.190237",
+      "published": "2026-05-19T08:23:58.217495",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 4.5,
+        "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 41.84,
+      "total_score": 42.0,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-05-19T05:07:17.847871",
+  "timestamp": "2026-05-19T08:23:58.259603",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
