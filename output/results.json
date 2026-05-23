@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens",
-      "link": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "A deleted disclosure in SpaceX's S-1 reveals the real economics of its AI infrastructure",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/deleted-disclosure-spacexs-1-reveals-135900719.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-23T07:28:01.863240",
+      "published": "2026-05-23T14:48:21.901256",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -22,11 +22,11 @@
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 4.5,
+        "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 44.04,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "AMD ramping up Taiwan capacity as global CPU market tightens",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/amd-asking-partners-ramp-production-021329204.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally",
+      "link": "https://www.coindesk.com/markets/2026/05/23/crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-23T07:28:01.700330",
+      "published": "2026-05-23T14:48:22.186727",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bloom Energy’s SWOT analysis: stock faces valuation debate amid growth",
-      "link": "https://www.investing.com/news/swot-analysis/bloom-energys-swot-analysis-stock-faces-valuation-debate-amid-growth-93CH-4708011",
+      "title": "MongoDB’s SWOT analysis: database stock gains momentum on AI push",
+      "link": "https://www.investing.com/news/swot-analysis/mongodbs-swot-analysis-database-stock-gains-momentum-on-ai-push-93CH-4708054",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-23T07:28:02.196783",
+      "published": "2026-05-23T14:48:22.667951",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,12 +102,12 @@
   ],
   "briefs": [
     {
-      "title": "SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens",
-      "link": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "A deleted disclosure in SpaceX's S-1 reveals the real economics of its AI infrastructure",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/deleted-disclosure-spacexs-1-reveals-135900719.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-23T07:28:01.863240",
+      "published": "2026-05-23T14:48:21.901256",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -123,11 +123,11 @@
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 4.5,
+        "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 44.04,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "AMD ramping up Taiwan capacity as global CPU market tightens",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/amd-asking-partners-ramp-production-021329204.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally",
+      "link": "https://www.coindesk.com/markets/2026/05/23/crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-23T07:28:01.700330",
+      "published": "2026-05-23T14:48:22.186727",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Robinhood Crypto COO Tanya Denisova is leaving company amid revenue slowdown",
-      "link": "https://www.coindesk.com/business/2026/05/22/robinhood-crypto-coo-tanya-denisova-is-leaving-company-amid-revenue-slowdown",
+      "title": "Clarity Act could spark a boom in crypto ‘yield-as-a-service’",
+      "link": "https://www.coindesk.com/policy/2026/05/23/clarity-act-could-spark-a-boom-in-crypto-yield-as-a-service",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-23T07:28:01.863238",
+      "published": "2026-05-23T14:48:22.186738",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -200,12 +200,12 @@
       "ai_generated": true
     },
     {
-      "title": "Why Minnesota is empowering local banks to fight Wall Street for crypto revenue",
-      "link": "https://www.coindesk.com/business/2026/05/22/why-minnesota-is-empowering-local-banks-to-fight-wall-street-for-crypto-revenue",
+      "title": "Robinhood Crypto COO Tanya Denisova is leaving company amid revenue slowdown",
+      "link": "https://www.coindesk.com/business/2026/05/22/robinhood-crypto-coo-tanya-denisova-is-leaving-company-amid-revenue-slowdown",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-23T07:28:01.863242",
+      "published": "2026-05-23T14:48:22.186745",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -232,12 +232,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bloom Energy’s SWOT analysis: stock faces valuation debate amid growth",
-      "link": "https://www.investing.com/news/swot-analysis/bloom-energys-swot-analysis-stock-faces-valuation-debate-amid-growth-93CH-4708011",
+      "title": "MongoDB’s SWOT analysis: database stock gains momentum on AI push",
+      "link": "https://www.investing.com/news/swot-analysis/mongodbs-swot-analysis-database-stock-gains-momentum-on-ai-push-93CH-4708054",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-23T07:28:02.196783",
+      "published": "2026-05-23T14:48:22.667951",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Credo Technology’s SWOT analysis: stock gains attention amid AI connectivity boom",
-      "link": "https://www.investing.com/news/swot-analysis/credo-technologys-swot-analysis-stock-gains-attention-amid-ai-connectivity-boom-93CH-4708010",
+      "title": "Ciena’s SWOT analysis: optical networking stock faces valuation test",
+      "link": "https://www.investing.com/news/swot-analysis/cienas-swot-analysis-optical-networking-stock-faces-valuation-test-93CH-4708052",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-23T07:28:02.196792",
+      "published": "2026-05-23T14:48:22.667963",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,44 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Fair Isaac’s SWOT analysis: stock faces pricing power test",
-      "link": "https://www.investing.com/news/swot-analysis/fair-isaacs-swot-analysis-stock-faces-pricing-power-test-93CH-4708008",
-      "source_id": "investing",
-      "source_name": "Investing.com",
-      "authority": 4,
-      "published": "2026-05-23T07:28:02.196797",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 5.5,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 42.0,
-      "selected_for_headline": false,
-      "selected_for_brief": true,
-      "brief_rank": 7,
-      "ai_generated": true
-    },
-    {
       "title": "F2Pool founder who controls 11% of bitcoin's hashrate to lead first SpaceX mission to Mars",
       "link": "https://www.coindesk.com/business/2026/05/22/f2pool-founder-who-controls-11-of-bitcoin-s-hashrate-to-lead-first-spacex-mission-to-mars",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-23T07:28:01.863228",
+      "published": "2026-05-23T14:48:22.186743",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -357,12 +325,44 @@
       "total_score": 41.84,
       "selected_for_headline": false,
       "selected_for_brief": true,
+      "brief_rank": 7,
+      "ai_generated": true
+    },
+    {
+      "title": "Bitcoin tanks to $74,300 as spot ETFs bleed $2.26 billion in two weeks",
+      "link": "https://www.coindesk.com/markets/2026/05/23/bitcoin-tanks-to-usd74-300-as-spot-etfs-bleed-usd2-26-billion-in-two-weeks",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
+      "authority": 4,
+      "published": "2026-05-23T14:48:22.186741",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 3.3000000000000003,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 3.04,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 2.0
+      },
+      "total_score": 40.84,
+      "selected_for_headline": false,
+      "selected_for_brief": true,
       "brief_rank": 8,
       "ai_generated": true
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-05-23T07:28:02.230236",
+  "timestamp": "2026-05-23T14:48:22.710047",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
