@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "A deleted disclosure in SpaceX's S-1 reveals the real economics of its AI infrastructure",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/deleted-disclosure-spacexs-1-reveals-135900719.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Bitcoin is ready to beat stocks and bonds again after underperformance against Wall Street",
+      "link": "https://www.coindesk.com/markets/2026/05/23/bitcoin-is-ready-to-beat-stocks-and-bonds-again-after-underperformance-against-wall-street",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-23T14:48:21.901256",
+      "published": "2026-05-23T22:54:52.749264",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -22,11 +22,11 @@
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
+        "policy_surprise": 4.5,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 44.04,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally",
-      "link": "https://www.coindesk.com/markets/2026/05/23/crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Dow Jones Futures: Trump Says Iran Deal Announcement 'Shortly' With Hormuz 'Opened'; Tesla, AI Stocks Near Buy Points",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-23T14:48:22.186727",
+      "published": "2026-05-23T22:54:52.338637",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "MongoDB’s SWOT analysis: database stock gains momentum on AI push",
-      "link": "https://www.investing.com/news/swot-analysis/mongodbs-swot-analysis-database-stock-gains-momentum-on-ai-push-93CH-4708054",
+      "title": "Nasdaq’s SWOT analysis: stock transformation draws analyst upgrades",
+      "link": "https://www.investing.com/news/swot-analysis/nasdaqs-swot-analysis-stock-transformation-draws-analyst-upgrades-93CH-4708096",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-23T14:48:22.667951",
+      "published": "2026-05-23T22:54:53.147793",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,12 +102,12 @@
   ],
   "briefs": [
     {
-      "title": "A deleted disclosure in SpaceX's S-1 reveals the real economics of its AI infrastructure",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/deleted-disclosure-spacexs-1-reveals-135900719.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Bitcoin is ready to beat stocks and bonds again after underperformance against Wall Street",
+      "link": "https://www.coindesk.com/markets/2026/05/23/bitcoin-is-ready-to-beat-stocks-and-bonds-again-after-underperformance-against-wall-street",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-23T14:48:21.901256",
+      "published": "2026-05-23T22:54:52.749264",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -123,11 +123,11 @@
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
+        "policy_surprise": 4.5,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 44.04,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally",
-      "link": "https://www.coindesk.com/markets/2026/05/23/crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Dow Jones Futures: Trump Says Iran Deal Announcement 'Shortly' With Hormuz 'Opened'; Tesla, AI Stocks Near Buy Points",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-23T14:48:22.186727",
+      "published": "2026-05-23T22:54:52.338637",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Clarity Act could spark a boom in crypto ‘yield-as-a-service’",
-      "link": "https://www.coindesk.com/policy/2026/05/23/clarity-act-could-spark-a-boom-in-crypto-yield-as-a-service",
+      "title": "Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally",
+      "link": "https://www.coindesk.com/markets/2026/05/23/crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-23T14:48:22.186738",
+      "published": "2026-05-23T22:54:52.749267",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -200,12 +200,12 @@
       "ai_generated": true
     },
     {
-      "title": "Robinhood Crypto COO Tanya Denisova is leaving company amid revenue slowdown",
-      "link": "https://www.coindesk.com/business/2026/05/22/robinhood-crypto-coo-tanya-denisova-is-leaving-company-amid-revenue-slowdown",
+      "title": "Clarity Act could spark a boom in crypto ‘yield-as-a-service’",
+      "link": "https://www.coindesk.com/policy/2026/05/23/clarity-act-could-spark-a-boom-in-crypto-yield-as-a-service",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-23T14:48:22.186745",
+      "published": "2026-05-23T22:54:52.749270",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -232,12 +232,12 @@
       "ai_generated": true
     },
     {
-      "title": "MongoDB’s SWOT analysis: database stock gains momentum on AI push",
-      "link": "https://www.investing.com/news/swot-analysis/mongodbs-swot-analysis-database-stock-gains-momentum-on-ai-push-93CH-4708054",
+      "title": "Nasdaq’s SWOT analysis: stock transformation draws analyst upgrades",
+      "link": "https://www.investing.com/news/swot-analysis/nasdaqs-swot-analysis-stock-transformation-draws-analyst-upgrades-93CH-4708096",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-23T14:48:22.667951",
+      "published": "2026-05-23T22:54:53.147793",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Ciena’s SWOT analysis: optical networking stock faces valuation test",
-      "link": "https://www.investing.com/news/swot-analysis/cienas-swot-analysis-optical-networking-stock-faces-valuation-test-93CH-4708052",
+      "title": "Huntington Bancshares’ SWOT analysis: stock faces integration test amid expansion",
+      "link": "https://www.investing.com/news/swot-analysis/huntington-bancshares-swot-analysis-stock-faces-integration-test-amid-expansion-93CH-4708095",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-23T14:48:22.667963",
+      "published": "2026-05-23T22:54:53.147806",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "F2Pool founder who controls 11% of bitcoin's hashrate to lead first SpaceX mission to Mars",
-      "link": "https://www.coindesk.com/business/2026/05/22/f2pool-founder-who-controls-11-of-bitcoin-s-hashrate-to-lead-first-spacex-mission-to-mars",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Arm Holdings (ARM), Red Hat Expand Collaboration for Agentic AI Stack",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-red-hat-200853890.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-23T14:48:22.186743",
+      "published": "2026-05-23T22:54:52.338644",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -318,11 +318,11 @@
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 4.5,
+        "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 41.84,
+      "total_score": 40.84,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 7,
@@ -334,7 +334,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-23T14:48:22.186741",
+      "published": "2026-05-23T22:54:52.749272",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-05-23T14:48:22.710047",
+  "timestamp": "2026-05-23T22:54:53.189573",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
