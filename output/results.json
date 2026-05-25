@@ -6,7 +6,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-24T22:59:01.899588",
+      "published": "2026-05-25T05:25:27.566837",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Is Hormel Foods (HRL) One of the 10 High Yield Stocks for Lasting Retirement Income?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hormel-foods-hrl-one-10-222050272.html",
+      "title": "Why bonds may not save investors from the next market shock: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/why-bonds-may-not-save-investors-from-the-next-market-shock-chart-of-the-day-155420061.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-24T22:59:01.746862",
+      "published": "2026-05-25T05:25:27.307032",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -55,11 +55,11 @@
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
+        "policy_surprise": 4.5,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 44.04,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "XPO’s SWOT analysis: stock gains momentum in LTL market",
-      "link": "https://www.investing.com/news/swot-analysis/xpos-swot-analysis-stock-gains-momentum-in-ltl-market-93CH-4708242",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Can Micron Stock Keep Climbing? 2 Catalysts Wall Street Is Missing.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-keep-climbing-2-180500665.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-24T22:59:02.153648",
+      "published": "2026-05-25T05:25:27.307039",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -82,21 +82,21 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
+        "policy_surprise": 4.5,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
+      "total_score": 44.04,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
-      "brief_rank": 7,
+      "brief_rank": 3,
       "ai_generated": true
     }
   ],
@@ -107,7 +107,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-24T22:59:01.899588",
+      "published": "2026-05-25T05:25:27.566837",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Is Hormel Foods (HRL) One of the 10 High Yield Stocks for Lasting Retirement Income?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hormel-foods-hrl-one-10-222050272.html",
+      "title": "Why bonds may not save investors from the next market shock: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/why-bonds-may-not-save-investors-from-the-next-market-shock-chart-of-the-day-155420061.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-24T22:59:01.746862",
+      "published": "2026-05-25T05:25:27.307032",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -156,11 +156,11 @@
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
+        "policy_surprise": 4.5,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 44.04,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "T. Rowe Price Group (TROW) – Among the 10 High Yield Stocks for Lasting Retirement Income",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-group-trow-221841573.html",
+      "title": "Can Micron Stock Keep Climbing? 2 Catalysts Wall Street Is Missing.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-keep-climbing-2-180500665.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-24T22:59:01.746865",
+      "published": "2026-05-25T05:25:27.307039",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -189,23 +189,24 @@
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
+        "policy_surprise": 4.5,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
-      "selected_for_headline": false,
+      "total_score": 44.04,
+      "selected_for_headline": true,
       "selected_for_brief": true,
+      "headline_rank": 3,
       "brief_rank": 3,
       "ai_generated": true
     },
     {
-      "title": "A massive $1 trillion hidden market is waiting to be unlocked in bitcoin, says new report",
-      "link": "https://www.coindesk.com/business/2026/05/22/ledn",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "De-risking renewable energy investments: Assessing contract design and project finance using operational wind park data",
+      "link": "https://arxiv.org/abs/2605.23400",
+      "source_id": "arxiv",
+      "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-05-24T22:59:01.899591",
+      "published": "2026-05-25T05:25:27.845059",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -215,7 +216,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 3.2,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -225,19 +226,19 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.4,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 4,
       "ai_generated": true
     },
     {
-      "title": "AI is speeding up the quantum threat to crypto, security experts warn",
-      "link": "https://www.coindesk.com/tech/2026/05/24/ai-is-speeding-up-the-quantum-threat-to-crypto-security-experts-warn",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Berkshire Hathaway’s latest stock purge sends a clear message",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-latest-stock-purge-170700156.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-24T22:59:01.899595",
+      "published": "2026-05-25T05:25:27.307024",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -264,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Crypto rails are becoming the default payment layer for AI agents, report says",
-      "link": "https://www.coindesk.com/business/2026/05/21/crypto-rails-are-becoming-the-default-payment-layer-for-ai-agents-report-says",
+      "title": "A massive $1 trillion hidden market is waiting to be unlocked in bitcoin, says new report",
+      "link": "https://www.coindesk.com/business/2026/05/22/ledn",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-24T22:59:01.899597",
+      "published": "2026-05-25T05:25:27.566840",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -296,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "XPO’s SWOT analysis: stock gains momentum in LTL market",
-      "link": "https://www.investing.com/news/swot-analysis/xpos-swot-analysis-stock-gains-momentum-in-ltl-market-93CH-4708242",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "AI is speeding up the quantum threat to crypto, security experts warn",
+      "link": "https://www.coindesk.com/tech/2026/05/24/ai-is-speeding-up-the-quantum-threat-to-crypto-security-experts-warn",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-24T22:59:02.153648",
+      "published": "2026-05-25T05:25:27.566842",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -311,7 +312,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -321,20 +322,19 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
-      "selected_for_headline": true,
+      "total_score": 42.24,
+      "selected_for_headline": false,
       "selected_for_brief": true,
-      "headline_rank": 3,
       "brief_rank": 7,
       "ai_generated": true
     },
     {
-      "title": "Tradeweb Markets’ SWOT analysis: stock faces market share challenges",
-      "link": "https://www.investing.com/news/swot-analysis/tradeweb-markets-swot-analysis-stock-faces-market-share-challenges-93CH-4708241",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Crypto rails are becoming the default payment layer for AI agents, report says",
+      "link": "https://www.coindesk.com/business/2026/05/21/crypto-rails-are-becoming-the-default-payment-layer-for-ai-agents-report-says",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-24T22:59:02.153660",
+      "published": "2026-05-25T05:25:27.566845",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -344,7 +344,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -354,7 +354,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
+      "total_score": 42.24,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-05-24T22:59:02.195389",
+  "timestamp": "2026-05-25T05:25:28.073312",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
