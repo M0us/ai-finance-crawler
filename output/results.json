@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "Crypto and the Fed: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/05/24/crypto-and-the-fed-state-of-crypto",
+      "title": "PCE, jobless claims and housing data test Fed cut hopes: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/05/25/pce-jobless-claims-and-housing-data-test-fed-cut-hopes-crypto-week-ahead",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-25T08:53:22.356310",
+      "published": "2026-05-25T16:07:38.779914",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -39,7 +39,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-05-25T08:53:22.480997",
+      "published": "2026-05-25T16:07:38.926161",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Berkshire Hathaway’s latest stock purge sends a clear message",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-latest-stock-purge-170700156.html",
+      "title": "Stocks jump while oil and dollar ease on Iran peace hopes",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-oil-dollar-slide-233702158.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-25T08:53:22.116009",
+      "published": "2026-05-25T16:07:38.551785",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,12 +102,12 @@
   ],
   "briefs": [
     {
-      "title": "Crypto and the Fed: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/05/24/crypto-and-the-fed-state-of-crypto",
+      "title": "PCE, jobless claims and housing data test Fed cut hopes: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/05/25/pce-jobless-claims-and-housing-data-test-fed-cut-hopes-crypto-week-ahead",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-25T08:53:22.356310",
+      "published": "2026-05-25T16:07:38.779914",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -140,7 +140,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-05-25T08:53:22.480997",
+      "published": "2026-05-25T16:07:38.926161",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Berkshire Hathaway’s latest stock purge sends a clear message",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-latest-stock-purge-170700156.html",
+      "title": "Stocks jump while oil and dollar ease on Iran peace hopes",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-oil-dollar-slide-233702158.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-25T08:53:22.116009",
+      "published": "2026-05-25T16:07:38.551785",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -201,12 +201,12 @@
       "ai_generated": true
     },
     {
-      "title": "TTM Technologies (TTMI): 12 Best Multibagger Stocks to Buy in 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-ttmi-12-best-200929455.html",
+      "title": "Microsoft (MSFT) was Hurt by the “SaaSmaggedon” Market Reaction",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-hurt-saasmaggedon-market-154740514.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-25T08:53:22.116023",
+      "published": "2026-05-25T16:07:38.551787",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -238,7 +238,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-25T08:53:22.356292",
+      "published": "2026-05-25T16:07:38.779922",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bitcoin trades above $77,000 as oil's 5% slide pushes Asian equities higher",
-      "link": "https://www.coindesk.com/markets/2026/05/25/bitcoin-trades-above-usd77-000-as-oil-s-5-slide-pushes-asian-equities-higher",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Germany stocks higher at close of trade; DAX up 2.03%",
+      "link": "https://www.investing.com/news/stock-market-news/germany-stocks-higher-at-close-of-trade-dax-up-203-4708604",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-25T08:53:22.356302",
+      "published": "2026-05-25T16:07:39.002238",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -280,7 +280,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -290,19 +290,19 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.0,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 6,
       "ai_generated": true
     },
     {
-      "title": "Marriott International’s SWOT analysis: stock holds steady amid positive industry trends",
-      "link": "https://www.investing.com/news/swot-analysis/marriott-internationals-swot-analysis-stock-holds-steady-amid-positive-industry-trends-93CH-4708373",
+      "title": "France stocks higher at close of trade; CAC 40 up 1.76%",
+      "link": "https://www.investing.com/news/stock-market-news/france-stocks-higher-at-close-of-trade-cac-40-up-176-4708603",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-25T08:53:22.599027",
+      "published": "2026-05-25T16:07:39.002250",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "ADB to provide $5 billion to Bangladesh as economic pressures mount",
-      "link": "https://www.investing.com/news/commodities-news/adb-to-provide-5-billion-to-bangladesh-as-economic-pressures-mount-4708372",
+      "title": "Belgium stocks higher at close of trade; BEL 20 up 1.06%",
+      "link": "https://www.investing.com/news/stock-market-news/belgium-stocks-higher-at-close-of-trade-bel-20-up-106-4708602",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-25T08:53:22.599037",
+      "published": "2026-05-25T16:07:39.002254",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-05-25T08:53:22.638757",
+  "timestamp": "2026-05-25T16:07:39.039701",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
