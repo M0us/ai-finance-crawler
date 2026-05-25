@@ -6,7 +6,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-25T16:07:38.779914",
+      "published": "2026-05-25T23:04:56.623240",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -39,7 +39,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-05-25T16:07:38.926161",
+      "published": "2026-05-25T23:04:56.817187",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Stocks jump while oil and dollar ease on Iran peace hopes",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-oil-dollar-slide-233702158.html",
+      "title": "Michael Burry says the SEC's plan to trade stocks like crypto could create a nightmare for investors",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/michael-burry-says-secs-plan-143000315.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-25T16:07:38.551785",
+      "published": "2026-05-25T23:04:56.464728",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -107,7 +107,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-25T16:07:38.779914",
+      "published": "2026-05-25T23:04:56.623240",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -140,7 +140,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-05-25T16:07:38.926161",
+      "published": "2026-05-25T23:04:56.817187",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Stocks jump while oil and dollar ease on Iran peace hopes",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-oil-dollar-slide-233702158.html",
+      "title": "Michael Burry says the SEC's plan to trade stocks like crypto could create a nightmare for investors",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/michael-burry-says-secs-plan-143000315.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-25T16:07:38.551785",
+      "published": "2026-05-25T23:04:56.464728",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -201,12 +201,12 @@
       "ai_generated": true
     },
     {
-      "title": "Microsoft (MSFT) was Hurt by the “SaaSmaggedon” Market Reaction",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-hurt-saasmaggedon-market-154740514.html",
+      "title": "Veralto Corporation Stock Outlook: Is Wall Street Bullish or Bearish?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/veralto-corporation-stock-outlook-wall-143423669.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-25T16:07:38.551787",
+      "published": "2026-05-25T23:04:56.464729",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "Hyperliquid is emerging as a challenger to traditional exchanges and prediction markets, says FalconX",
-      "link": "https://www.coindesk.com/markets/2026/05/25/hyperliquid-is-emerging-as-a-challenger-to-traditional-exchanges-and-prediction-markets-says-falconx",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Why Billionaire George Soros Is Betting Big on Talkspace Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-billionaire-george-soros-betting-140002633.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-25T16:07:38.779922",
+      "published": "2026-05-25T23:04:56.464731",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Germany stocks higher at close of trade; DAX up 2.03%",
-      "link": "https://www.investing.com/news/stock-market-news/germany-stocks-higher-at-close-of-trade-dax-up-203-4708604",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Indonesia blocks Polymarket, calling prediction market online gambling in disguise",
+      "link": "https://www.coindesk.com/policy/2026/05/25/indonesia-blocks-polymarket-calling-prediction-market-online-gambling-in-disguise",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-25T16:07:39.002238",
+      "published": "2026-05-25T23:04:56.623234",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -280,7 +280,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -290,19 +290,19 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
+      "total_score": 42.24,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 6,
       "ai_generated": true
     },
     {
-      "title": "France stocks higher at close of trade; CAC 40 up 1.76%",
-      "link": "https://www.investing.com/news/stock-market-news/france-stocks-higher-at-close-of-trade-cac-40-up-176-4708603",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Bitcoin, crypto prices tick up as US-Iran peace deal odds climb",
+      "link": "https://www.coindesk.com/markets/2026/05/25/bitcoin-crypto-prices-tick-up-as-us-iran-peace-deal-odds-climb",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-25T16:07:39.002250",
+      "published": "2026-05-25T23:04:56.623236",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -312,7 +312,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -322,19 +322,19 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
+      "total_score": 42.24,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 7,
       "ai_generated": true
     },
     {
-      "title": "Belgium stocks higher at close of trade; BEL 20 up 1.06%",
-      "link": "https://www.investing.com/news/stock-market-news/belgium-stocks-higher-at-close-of-trade-bel-20-up-106-4708602",
+      "title": "Benitec Biopharma’s SWOT analysis: gene therapy stock shows clinical promise",
+      "link": "https://www.investing.com/news/swot-analysis/benitec-biopharmas-swot-analysis-gene-therapy-stock-shows-clinical-promise-93CH-4708661",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-25T16:07:39.002254",
+      "published": "2026-05-25T23:04:57.017380",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-05-25T16:07:39.039701",
+  "timestamp": "2026-05-25T23:04:57.051147",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
