@@ -1,15 +1,15 @@
 {
   "headlines": [
     {
-      "title": "UniCredit warns Europe may struggle to contain crypto-bank crisis under MiCA rules",
-      "link": "https://www.coindesk.com/business/2026/05/28/unicredit-warns-europe-may-struggle-to-contain-crypto-bank-crisis-under-mica-rules",
+      "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
+      "link": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-28T17:07:52.537273",
+      "published": "2026-05-28T23:18:48.402887",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 6.5,
+        "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
         "relevance": 5.5,
@@ -24,9 +24,9 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 44.84,
+      "total_score": 43.04,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "A blockchain lottery plans to turn crypto gambling fees into Ethereum developer funding",
-      "link": "https://www.coindesk.com/tech/2026/05/28/a-blockchain-lottery-plans-to-turn-crypto-gambling-fees-into-ethereum-developer-funding",
+      "title": "Bitwise bets Hyperliquid could power future finance as HYPE ETFs gain traction",
+      "link": "https://www.coindesk.com/coindesk-news/2026/05/28/bitwise-bets-hyperliquid-could-power-future-finance-as-hype-etfs-gain-traction",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-28T17:07:52.537297",
+      "published": "2026-05-28T23:18:48.402908",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -72,7 +72,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-05-28T17:07:52.723729",
+      "published": "2026-05-28T23:18:48.623943",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,15 +102,15 @@
   ],
   "briefs": [
     {
-      "title": "UniCredit warns Europe may struggle to contain crypto-bank crisis under MiCA rules",
-      "link": "https://www.coindesk.com/business/2026/05/28/unicredit-warns-europe-may-struggle-to-contain-crypto-bank-crisis-under-mica-rules",
+      "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
+      "link": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-28T17:07:52.537273",
+      "published": "2026-05-28T23:18:48.402887",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 6.5,
+        "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
         "relevance": 5.5,
@@ -125,9 +125,9 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 44.84,
+      "total_score": 43.04,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "A blockchain lottery plans to turn crypto gambling fees into Ethereum developer funding",
-      "link": "https://www.coindesk.com/tech/2026/05/28/a-blockchain-lottery-plans-to-turn-crypto-gambling-fees-into-ethereum-developer-funding",
+      "title": "Bitwise bets Hyperliquid could power future finance as HYPE ETFs gain traction",
+      "link": "https://www.coindesk.com/coindesk-news/2026/05/28/bitwise-bets-hyperliquid-could-power-future-finance-as-hype-etfs-gain-traction",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-28T17:07:52.537297",
+      "published": "2026-05-28T23:18:48.402908",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -173,7 +173,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-05-28T17:07:52.723729",
+      "published": "2026-05-28T23:18:48.623943",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -201,22 +201,22 @@
       "ai_generated": true
     },
     {
-      "title": "Federal regulator pauses review of Union Pacific, Norfolk Southern’s $85 billion merger",
-      "link": "https://www.investing.com/news/stock-market-news/federal-regulator-pauses-union-pacific-norfolk-southern-merger-review-4714809",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Tesla Has a SpaceX Stake and $890 Million in Related Revenue. The Upcoming SpaceX IPO Could Be a Major Win for TSLA Stock.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-spacex-stake-890-million-153501261.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-28T17:07:52.829456",
+      "published": "2026-05-28T23:18:48.147290",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 6.5,
+        "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -226,19 +226,19 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.4,
+      "total_score": 42.24,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 4,
       "ai_generated": true
     },
     {
-      "title": "Toddlers learn by falling: Why DeFi's $20 billion TVL drop is just a market stress-test",
-      "link": "https://www.coindesk.com/business/2026/05/28/toddlers-learn-by-falling-why-defi-s-usd20-billion-tvl-drop-is-just-a-market-stress-test",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "As Micron Heeds Trump’s Call for Domestic DRAM Manufacturing, MU Stock Is Still Undervalued",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-heeds-trump-call-domestic-153421887.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-28T17:07:52.537288",
+      "published": "2026-05-28T23:18:48.147293",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Black Hills Corp director Otto sells $304,969 in common stock",
-      "link": "https://www.investing.com/news/insider-trading-news/black-hills-corp-director-otto-sells-304969-in-common-stock-93CH-4715124",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Crypto trading firm FalconX confidentially files with SEC for IPO, hires bankers",
+      "link": "https://www.coindesk.com/business/2026/05/28/crypto-trading-firm-falconx-confidentially-files-with-sec-for-ipo-hires-bankers",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-28T17:07:52.829452",
+      "published": "2026-05-28T23:18:48.402900",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -280,7 +280,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -290,19 +290,51 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
+      "total_score": 42.24,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 6,
       "ai_generated": true
     },
     {
-      "title": "Trio-Tech director Ting Hock Ming sells $286,380 in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/triotech-director-ting-hock-ming-sells-286380-in-stock-93CH-4715123",
+      "title": "Why the Ethereum Foundation is suddenly again at the center of crypto’s culture war",
+      "link": "https://www.coindesk.com/tech/2026/05/28/why-the-ethereum-foundation-is-suddenly-again-at-the-center-of-crypto-s-culture-war",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
+      "authority": 4,
+      "published": "2026-05-28T23:18:48.402903",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 5.5,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 3.04,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 1.2000000000000002
+      },
+      "total_score": 42.24,
+      "selected_for_headline": false,
+      "selected_for_brief": true,
+      "brief_rank": 7,
+      "ai_generated": true
+    },
+    {
+      "title": "Meta Platforms COO Javier Olivan sells $892,764 of Meta stock",
+      "link": "https://www.investing.com/news/insider-trading-news/meta-platforms-coo-javier-olivan-sells-892764-of-meta-stock-93CH-4715746",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-28T17:07:52.829454",
+      "published": "2026-05-28T23:18:48.730353",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -323,38 +355,6 @@
         "institutional_correlation": 1.2000000000000002
       },
       "total_score": 42.0,
-      "selected_for_headline": false,
-      "selected_for_brief": true,
-      "brief_rank": 7,
-      "ai_generated": true
-    },
-    {
-      "title": "Historical Developments in Probability Measures for Asset Pricing: From State Prices to Modern Pricing Kernels",
-      "link": "https://arxiv.org/abs/2605.27658",
-      "source_id": "arxiv",
-      "source_name": "arXiv",
-      "authority": 4,
-      "published": "2026-05-28T17:07:52.723709",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 3.2,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 40.2,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-05-28T17:07:52.873981",
+  "timestamp": "2026-05-28T23:18:48.772263",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
