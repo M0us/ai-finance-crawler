@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
-      "link": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Implied ETF Carry Rates and the Limits of Arbitrage in Segmented Bitcoin Markets",
+      "link": "https://arxiv.org/abs/2605.29309",
+      "source_id": "arxiv",
+      "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-05-28T23:18:48.402887",
+      "published": "2026-05-29T05:17:48.013325",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -16,7 +16,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 3.2,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -26,7 +26,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 2.0
       },
-      "total_score": 43.04,
+      "total_score": 43.2,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bitwise bets Hyperliquid could power future finance as HYPE ETFs gain traction",
-      "link": "https://www.coindesk.com/coindesk-news/2026/05/28/bitwise-bets-hyperliquid-could-power-future-finance-as-hype-etfs-gain-traction",
+      "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
+      "link": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-28T23:18:48.402908",
+      "published": "2026-05-29T05:17:47.667165",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Deep Learning Forecasting of the U.S. Aggregate Bond Index",
-      "link": "https://arxiv.org/abs/2605.27977",
-      "source_id": "arxiv",
-      "source_name": "arXiv",
+      "title": "Hard Disk Drives Are Critical for AI but Western Digital Stock Is Still Underappreciated Here",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hard-disk-drives-critical-ai-172658755.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-28T23:18:48.623943",
+      "published": "2026-05-29T05:17:47.374892",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -82,7 +82,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.2,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -92,7 +92,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.4,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
@@ -102,12 +102,12 @@
   ],
   "briefs": [
     {
-      "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
-      "link": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Implied ETF Carry Rates and the Limits of Arbitrage in Segmented Bitcoin Markets",
+      "link": "https://arxiv.org/abs/2605.29309",
+      "source_id": "arxiv",
+      "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-05-28T23:18:48.402887",
+      "published": "2026-05-29T05:17:48.013325",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -117,7 +117,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 3.2,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -127,7 +127,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 2.0
       },
-      "total_score": 43.04,
+      "total_score": 43.2,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bitwise bets Hyperliquid could power future finance as HYPE ETFs gain traction",
-      "link": "https://www.coindesk.com/coindesk-news/2026/05/28/bitwise-bets-hyperliquid-could-power-future-finance-as-hype-etfs-gain-traction",
+      "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
+      "link": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-28T23:18:48.402908",
+      "published": "2026-05-29T05:17:47.667165",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Deep Learning Forecasting of the U.S. Aggregate Bond Index",
-      "link": "https://arxiv.org/abs/2605.27977",
-      "source_id": "arxiv",
-      "source_name": "arXiv",
+      "title": "Hard Disk Drives Are Critical for AI but Western Digital Stock Is Still Underappreciated Here",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hard-disk-drives-critical-ai-172658755.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-28T23:18:48.623943",
+      "published": "2026-05-29T05:17:47.374892",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -183,7 +183,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.2,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -193,7 +193,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.4,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
@@ -201,12 +201,12 @@
       "ai_generated": true
     },
     {
-      "title": "Tesla Has a SpaceX Stake and $890 Million in Related Revenue. The Upcoming SpaceX IPO Could Be a Major Win for TSLA Stock.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-spacex-stake-890-million-153501261.html",
+      "title": "Dell Stock Has Soared 107%. AI Momentum Suggests More Upside Is Ahead.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-soared-107-ai-173511761.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-28T23:18:48.147290",
+      "published": "2026-05-29T05:17:47.374903",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "As Micron Heeds Trump’s Call for Domestic DRAM Manufacturing, MU Stock Is Still Undervalued",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-heeds-trump-call-domestic-153421887.html",
+      "title": "Chipotle Mexican Grill Stock: Is Wall Street Bullish or Bearish?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/chipotle-mexican-grill-stock-wall-174029139.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-28T23:18:48.147293",
+      "published": "2026-05-29T05:17:47.374905",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Crypto trading firm FalconX confidentially files with SEC for IPO, hires bankers",
-      "link": "https://www.coindesk.com/business/2026/05/28/crypto-trading-firm-falconx-confidentially-files-with-sec-for-ipo-hires-bankers",
+      "title": "Bitcoin, ether little-changed despite record stocks, falling oil and easing war fears",
+      "link": "https://www.coindesk.com/markets/2026/05/29/bitcoin-ether-little-changed-despite-record-stocks-falling-oil-and-easing-war-fears",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-28T23:18:48.402900",
+      "published": "2026-05-29T05:17:47.667160",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Why the Ethereum Foundation is suddenly again at the center of crypto’s culture war",
-      "link": "https://www.coindesk.com/tech/2026/05/28/why-the-ethereum-foundation-is-suddenly-again-at-the-center-of-crypto-s-culture-war",
+      "title": "Bitcoin's record holder supply hides a buyer drought, CryptoQuant says",
+      "link": "https://www.coindesk.com/markets/2026/05/29/bitcoin-s-record-holder-supply-hides-a-buyer-drought-cryptoquant-says",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-28T23:18:48.402903",
+      "published": "2026-05-29T05:17:47.667163",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Meta Platforms COO Javier Olivan sells $892,764 of Meta stock",
-      "link": "https://www.investing.com/news/insider-trading-news/meta-platforms-coo-javier-olivan-sells-892764-of-meta-stock-93CH-4715746",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Crypto trading firm FalconX confidentially files with SEC for IPO, hires bankers",
+      "link": "https://www.coindesk.com/business/2026/05/28/crypto-trading-firm-falconx-confidentially-files-with-sec-for-ipo-hires-bankers",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-28T23:18:48.730353",
+      "published": "2026-05-29T05:17:47.667168",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -344,7 +344,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -354,7 +354,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
+      "total_score": 42.24,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-05-28T23:18:48.772263",
+  "timestamp": "2026-05-29T05:17:48.190934",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
