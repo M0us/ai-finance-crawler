@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "62-Year-Old Retiree’s $2.4M Portfolio Could Drop to $1.1M by 80 in the Wrong Market",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/62-old-retiree-2-4m-213253801.html",
+      "title": "Uber Technologies vs. DoorDash: Which Technology Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-vs-doordash-technology-030432958.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-31T05:23:27.282026",
+      "published": "2026-05-31T08:11:53.294801",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -39,7 +39,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-31T05:23:27.681614",
+      "published": "2026-05-31T08:11:53.630297",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "U.S. says it seized about $1 billion in Iranian crypto as pressure campaign expands",
-      "link": "https://www.coindesk.com/business/2026/05/30/u-s-says-it-seized-about-usd1-billion-in-iranian-crypto-as-pressure-campaign-expands",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Will private credit infect public markets?",
+      "link": "https://www.investing.com/news/economy-news/will-private-credit-infect-public-markets-4717821",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-31T05:23:27.681617",
+      "published": "2026-05-31T08:11:54.158565",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -82,7 +82,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -92,22 +92,22 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.0,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
-      "brief_rank": 3,
+      "brief_rank": 5,
       "ai_generated": true
     }
   ],
   "briefs": [
     {
-      "title": "62-Year-Old Retiree’s $2.4M Portfolio Could Drop to $1.1M by 80 in the Wrong Market",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/62-old-retiree-2-4m-213253801.html",
+      "title": "Uber Technologies vs. DoorDash: Which Technology Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-vs-doordash-technology-030432958.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-31T05:23:27.282026",
+      "published": "2026-05-31T08:11:53.294801",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -140,7 +140,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-31T05:23:27.681614",
+      "published": "2026-05-31T08:11:53.630297",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -173,7 +173,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-31T05:23:27.681617",
+      "published": "2026-05-31T08:11:53.630300",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -194,9 +194,8 @@
         "institutional_correlation": 1.2000000000000002
       },
       "total_score": 42.24,
-      "selected_for_headline": true,
+      "selected_for_headline": false,
       "selected_for_brief": true,
-      "headline_rank": 3,
       "brief_rank": 3,
       "ai_generated": true
     },
@@ -206,7 +205,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-05-31T05:23:27.681622",
+      "published": "2026-05-31T08:11:53.630304",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,22 +232,22 @@
       "ai_generated": true
     },
     {
-      "title": "Wheat Falls into the End of the Month",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/wheat-falls-end-month-215954716.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Will private credit infect public markets?",
+      "link": "https://www.investing.com/news/economy-news/will-private-credit-infect-public-markets-4717821",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-05-31T05:23:27.282011",
+      "published": "2026-05-31T08:11:54.158565",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -258,19 +257,20 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 40.04,
-      "selected_for_headline": false,
+      "total_score": 42.0,
+      "selected_for_headline": true,
       "selected_for_brief": true,
+      "headline_rank": 3,
       "brief_rank": 5,
       "ai_generated": true
     },
     {
-      "title": "Cotton Closes Mixed on Friday",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/cotton-closes-mixed-friday-215954585.html",
+      "title": "Piper Sandler Reaffirms Overweight on Corebridge Financial (CRBG) Despite Lower Price Target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-reaffirms-overweight-corebridge-015301093.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-31T05:23:27.282019",
+      "published": "2026-05-31T08:11:53.294813",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Corn Faces Month End and Outside Pressure on Friday",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/corn-faces-month-end-outside-215954113.html",
+      "title": "Truist Lowers Xcel Energy (XEL) Price Target, Sees Utilities Benefiting From Data Center Growth",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/truist-lowers-xcel-energy-xel-015043841.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-31T05:23:27.282022",
+      "published": "2026-05-31T08:11:53.294817",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Soybeans Slip Lower into Month End",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/soybeans-slip-lower-month-end-215954237.html",
+      "title": "Susquehanna Bullish on Woodward (WWD) as Aerospace Demand Supports Long-Term Growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/susquehanna-bullish-woodward-wwd-aerospace-014759852.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-05-31T05:23:27.282024",
+      "published": "2026-05-31T08:11:53.294821",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-05-31T05:23:28.359025",
+  "timestamp": "2026-05-31T08:11:54.195330",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
