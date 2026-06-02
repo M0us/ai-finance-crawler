@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "Crypto funds suffer second-largest outflows of 2026 while XRP and HYPE attract inflows",
-      "link": "https://www.coindesk.com/markets/2026/06/01/crypto-funds-suffer-second-largest-outflows-of-2026-while-xrp-and-hype-attract-inflows",
+      "title": "Bitcoin's biggest ETF selloff yet hits $3.4 billion as AI stocks keep climbing",
+      "link": "https://www.coindesk.com/markets/2026/06/02/bitcoin-s-biggest-etf-selloff-yet-hits-usd3-4-billion-as-ai-stocks-keep-climbing",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-02T05:54:52.871593",
+      "published": "2026-06-02T09:04:05.001768",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -39,7 +39,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-06-02T05:54:56.803411",
+      "published": "2026-06-02T09:04:05.339353",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "ServiceNow Stock: Is NOW Underperforming the Technology Sector?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/servicenow-stock-now-underperforming-technology-180106114.html",
+      "title": "Why Redwire Stock Skyrocketed This Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-redwire-stock-skyrocketed-week-213820962.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-02T05:54:52.562967",
+      "published": "2026-06-02T09:04:04.757283",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,12 +102,12 @@
   ],
   "briefs": [
     {
-      "title": "Crypto funds suffer second-largest outflows of 2026 while XRP and HYPE attract inflows",
-      "link": "https://www.coindesk.com/markets/2026/06/01/crypto-funds-suffer-second-largest-outflows-of-2026-while-xrp-and-hype-attract-inflows",
+      "title": "Bitcoin's biggest ETF selloff yet hits $3.4 billion as AI stocks keep climbing",
+      "link": "https://www.coindesk.com/markets/2026/06/02/bitcoin-s-biggest-etf-selloff-yet-hits-usd3-4-billion-as-ai-stocks-keep-climbing",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-02T05:54:52.871593",
+      "published": "2026-06-02T09:04:05.001768",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -140,7 +140,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-06-02T05:54:56.803411",
+      "published": "2026-06-02T09:04:05.339353",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -173,7 +173,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-06-02T05:54:56.803417",
+      "published": "2026-06-02T09:04:05.339360",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -200,12 +200,12 @@
       "ai_generated": true
     },
     {
-      "title": "ServiceNow Stock: Is NOW Underperforming the Technology Sector?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/servicenow-stock-now-underperforming-technology-180106114.html",
+      "title": "Why Redwire Stock Skyrocketed This Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-redwire-stock-skyrocketed-week-213820962.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-02T05:54:52.562967",
+      "published": "2026-06-02T09:04:04.757283",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "Meta Has a Plan to Monetize Its AI Investments. Its Underperforming Stock Needs It Badly.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-plan-monetize-ai-investments-180002193.html",
+      "title": "Keel Infrastructure Corp. (KEEL): Leopold Aschenbrenner Is Buying This Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/keel-infrastructure-corp-keel-leopold-213945800.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-02T05:54:52.562970",
+      "published": "2026-06-02T09:04:04.757299",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "How Is S&P Global's Stock Performance Compared to Other Financial Stocks?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-globals-stock-performance-compared-185229548.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "XRP falls 4% below $1.30 as bitcoin-led market weakness pulls down majors",
+      "link": "https://www.coindesk.com/markets/2026/06/02/xrp-falls-4-below-usd1-30-as-bitcoin-led-market-weakness-pulls-down-majors",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-02T05:54:52.562973",
+      "published": "2026-06-02T09:04:05.001771",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bitcoin slide to $70,000 as stocks pause and Strategy's BTC sale weighs on crypto",
+      "title": "Bitcoin drops below $70,000 as stocks pause and Strategy's BTC sale weighs on crypto",
       "link": "https://www.coindesk.com/markets/2026/06/02/bitcoin-slide-to-usd70-000-as-stocks-pause-and-strategy-s-btc-sale-weighs-on-crypto",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-02T05:54:52.871569",
+      "published": "2026-06-02T09:04:05.001776",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,22 +329,22 @@
       "ai_generated": true
     },
     {
-      "title": "Strategy sold bitcoin in late May, and told the market in June. Here's how Polymarket bettors are fighting over when it counts.",
-      "link": "https://www.coindesk.com/markets/2026/06/02/strategy-sold-bitcoin-in-late-may-and-told-the-market-in-june-here-s-how-polymarket-bettors-are-fighting-over-when-it-counts",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Machine Learning-Based Bitcoin Trading Under Transaction Costs: Evidence From Walk-Forward Forecasting",
+      "link": "https://arxiv.org/abs/2606.00060",
+      "source_id": "arxiv",
+      "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-06-02T05:54:52.871581",
+      "published": "2026-06-02T09:04:05.339342",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 3.2,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -354,7 +354,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 40.2,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-06-02T05:54:57.358224",
+  "timestamp": "2026-06-02T09:04:05.468686",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
