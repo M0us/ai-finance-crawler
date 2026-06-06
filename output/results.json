@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "Stock Market Week Ahead: SpaceX And The Power Trend",
-      "link": "https://www.investors.com/research/investing-action-plan/stock-market-week-spacex-apple-oracle-power-trend/?src=A00220&yptr=yahoo",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
+      "link": "https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-06T14:58:24.064681",
+      "published": "2026-06-06T23:05:42.179324",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -24,9 +24,9 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 42.24,
+      "total_score": 43.04,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "A massive hiring wave reveals trading firms are no longer viewing Polymarket as a niche betting tool",
-      "link": "https://www.coindesk.com/business/2026/06/06/a-massive-hiring-wave-reveals-trading-firms-are-no-longer-viewing-polymarket-as-a-niche-betting-tool",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "5 Best Debt-Free IT Stocks to Buy Now",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-debt-free-stocks-221049781.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-06T14:58:24.360037",
+      "published": "2026-06-06T23:05:41.822484",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Are retail traders selling their bitcoin to buy the SpaceX IPO?",
-      "link": "https://www.coindesk.com/markets/2026/06/06/are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "UBS Lifts PT on Caterpillar (CAT) Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-lifts-pt-caterpillar-cat-172522857.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-06T14:58:24.360043",
+      "published": "2026-06-06T23:05:41.822491",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,12 +102,12 @@
   ],
   "briefs": [
     {
-      "title": "Stock Market Week Ahead: SpaceX And The Power Trend",
-      "link": "https://www.investors.com/research/investing-action-plan/stock-market-week-spacex-apple-oracle-power-trend/?src=A00220&yptr=yahoo",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
+      "link": "https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-06T14:58:24.064681",
+      "published": "2026-06-06T23:05:42.179324",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -125,9 +125,9 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 42.24,
+      "total_score": 43.04,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "A massive hiring wave reveals trading firms are no longer viewing Polymarket as a niche betting tool",
-      "link": "https://www.coindesk.com/business/2026/06/06/a-massive-hiring-wave-reveals-trading-firms-are-no-longer-viewing-polymarket-as-a-niche-betting-tool",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "5 Best Debt-Free IT Stocks to Buy Now",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-debt-free-stocks-221049781.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-06T14:58:24.360037",
+      "published": "2026-06-06T23:05:41.822484",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Are retail traders selling their bitcoin to buy the SpaceX IPO?",
-      "link": "https://www.coindesk.com/markets/2026/06/06/are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "UBS Lifts PT on Caterpillar (CAT) Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-lifts-pt-caterpillar-cat-172522857.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-06T14:58:24.360043",
+      "published": "2026-06-06T23:05:41.822491",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -201,44 +201,44 @@
       "ai_generated": true
     },
     {
-      "title": "Airline chiefs grapple with fuel shock, fare test at Rio summit",
-      "link": "https://www.investing.com/news/stock-market-news/airline-chiefs-grapple-with-fuel-shock-fare-test-at-rio-summit-4729564",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
+      "link": "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-06T14:58:24.538137",
+      "published": "2026-06-06T23:05:42.179309",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 4.5,
+        "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 41.6,
+      "total_score": 42.24,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 4,
       "ai_generated": true
     },
     {
-      "title": "Redwire is a Contract Success Story You’ll Regret Not Buying on the Next Dip",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-contract-success-story-ll-144142165.html",
+      "title": "UWM Holdings (UWMC) Criticized Two Harbors’ Board, Here’s What You Need to Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/uwm-holdings-uwmc-criticized-two-215901442.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-06T14:58:24.064665",
+      "published": "2026-06-06T23:05:41.822487",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -256,21 +256,21 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 40.04,
+      "total_score": 40.84,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 5,
       "ai_generated": true
     },
     {
-      "title": "'The fastest way to get rich quick is don't': Dave Ramsey's truth bomb for investors. His 3 wealth-building rules",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fastest-way-rich-quick-dont-142500389.html",
+      "title": "The Coca-Cola (KO) Explores Potential Listing in India of Hindustan Coca-Cola Holdings Pvt. Ltd.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-ko-explores-potential-172531894.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-06T14:58:24.064675",
+      "published": "2026-06-06T23:05:41.822489",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -288,21 +288,21 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 40.04,
+      "total_score": 40.84,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 6,
       "ai_generated": true
     },
     {
-      "title": "74% of home buyers would consider a 50-year mortgage — experts say making monthly payments would be key",
-      "link": "https://finance.yahoo.com/economy/policy/articles/74-home-buyers-consider-50-140000807.html",
+      "title": "‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?",
+      "link": "https://finance.yahoo.com/markets/options/articles/one-time-event-extra-money-121400095.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-06T14:58:24.064679",
+      "published": "2026-06-06T23:05:41.822477",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "SpaceX, targeting a $1.77 trillion valuation, just got a 100% property tax exemption for a planned factory in Texas",
-      "link": "https://finance.yahoo.com/economy/policy/articles/spacex-targeting-1-77-trillion-131000248.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
+      "link": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-06T14:58:24.064683",
+      "published": "2026-06-06T23:05:42.179318",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-06-06T14:58:24.582009",
+  "timestamp": "2026-06-06T23:05:42.737001",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
