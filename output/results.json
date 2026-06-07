@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says",
-      "link": "https://www.coindesk.com/tech/2026/06/07/ethereum-foundation-cuts-and-departures-aren-t-a-crisis-joe-lubin-says",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Tutor Perini (TPC) Lands A Major Federal Contract That Could Lift Its Backlog",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tutor-perini-tpc-lands-major-224117016.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-07T15:12:00.052970",
+      "published": "2026-06-07T23:06:44.575097",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Is eBay Inc. (EBAY) A Good Stock To Buy Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ebay-inc-ebay-good-stock-145946430.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "A quick review of the Ways and Means tax bills: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/06/07/a-quick-review-of-the-ways-and-means-tax-bills-state-of-crypto",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-07T15:11:59.807797",
+      "published": "2026-06-07T23:06:44.858747",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -63,16 +63,16 @@
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
-      "brief_rank": 2,
+      "brief_rank": 4,
       "ai_generated": true
     },
     {
-      "title": "Cryptocurrency exchange Bybit to open SpaceX tokenized IPO access",
-      "link": "https://www.investing.com/news/stock-market-news/cryptocurrency-exchange-bybit-to-open-spacex-tokenized-ipo-access-4729682",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Dow Jones Futures Fall As Trump Says This After Iran Attacks Israel; Market Rally Faces First Real Test",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-07T15:12:00.318139",
+      "published": "2026-06-07T23:06:44.575082",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -82,7 +82,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -92,21 +92,22 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
+      "total_score": 42.24,
       "selected_for_headline": true,
-      "selected_for_brief": false,
+      "selected_for_brief": true,
       "headline_rank": 3,
+      "brief_rank": 2,
       "ai_generated": true
     }
   ],
   "briefs": [
     {
-      "title": "Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says",
-      "link": "https://www.coindesk.com/tech/2026/06/07/ethereum-foundation-cuts-and-departures-aren-t-a-crisis-joe-lubin-says",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Tutor Perini (TPC) Lands A Major Federal Contract That Could Lift Its Backlog",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tutor-perini-tpc-lands-major-224117016.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-07T15:12:00.052970",
+      "published": "2026-06-07T23:06:44.575097",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -134,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Is eBay Inc. (EBAY) A Good Stock To Buy Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ebay-inc-ebay-good-stock-145946430.html",
+      "title": "Dow Jones Futures Fall As Trump Says This After Iran Attacks Israel; Market Rally Faces First Real Test",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-07T15:11:59.807797",
+      "published": "2026-06-07T23:06:44.575082",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -162,17 +163,17 @@
       "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
-      "headline_rank": 2,
+      "headline_rank": 3,
       "brief_rank": 2,
       "ai_generated": true
     },
     {
-      "title": "Is Exponent, Inc. (EXPO) A Good Stock To Buy Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exponent-inc-expo-good-stock-145931993.html",
+      "title": "Here is why Stantec Inc. (STN) is among the Best Water Infrastructure Stocks to Buy for Scarcity Trends",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-stantec-inc-stn-among-224158502.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-07T15:11:59.807805",
+      "published": "2026-06-07T23:06:44.575090",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -199,12 +200,12 @@
       "ai_generated": true
     },
     {
-      "title": "Is Innovative Industrial Properties, Inc. (IIPR) A Good Stock To Buy Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-inc-iipr-145909896.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "A quick review of the Ways and Means tax bills: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/06/07/a-quick-review-of-the-ways-and-means-tax-bills-state-of-crypto",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-07T15:11:59.807807",
+      "published": "2026-06-07T23:06:44.858747",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -225,18 +226,19 @@
         "institutional_correlation": 1.2000000000000002
       },
       "total_score": 42.24,
-      "selected_for_headline": false,
+      "selected_for_headline": true,
       "selected_for_brief": true,
+      "headline_rank": 2,
       "brief_rank": 4,
       "ai_generated": true
     },
     {
-      "title": "Is Ouster, Inc. (OUST) A Good Stock To Buy Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-inc-oust-good-stock-145849403.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Abra’s Bill Barhydt says Wall Street’s next crypto bet is tokenization",
+      "link": "https://www.coindesk.com/business/2026/06/07/abra-s-bill-barhydt-says-wall-street-s-next-crypto-bet-is-tokenization",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-07T15:11:59.807810",
+      "published": "2026-06-07T23:06:44.858764",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -263,18 +265,18 @@
       "ai_generated": true
     },
     {
-      "title": "Is Everpure, Inc. (P) A Good Stock To Buy Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/everpure-inc-p-good-stock-145834619.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Bitcoin near $60,000 today vs February: Institutional sentiment has flipped",
+      "link": "https://www.coindesk.com/markets/2026/06/07/bitcoin-near-usd60-000-today-vs-february-institutional-mood-is-starkly-different",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-07T15:11:59.807812",
+      "published": "2026-06-07T23:06:44.858760",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -286,27 +288,27 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 42.24,
+      "total_score": 40.84,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 6,
       "ai_generated": true
     },
     {
-      "title": "Abra’s Bill Barhydt says Wall Street’s next crypto bet is tokenization",
-      "link": "https://www.coindesk.com/business/2026/06/07/abra-s-bill-barhydt-says-wall-street-s-next-crypto-bet-is-tokenization",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Mueller Water (MWA) Gets A Quiet Target Hike As Results Stay Steady",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mueller-water-mwa-gets-quiet-224146385.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-07T15:12:00.052958",
+      "published": "2026-06-07T23:06:44.575093",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -320,25 +322,25 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 40.04,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 7,
       "ai_generated": true
     },
     {
-      "title": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
-      "link": "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Why Analysts Are Still Bullish On United Rentals (URI) Despite Macro Noise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-analysts-still-bullish-united-224128219.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-07T15:12:00.052972",
+      "published": "2026-06-07T23:06:44.575095",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -352,7 +354,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 40.04,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -360,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-06-07T15:12:00.359863",
+  "timestamp": "2026-06-07T23:06:45.087417",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
