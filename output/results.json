@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
-      "link": "https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "ETF Zoo: What Happens When Tech Eats the Entire Market?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etf-zoo-happens-tech-eats-042434120.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-07T05:44:26.441023",
+      "published": "2026-06-07T08:21:43.799880",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Is Micron (MU) One of the Best Cheap Stocks to Buy for Beginners?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-one-best-cheap-220415338.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
+      "link": "https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-07T05:44:26.228880",
+      "published": "2026-06-07T08:21:44.110582",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -57,9 +57,9 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 42.24,
+      "total_score": 43.04,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Is Sandisk Corporation (SNDK) One of the Best Cheap Stocks to Buy for Beginners?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-corporation-sndk-one-best-220422350.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Why low FX volatility may open the door to dollar hedging",
+      "link": "https://www.investing.com/news/forex-news/why-low-fx-volatility-may-open-the-door-to-dollar-hedging-4729652",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-06-07T05:44:26.228883",
+      "published": "2026-06-07T08:21:44.536850",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -82,7 +82,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -92,22 +92,22 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.0,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
-      "brief_rank": 3,
+      "brief_rank": 7,
       "ai_generated": true
     }
   ],
   "briefs": [
     {
-      "title": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
-      "link": "https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "ETF Zoo: What Happens When Tech Eats the Entire Market?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etf-zoo-happens-tech-eats-042434120.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-07T05:44:26.441023",
+      "published": "2026-06-07T08:21:43.799880",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Is Micron (MU) One of the Best Cheap Stocks to Buy for Beginners?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-one-best-cheap-220415338.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
+      "link": "https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-07T05:44:26.228880",
+      "published": "2026-06-07T08:21:44.110582",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -158,9 +158,9 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 42.24,
+      "total_score": 43.04,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Is Sandisk Corporation (SNDK) One of the Best Cheap Stocks to Buy for Beginners?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-corporation-sndk-one-best-220422350.html",
+      "title": "Is GE Vernova Stock Outperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stock-outperforming-nasdaq-052557763.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-07T05:44:26.228883",
+      "published": "2026-06-07T08:21:43.799883",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -194,19 +194,18 @@
         "institutional_correlation": 1.2000000000000002
       },
       "total_score": 42.24,
-      "selected_for_headline": true,
+      "selected_for_headline": false,
       "selected_for_brief": true,
-      "headline_rank": 3,
       "brief_rank": 3,
       "ai_generated": true
     },
     {
-      "title": "Stock Market Today, June 5: American Airlines Rises Despite Route Suspensions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-june-5-220227619.html",
+      "title": "Is Iovance Biotherapeutics, Inc. (IOVA) One of the Most Shorted Small-Cap Stocks to Buy Now?",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/iovance-biotherapeutics-inc-iova-one-001145356.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-07T05:44:26.228885",
+      "published": "2026-06-07T08:21:43.799885",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +232,12 @@
       "ai_generated": true
     },
     {
-      "title": "Is Merck & Co. (MRK) One of the Best Cheap Stocks to Buy for Beginners?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/merck-co-mrk-one-best-220431160.html",
+      "title": "Deramiocel Outlook Strengthens Capricor Therapeutics, Inc. (CAPR) as a Small-Cap Stock to Buy",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/deramiocel-outlook-strengthens-capricor-therapeutics-001228614.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-07T05:44:26.228887",
+      "published": "2026-06-07T08:21:43.799888",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -270,7 +269,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-07T05:44:26.441006",
+      "published": "2026-06-07T08:21:44.110567",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,22 +296,22 @@
       "ai_generated": true
     },
     {
-      "title": "Salesforce (CRM) Signs Definitive Agreement to Acquire Contentful",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-signs-definitive-agreement-220408908.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Why low FX volatility may open the door to dollar hedging",
+      "link": "https://www.investing.com/news/forex-news/why-low-fx-volatility-may-open-the-door-to-dollar-hedging-4729652",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-06-07T05:44:26.228871",
+      "published": "2026-06-07T08:21:44.536850",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -322,19 +321,20 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 40.04,
-      "selected_for_headline": false,
+      "total_score": 42.0,
+      "selected_for_headline": true,
       "selected_for_brief": true,
+      "headline_rank": 3,
       "brief_rank": 7,
       "ai_generated": true
     },
     {
-      "title": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
-      "link": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Is XRP About to Make Its Biggest Move Yet?",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-biggest-move-yet-025700219.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-07T05:44:26.441017",
+      "published": "2026-06-07T08:21:43.799847",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-06-07T05:44:27.165808",
+  "timestamp": "2026-06-07T08:21:44.576063",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
