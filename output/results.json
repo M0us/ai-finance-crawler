@@ -6,7 +6,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-10T16:47:26.285298",
+      "published": "2026-06-10T23:26:24.712899",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -39,7 +39,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-06-10T16:47:26.545510",
+      "published": "2026-06-10T23:26:24.949811",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq slide as CPI report lands, US-Iran truce teeters",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-june-10-dow-sp-500-nasdaq-may-cpi-report-215056384.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "BlackRock and Fidelity are quietly turning bitcoin ETFs into a two-firm market",
+      "link": "https://www.coindesk.com/markets/2026/06/10/blackrock-and-fidelity-are-quietly-turning-bitcoin-etfs-into-a-two-firm-market",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-10T16:47:25.693646",
+      "published": "2026-06-10T23:26:24.712894",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -87,12 +87,12 @@
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 3.5,
+        "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 43.64,
+      "total_score": 43.04,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
@@ -107,7 +107,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-10T16:47:26.285298",
+      "published": "2026-06-10T23:26:24.712899",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -140,7 +140,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-06-10T16:47:26.545510",
+      "published": "2026-06-10T23:26:24.949811",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq slide as CPI report lands, US-Iran truce teeters",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-june-10-dow-sp-500-nasdaq-may-cpi-report-215056384.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "BlackRock and Fidelity are quietly turning bitcoin ETFs into a two-firm market",
+      "link": "https://www.coindesk.com/markets/2026/06/10/blackrock-and-fidelity-are-quietly-turning-bitcoin-etfs-into-a-two-firm-market",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-10T16:47:25.693646",
+      "published": "2026-06-10T23:26:24.712894",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -188,12 +188,12 @@
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 3.5,
+        "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 43.64,
+      "total_score": 43.04,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
@@ -206,7 +206,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-06-10T16:47:26.545503",
+      "published": "2026-06-10T23:26:24.949806",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -238,7 +238,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-10T16:47:25.693630",
+      "published": "2026-06-10T23:26:24.505674",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Tech stocks today: OpenAI joins Anthropic, SpaceX in filing IPO paperwork, Apple stock falls after WWDC",
-      "link": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-openai-joins-anthropic-spacex-in-filing-ipo-paperwork-apple-stock-falls-after-wwdc-120420800.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Coinbase-backed Stand With Crypto calls on members to campaign against banks blocking digital asset transactions",
+      "link": "https://www.coindesk.com/business/2026/06/10/over-280-000-uk-crypto-holders-kick-off-campaign-against-banks-blocking-transactions",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-10T16:47:25.693643",
+      "published": "2026-06-10T23:26:24.712897",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Robinhood Enters This Hot, Lucrative Market. The Stock Is Jumping.",
-      "link": "https://www.investors.com/news/robinhood-stock-undewriter-hot-ipo-market/?src=A00220&yptr=yahoo",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Netomi CEO says $5 trillion AI customer experience market could boost stablecoin demand",
+      "link": "https://www.coindesk.com/business/2026/06/10/netomi-ceo-says-usd5-trillion-ai-customer-experience-market-could-boost-stablecoin-demand",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-10T16:47:25.693648",
+      "published": "2026-06-10T23:26:24.712901",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Netomi CEO says $5 trillion AI customer experience market could boost stablecoin demand",
-      "link": "https://www.coindesk.com/business/2026/06/10/netomi-ceo-says-usd5-trillion-ai-customer-experience-market-could-boost-stablecoin-demand",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "UK property market remains fragile and landlords curb rentals",
+      "link": "https://www.investing.com/news/economy-news/uk-property-market-remains-fragile-and-landlords-curb-rentals-4736375",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-06-10T16:47:26.285308",
+      "published": "2026-06-10T23:26:25.029762",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -344,7 +344,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -354,7 +354,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.0,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-06-10T16:47:26.757754",
+  "timestamp": "2026-06-10T23:26:25.069689",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
