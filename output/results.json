@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "Crypto’s next billion-dollar hacker may move at superhuman speed",
-      "link": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed",
+      "title": "Wall Street and crypto are crashing into each other as tokenized treasury markets hit $14.6 billion",
+      "link": "https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-14T08:38:22.917957",
+      "published": "2026-06-14T15:26:24.663521",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -19,14 +19,14 @@
         "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
+        "volatility_impact": 4.0,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 43.84,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -34,18 +34,18 @@
       "ai_generated": true
     },
     {
-      "title": "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
-      "link": "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "SpaceX IPO afterglow, Kevin Warsh's first Fed meeting, and a potential US-Iran deal: What to watch this week",
+      "link": "https://finance.yahoo.com/markets/article/spacex-ipo-afterglow-kevin-warshs-first-fed-meeting-and-a-potential-us-iran-deal-what-to-watch-this-week-142500418.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-14T08:38:22.917970",
+      "published": "2026-06-14T15:26:24.402862",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 3.9000000000000004,
+        "impact": 6.5,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -59,7 +59,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.64,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Wall Street is moving past crypto pilots and deeper into Ethereum, says Etherealize founder",
-      "link": "https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder",
+      "title": "Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet",
+      "link": "https://www.coindesk.com/tech/2026/06/12/aerodrome-is-turning-liquidity-into-a-prediction-market-with-its-biggest-upgrade-yet",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-14T08:38:22.917975",
+      "published": "2026-06-14T15:26:24.663509",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,12 +102,12 @@
   ],
   "briefs": [
     {
-      "title": "Crypto’s next billion-dollar hacker may move at superhuman speed",
-      "link": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed",
+      "title": "Wall Street and crypto are crashing into each other as tokenized treasury markets hit $14.6 billion",
+      "link": "https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-14T08:38:22.917957",
+      "published": "2026-06-14T15:26:24.663521",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -120,14 +120,14 @@
         "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
+        "volatility_impact": 4.0,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 43.84,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -135,18 +135,18 @@
       "ai_generated": true
     },
     {
-      "title": "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
-      "link": "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "SpaceX IPO afterglow, Kevin Warsh's first Fed meeting, and a potential US-Iran deal: What to watch this week",
+      "link": "https://finance.yahoo.com/markets/article/spacex-ipo-afterglow-kevin-warshs-first-fed-meeting-and-a-potential-us-iran-deal-what-to-watch-this-week-142500418.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-14T08:38:22.917970",
+      "published": "2026-06-14T15:26:24.402862",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 3.9000000000000004,
+        "impact": 6.5,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -160,7 +160,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.64,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Wall Street is moving past crypto pilots and deeper into Ethereum, says Etherealize founder",
-      "link": "https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder",
+      "title": "Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet",
+      "link": "https://www.coindesk.com/tech/2026/06/12/aerodrome-is-turning-liquidity-into-a-prediction-market-with-its-biggest-upgrade-yet",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-14T08:38:22.917975",
+      "published": "2026-06-14T15:26:24.663509",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -201,22 +201,22 @@
       "ai_generated": true
     },
     {
-      "title": "Starmer, Takaichi to discuss fighter jet project as UK funding questions persist",
-      "link": "https://www.investing.com/news/economy-news/starmer-takaichi-to-discuss-fighter-jet-project-as-uk-funding-questions-persist-4741065",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Crypto’s next billion-dollar hacker may move at superhuman speed",
+      "link": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-14T08:38:23.383550",
+      "published": "2026-06-14T15:26:24.663523",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -224,21 +224,21 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 2.0
+        "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 40.6,
+      "total_score": 42.24,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 4,
       "ai_generated": true
     },
     {
-      "title": "What Does the Ultra Clean CFO's Sale of Company Shares Worth $1.3 Million Mean for Investors?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-ultra-clean-cfos-sale-032157037.html",
+      "title": "Is Borr Drilling a Buy Following This Insider Purchase of 1.06 Million Shares?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/borr-drilling-buy-following-insider-150323395.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-14T08:38:22.675984",
+      "published": "2026-06-14T15:26:24.402854",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Entergy (ETR) Highlights Benefits of Fair Share Plus Framework for Customers",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/entergy-etr-highlights-benefits-fair-030911628.html",
+      "title": "Charlie Munger: Finfluencers 'mislead you on purpose' — This is how the late billionaire recommends you build wealth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/charlie-munger-finfluencers-mislead-purpose-141500769.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-14T08:38:22.675993",
+      "published": "2026-06-14T15:26:24.402864",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Constellation Energy (CEG) Unit Completes Megawatt Expansion of California Project",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/constellation-energy-ceg-unit-completes-030906195.html",
+      "title": "Average used car requires $120K in income to afford, according to the 20-4-10 rule — advisors call it a 'wealth killer'",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/average-used-car-requires-120k-140000054.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-14T08:38:22.675996",
+      "published": "2026-06-14T15:26:24.402866",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Sempra (SRE) Subsidiary Places Louisiana Connector Project in Service",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/sempra-sre-subsidiary-places-louisiana-030913618.html",
+      "title": "Bill Ackman Likes This Indirect AI Play Everyone’s Ignoring",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-likes-indirect-ai-134946464.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-14T08:38:22.675998",
+      "published": "2026-06-14T15:26:24.402867",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-06-14T08:38:23.425362",
+  "timestamp": "2026-06-14T15:26:24.915653",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
