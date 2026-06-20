@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "Swimming-American Douglass breaks 50m freestyle world record",
-      "link": "https://www.investing.com/news/general-news/swimmingamerican-douglass-breaks-50m-freestyle-world-record-4751597",
+      "title": "Bolivia’s Paz declares state of emergency over blockade crisis, paving way to deploy military",
+      "link": "https://www.investing.com/news/economy-news/bolivias-paz-declares-state-of-emergency-over-blockade-crisis-4751603",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-06-20T05:21:29.738099",
+      "published": "2026-06-20T08:18:54.570157",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -39,7 +39,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-20T05:21:29.262220",
+      "published": "2026-06-20T08:18:54.251831",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -72,7 +72,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-20T05:21:29.262237",
+      "published": "2026-06-20T08:18:54.251848",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,12 +102,12 @@
   ],
   "briefs": [
     {
-      "title": "Swimming-American Douglass breaks 50m freestyle world record",
-      "link": "https://www.investing.com/news/general-news/swimmingamerican-douglass-breaks-50m-freestyle-world-record-4751597",
+      "title": "Bolivia’s Paz declares state of emergency over blockade crisis, paving way to deploy military",
+      "link": "https://www.investing.com/news/economy-news/bolivias-paz-declares-state-of-emergency-over-blockade-crisis-4751603",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-06-20T05:21:29.738099",
+      "published": "2026-06-20T08:18:54.570157",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -140,7 +140,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-20T05:21:29.262220",
+      "published": "2026-06-20T08:18:54.251831",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -173,7 +173,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-20T05:21:29.262237",
+      "published": "2026-06-20T08:18:54.251848",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -206,7 +206,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-20T05:21:29.262232",
+      "published": "2026-06-20T08:18:54.251844",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "U.S., Qatar discuss plan to give Iran access to $6 billion in frozen funds - WSJ",
-      "link": "https://www.investing.com/news/economy-news/us-qatar-discuss-plan-to-give-iran-access-to-6-billion-in-frozen-funds--wsj-4751598",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Jim Cramer sends a stern message to SpaceX buyers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-stern-message-024700597.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-20T05:21:29.738095",
+      "published": "2026-06-20T08:18:54.085914",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -248,7 +248,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -256,21 +256,21 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 2.0
+        "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 40.6,
+      "total_score": 40.04,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 5,
       "ai_generated": true
     },
     {
-      "title": "Jim Cramer sends a stern message to SpaceX buyers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-stern-message-024700597.html",
+      "title": "Honeywell Aerospace Separation Clears Key Milestone with Board Approval",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-separation-clears-key-034036634.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-20T05:21:29.076494",
+      "published": "2026-06-20T08:18:54.085921",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Average Gas Price Drops Below $4 for First Time Since March",
-      "link": "https://finance.yahoo.com/energy/articles/average-gas-price-drops-below-221900203.html",
+      "title": "Citi Believes Abbott (ABT) Shares are Undervalued Relative to Business Segments",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/citi-believes-abbott-abt-shares-033733874.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-20T05:21:29.076502",
+      "published": "2026-06-20T08:18:54.085924",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "PE has yet to prove its AI bets to investors",
-      "link": "https://finance.yahoo.com/technology/ai/articles/pe-yet-prove-ai-bets-220208825.html",
+      "title": "UBS Trims Nike (NKE) Forecast, Cites Concerns over Upcoming Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-trims-nike-nke-forecast-033514953.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-20T05:21:29.076504",
+      "published": "2026-06-20T08:18:54.085926",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-06-20T05:21:29.779153",
+  "timestamp": "2026-06-20T08:18:54.611691",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
