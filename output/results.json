@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "SpaceX Completes $25 Bil Bond Sale. Rocket Lab Touts Space Force Mission.",
-      "link": "https://www.investors.com/news/spacex-bond-sale-25-billion-spcx-stock-space-stocks-rocket-lab-rklb-stock-space-force/?src=A00220&yptr=yahoo",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "With crypto ending the first half in the red, bitcoin's solace is it beat Strategy",
+      "link": "https://www.coindesk.com/daybook-us/2026/06/26/with-crypto-ending-the-first-half-in-the-red-bitcoin-s-solace-is-it-beat-strategy",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-26T08:27:42.416751",
+      "published": "2026-06-26T15:40:09.970708",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
-      "link": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Dyne Therapeutics vs. Viking Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/healthcare/articles/dyne-therapeutics-vs-viking-therapeutics-152548887.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-26T08:27:42.804604",
+      "published": "2026-06-26T15:40:09.616470",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -57,9 +57,9 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 2.0
+        "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 43.04,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Why is OHB stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-ohb-stock-sliding-today-93CH-4762138",
+      "title": "Levi stock hits 52-week high at 24.82 USD",
+      "link": "https://www.investing.com/news/company-news/levi-stock-hits-52week-high-at-2482-usd-93CH-4763107",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-06-26T08:27:43.366098",
+      "published": "2026-06-26T15:40:10.515107",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -94,19 +94,20 @@
       },
       "total_score": 42.0,
       "selected_for_headline": true,
-      "selected_for_brief": false,
+      "selected_for_brief": true,
       "headline_rank": 3,
+      "brief_rank": 5,
       "ai_generated": true
     }
   ],
   "briefs": [
     {
-      "title": "SpaceX Completes $25 Bil Bond Sale. Rocket Lab Touts Space Force Mission.",
-      "link": "https://www.investors.com/news/spacex-bond-sale-25-billion-spcx-stock-space-stocks-rocket-lab-rklb-stock-space-force/?src=A00220&yptr=yahoo",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "With crypto ending the first half in the red, bitcoin's solace is it beat Strategy",
+      "link": "https://www.coindesk.com/daybook-us/2026/06/26/with-crypto-ending-the-first-half-in-the-red-bitcoin-s-solace-is-it-beat-strategy",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-26T08:27:42.416751",
+      "published": "2026-06-26T15:40:09.970708",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -134,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
-      "link": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Dyne Therapeutics vs. Viking Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/healthcare/articles/dyne-therapeutics-vs-viking-therapeutics-152548887.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-26T08:27:42.804604",
+      "published": "2026-06-26T15:40:09.616470",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -157,9 +158,9 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 2.0
+        "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 43.04,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -167,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-18efc06b?siteid=yhoof2&yptr=yahoo",
+      "title": "Mortgage and refinance interest rates today, Friday, June 26, 2026: Rates relatively flat heading into the weekend",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-june-26-2026-rates-relatively-flat-heading-into-the-weekend-100000320.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-26T08:27:42.416758",
+      "published": "2026-06-26T15:40:09.616484",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -199,12 +200,12 @@
       "ai_generated": true
     },
     {
-      "title": "RUN Stock Pops as Sunrun Teams Up With Tesla, Renew Home on Data Centers",
-      "link": "https://finance.yahoo.com/energy/articles/run-stock-pops-sunrun-teams-205219953.html",
+      "title": "AI trade hits a wall amid report that OpenAI will delay IPO until 2027",
+      "link": "https://finance.yahoo.com/technology/article/ai-trade-hits-a-wall-amid-report-that-openai-will-delay-ipo-until-2027-150642366.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-26T08:27:42.416760",
+      "published": "2026-06-26T15:40:09.616488",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -231,12 +232,12 @@
       "ai_generated": true
     },
     {
-      "title": "Stock market today: Dow rises, S&P 500 and Nasdaq slip as AI jitters return ahead of Micron earnings",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-rises-sp-500-and-nasdaq-slip-as-ai-jitters-return-ahead-of-micron-earnings-230105138.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Levi stock hits 52-week high at 24.82 USD",
+      "link": "https://www.investing.com/news/company-news/levi-stock-hits-52week-high-at-2482-usd-93CH-4763107",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-06-26T08:27:42.416762",
+      "published": "2026-06-26T15:40:10.515107",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -246,7 +247,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -256,29 +257,30 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
-      "selected_for_headline": false,
+      "total_score": 42.0,
+      "selected_for_headline": true,
       "selected_for_brief": true,
+      "headline_rank": 3,
       "brief_rank": 5,
       "ai_generated": true
     },
     {
-      "title": "Amazon Stock Has Stumbled in 2026. Prime Day Could Change the Story.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-stumbled-2026-prime-204952230.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Portfolio Optimization for Commodity ETFs under Heavy-Tailed Returns",
+      "link": "https://arxiv.org/abs/2606.26625",
+      "source_id": "arxiv",
+      "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-06-26T08:27:42.416765",
+      "published": "2026-06-26T15:40:10.275022",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 3.2,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -286,31 +288,31 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 42.24,
+      "total_score": 41.0,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 6,
       "ai_generated": true
     },
     {
-      "title": "Ether, XRP and dogecoin lead a broad crypto selloff as tech stocks tumble",
-      "link": "https://www.coindesk.com/markets/2026/06/26/ether-xrp-and-dogecoin-lead-a-broad-crypto-selloff-as-tech-stocks-tumble",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "The Growing Self-Reliance of Chinese Innovation",
+      "link": "https://arxiv.org/abs/2606.26470",
+      "source_id": "arxiv",
+      "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-06-26T08:27:42.804600",
+      "published": "2026-06-26T15:40:10.275010",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 3.2,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -320,29 +322,29 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 40.2,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 7,
       "ai_generated": true
     },
     {
-      "title": "Live markets: Bitcoin rebounds to nearly $60,000. Kospi, Nikkei sink",
-      "link": "https://www.coindesk.com/tech/2026/06/26/live-markets-bitcoin-rebounds-to-nearly-usd60-000-kospi-nikkei-sink",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Too cheap to meter? A stochastic analysis of projected future fusion costs",
+      "link": "https://arxiv.org/abs/2606.26536",
+      "source_id": "arxiv",
+      "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-06-26T08:27:42.804602",
+      "published": "2026-06-26T15:40:10.275019",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 3.2,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -352,7 +354,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 40.2,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -360,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-06-26T08:27:43.404661",
+  "timestamp": "2026-06-26T15:40:10.557265",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
