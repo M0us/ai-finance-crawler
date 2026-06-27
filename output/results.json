@@ -6,7 +6,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-27T15:02:23.138691",
+      "published": "2026-06-27T23:03:38.262816",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Here's What a $50,000 Investment in SpaceX Stock Could Look Like in 10 Years, According to Billionaire Investor Ron Baron",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-50-000-investment-spacex-145000647.html",
+      "title": "Goldman Sachs Raises PT on Dynatrace (DT) Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-pt-dynatrace-221811886.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-27T15:02:22.896630",
+      "published": "2026-06-27T23:03:37.912889",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Goldman Sachs raises MakeMyTrip stock price target to $84 on growth outlook",
-      "link": "https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-makemytrip-stock-price-target-to-84-on-growth-outlook-93CH-4764037",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Morgan Stanley Raises PT on International Business Machines (IBM) Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-raises-pt-international-221804976.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-27T15:02:23.373149",
+      "published": "2026-06-27T23:03:37.912891",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -82,7 +82,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -92,11 +92,11 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
-      "brief_rank": 6,
+      "brief_rank": 3,
       "ai_generated": true
     }
   ],
@@ -107,7 +107,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-27T15:02:23.138691",
+      "published": "2026-06-27T23:03:38.262816",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Here's What a $50,000 Investment in SpaceX Stock Could Look Like in 10 Years, According to Billionaire Investor Ron Baron",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-50-000-investment-spacex-145000647.html",
+      "title": "Goldman Sachs Raises PT on Dynatrace (DT) Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-pt-dynatrace-221811886.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-27T15:02:22.896630",
+      "published": "2026-06-27T23:03:37.912889",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Is UBS Group (UBS) One of the Most Profitable Value Stocks to Invest In Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-group-ubs-one-most-144616211.html",
+      "title": "Morgan Stanley Raises PT on International Business Machines (IBM) Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-raises-pt-international-221804976.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-27T15:02:22.896646",
+      "published": "2026-06-27T23:03:37.912891",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -194,18 +194,19 @@
         "institutional_correlation": 1.2000000000000002
       },
       "total_score": 42.24,
-      "selected_for_headline": false,
+      "selected_for_headline": true,
       "selected_for_brief": true,
+      "headline_rank": 3,
       "brief_rank": 3,
       "ai_generated": true
     },
     {
-      "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
-      "link": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Scotiabank Raises PT on Datadog (DDOG) Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-raises-pt-datadog-ddog-221755577.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-27T15:02:23.138681",
+      "published": "2026-06-27T23:03:37.912893",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -232,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
-      "link": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
+      "title": "What Robinhood’s recent layoffs say about the current state of crypto investments",
+      "link": "https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-27T15:02:23.138696",
+      "published": "2026-06-27T23:03:38.262811",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -264,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Goldman Sachs raises MakeMyTrip stock price target to $84 on growth outlook",
-      "link": "https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-makemytrip-stock-price-target-to-84-on-growth-outlook-93CH-4764037",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
+      "link": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-06-27T15:02:23.373149",
+      "published": "2026-06-27T23:03:38.262814",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -279,7 +280,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -289,52 +290,19 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
-      "selected_for_headline": true,
+      "total_score": 42.24,
+      "selected_for_headline": false,
       "selected_for_brief": true,
-      "headline_rank": 3,
       "brief_rank": 6,
       "ai_generated": true
     },
     {
-      "title": "Deutsche Bank cuts Synaptics stock rating on ON acquisition deal",
-      "link": "https://www.investing.com/news/analyst-ratings/deutsche-bank-cuts-synaptics-stock-rating-on-on-acquisition-deal-93CH-4764035",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "How Many Starlink Satellites Can SpaceX Launch This Year?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/many-starlink-satellites-spacex-launch-225000937.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-06-27T15:02:23.373151",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 5.5,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 42.0,
-      "selected_for_headline": false,
-      "selected_for_brief": true,
-      "brief_rank": 7,
-      "ai_generated": true
-    },
-    {
-      "title": "Strategy's valuation has fallen below the value of its bitcoin holdings",
-      "link": "https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
-      "authority": 4,
-      "published": "2026-06-27T15:02:23.138698",
+      "published": "2026-06-27T23:03:37.912879",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -352,9 +320,41 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 2.0
+        "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 40.84,
+      "total_score": 40.04,
+      "selected_for_headline": false,
+      "selected_for_brief": true,
+      "brief_rank": 7,
+      "ai_generated": true
+    },
+    {
+      "title": "Procore Technologies (PCOR) Announces Roll-out of Connected Common Data Environment",
+      "link": "https://finance.yahoo.com/technology/articles/procore-technologies-pcor-announces-roll-221818886.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
+      "authority": 4,
+      "published": "2026-06-27T23:03:37.912886",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 3.3000000000000003,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 3.04,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 1.2000000000000002
+      },
+      "total_score": 40.04,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-06-27T15:02:23.412637",
+  "timestamp": "2026-06-27T23:03:38.674276",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
