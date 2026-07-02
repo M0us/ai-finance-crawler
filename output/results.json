@@ -1,15 +1,15 @@
 {
   "headlines": [
     {
-      "title": "Ondo Finance debuts SEC-aligned tokenized stock model with BlackRock ETF, Micron shares",
-      "link": "https://www.coindesk.com/business/2026/07/01/ondo-finance-debuts-sec-aligned-tokenized-stock-model-with-blackrock-etf-micron-shares",
+      "title": "Bitwise says STRC selloff signals crypto cycle nearing a bottom, not Strategy’s breaking point",
+      "link": "https://www.coindesk.com/markets/2026/07/02/bitwise-says-strc-selloff-signals-crypto-cycle-nearing-a-bottom-not-strategy-s-breaking-point",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-02T15:42:00.381219",
+      "published": "2026-07-02T23:09:03.500228",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 3.9000000000000004,
+        "impact": 6.5,
         "novelty": 2.7,
         "timeliness": 3.0,
         "relevance": 5.5,
@@ -24,9 +24,9 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 2.0
+        "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 43.04,
+      "total_score": 44.84,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -39,7 +39,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-07-02T15:42:00.750248",
+      "published": "2026-07-02T23:09:03.626812",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Tesla Deliveries Soar To 480,126 In Q2; But EV Giant's Stock Tumbles (Live Coverage)",
-      "link": "https://www.investors.com/news/tesla-deliveries-due-with-ev-giants-stock-near-buy-point-live-coverage/?src=A00220&yptr=yahoo",
+      "title": "Arteris Looks Like a Bubble-Proof Tech Stock Even at New All-Time Highs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arteris-looks-bubble-proof-tech-151502458.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-02T15:42:00.018268",
+      "published": "2026-07-02T23:09:03.257736",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,15 +102,15 @@
   ],
   "briefs": [
     {
-      "title": "Ondo Finance debuts SEC-aligned tokenized stock model with BlackRock ETF, Micron shares",
-      "link": "https://www.coindesk.com/business/2026/07/01/ondo-finance-debuts-sec-aligned-tokenized-stock-model-with-blackrock-etf-micron-shares",
+      "title": "Bitwise says STRC selloff signals crypto cycle nearing a bottom, not Strategy’s breaking point",
+      "link": "https://www.coindesk.com/markets/2026/07/02/bitwise-says-strc-selloff-signals-crypto-cycle-nearing-a-bottom-not-strategy-s-breaking-point",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-02T15:42:00.381219",
+      "published": "2026-07-02T23:09:03.500228",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 3.9000000000000004,
+        "impact": 6.5,
         "novelty": 2.7,
         "timeliness": 3.0,
         "relevance": 5.5,
@@ -125,9 +125,9 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 2.0
+        "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 43.04,
+      "total_score": 44.84,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -140,7 +140,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-07-02T15:42:00.750248",
+      "published": "2026-07-02T23:09:03.626812",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Tesla Deliveries Soar To 480,126 In Q2; But EV Giant's Stock Tumbles (Live Coverage)",
-      "link": "https://www.investors.com/news/tesla-deliveries-due-with-ev-giants-stock-near-buy-point-live-coverage/?src=A00220&yptr=yahoo",
+      "title": "Arteris Looks Like a Bubble-Proof Tech Stock Even at New All-Time Highs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arteris-looks-bubble-proof-tech-151502458.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-02T15:42:00.018268",
+      "published": "2026-07-02T23:09:03.257736",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -201,12 +201,12 @@
       "ai_generated": true
     },
     {
-      "title": "US Treasury sanctions over 100 ISIS-K crypto addresses that moved over $1.4 million",
-      "link": "https://www.coindesk.com/policy/2026/07/02/us-treasury-sanctions-over-100-isis-k-crypto-addresses-in-latest-enforcement-action",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Stocks Mixed on Chipmaker Weakness and Easing US Price Pressures",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mixed-chipmaker-weakness-easing-151717999.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-02T15:42:00.381204",
+      "published": "2026-07-02T23:09:03.257738",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "SBI Crypto to shut down mining pool that holds roughly 2% of Bitcoin's hashrate",
-      "link": "https://www.coindesk.com/business/2026/07/02/sbi-crypto-to-shut-down-mining-pool-that-holds-roughly-2-of-bitcoin-s-hashrate",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Ulta Beauty Stock Hits a New 52-Week Low: If It’s Not in the Buy Zone, It’s Awfully Close",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-stock-hits-52-151206847.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-02T15:42:00.381216",
+      "published": "2026-07-02T23:09:03.257740",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "JPMorgan says Strategy's bitcoin sales policy adds 'two-way risk' to crypto markets",
-      "link": "https://www.coindesk.com/markets/2026/07/02/jpmorgan-says-strategy-s-bitcoin-sales-policy-adds-two-way-risk-to-crypto-markets",
+      "title": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
+      "link": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-02T15:42:00.381222",
+      "published": "2026-07-02T23:09:03.500216",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,50 +297,18 @@
       "ai_generated": true
     },
     {
-      "title": "End-to-End Parametric Portfolio Policies for Cross-Asset Futures Timing: When Do AI Models Beat Simple Rules?",
-      "link": "https://arxiv.org/abs/2607.00475",
-      "source_id": "arxiv",
-      "source_name": "arXiv",
-      "authority": 4,
-      "published": "2026-07-02T15:42:00.750259",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 3.2,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 4.5,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 42.0,
-      "selected_for_headline": false,
-      "selected_for_brief": true,
-      "brief_rank": 7,
-      "ai_generated": true
-    },
-    {
-      "title": "U.S. payroll growth slowed sharply in June, with only 57,000 jobs added",
-      "link": "https://www.coindesk.com/markets/2026/07/02/u-s-payroll-growth-slowed-sharply-in-june-adding-only-57-000-jobs",
+      "title": "US Treasury sanctions over 100 ISIS-K crypto addresses that moved over $1.4 million",
+      "link": "https://www.coindesk.com/policy/2026/07/02/us-treasury-sanctions-over-100-isis-k-crypto-addresses-in-latest-enforcement-action",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-02T15:42:00.381224",
+      "published": "2026-07-02T23:09:03.500231",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -349,12 +317,44 @@
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 3.5,
+        "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 41.44,
+      "total_score": 42.24,
+      "selected_for_headline": false,
+      "selected_for_brief": true,
+      "brief_rank": 7,
+      "ai_generated": true
+    },
+    {
+      "title": "SBI Crypto to shut down mining pool that holds roughly 2% of Bitcoin's hashrate",
+      "link": "https://www.coindesk.com/business/2026/07/02/sbi-crypto-to-shut-down-mining-pool-that-holds-roughly-2-of-bitcoin-s-hashrate",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
+      "authority": 4,
+      "published": "2026-07-02T23:09:03.500233",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 5.5,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 3.04,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 1.2000000000000002
+      },
+      "total_score": 42.24,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-07-02T15:42:00.927930",
+  "timestamp": "2026-07-02T23:09:03.762267",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
