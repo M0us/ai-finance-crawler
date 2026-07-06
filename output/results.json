@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "Clarity and Congress's summer break: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "FedEx Is Abandoning Its Supply Chain Business. FDX Stock Investors Need the Logistics Giant to Protect Its Core Network.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fedex-abandoning-supply-chain-business-173002024.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-05T23:02:19.399575",
+      "published": "2026-07-06T05:17:46.665937",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -34,15 +34,15 @@
       "ai_generated": true
     },
     {
-      "title": "AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second Half.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-intel-crushed-nvidia-223000800.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Clarity and Congress's summer break: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-05T23:02:19.013151",
+      "published": "2026-07-06T05:17:47.136857",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 3.9000000000000004,
+        "impact": 6.5,
         "novelty": 2.7,
         "timeliness": 3.0,
         "relevance": 5.5,
@@ -59,7 +59,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 44.84,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
-      "link": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Is Equitable Holdings (EQH) A Top Extreme Value Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equitable-holdings-eqh-top-extreme-191425576.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-05T23:02:19.399585",
+      "published": "2026-07-06T05:17:46.665940",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -90,9 +90,9 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 42.24,
+      "total_score": 43.04,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
@@ -102,12 +102,12 @@
   ],
   "briefs": [
     {
-      "title": "Clarity and Congress's summer break: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "FedEx Is Abandoning Its Supply Chain Business. FDX Stock Investors Need the Logistics Giant to Protect Its Core Network.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fedex-abandoning-supply-chain-business-173002024.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-05T23:02:19.399575",
+      "published": "2026-07-06T05:17:46.665937",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -135,15 +135,15 @@
       "ai_generated": true
     },
     {
-      "title": "AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second Half.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-intel-crushed-nvidia-223000800.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Clarity and Congress's summer break: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-05T23:02:19.013151",
+      "published": "2026-07-06T05:17:47.136857",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 3.9000000000000004,
+        "impact": 6.5,
         "novelty": 2.7,
         "timeliness": 3.0,
         "relevance": 5.5,
@@ -160,7 +160,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 44.84,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
-      "link": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Is Equitable Holdings (EQH) A Top Extreme Value Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equitable-holdings-eqh-top-extreme-191425576.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-05T23:02:19.399585",
+      "published": "2026-07-06T05:17:46.665940",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -191,9 +191,9 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 42.24,
+      "total_score": 43.04,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
@@ -201,18 +201,18 @@
       "ai_generated": true
     },
     {
-      "title": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
-      "link": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
+      "title": "XRP rises 3% as $1.14 breakout turns into support test",
+      "link": "https://www.coindesk.com/markets/2026/07/06/xrp-rises-3-as-usd1-14-breakout-turns-into-support-test",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-05T23:02:19.399588",
+      "published": "2026-07-06T05:17:47.136841",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 3.9000000000000004,
+        "impact": 6.5,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -226,19 +226,19 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.64,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 4,
       "ai_generated": true
     },
     {
-      "title": "Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S.",
-      "link": "https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "AI Can't Thrive Without This Stock (Hint: It's Not Nvidia)",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-cant-thrive-without-stock-175700505.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-05T23:02:19.399592",
+      "published": "2026-07-06T05:17:46.665928",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,18 +265,18 @@
       "ai_generated": true
     },
     {
-      "title": "Dow Jones Futures: Techs Jump With Apple, SpaceX, Sandisk, Robinhood In Focus",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo",
+      "title": "Equinox Gold (EQX) Just Cleared A Major Roadblock, Is The Stock Ready To Skyrocket?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equinox-gold-eqx-just-cleared-191444301.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-05T23:02:19.013144",
+      "published": "2026-07-06T05:17:46.665942",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -290,25 +290,25 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 40.04,
+      "total_score": 42.24,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 6,
       "ai_generated": true
     },
     {
-      "title": "Here’s Why BNP Paribas Views Bentley Systems (BSY) As “Outperform” With A $40 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-bnp-paribas-views-bentley-221124667.html",
+      "title": "Lincoln National Corporation (LNC) Is One Of The Top Extreme Value Stocks To Buy Now",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lincoln-national-corporation-lnc-one-191506722.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-05T23:02:19.013154",
+      "published": "2026-07-06T05:17:46.665944",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -322,25 +322,25 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 40.04,
+      "total_score": 42.24,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 7,
       "ai_generated": true
     },
     {
-      "title": "Why Does KeyBanc Rate Netskope (NTSK) As “Overweight” With A $15 Price Target?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-does-keybanc-rate-netskope-220954552.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Ether leads crypto's hold above key levels as bitcoin steadies over $63,000",
+      "link": "https://www.coindesk.com/markets/2026/07/06/ether-leads-crypto-s-hold-above-key-levels-as-bitcoin-steadies-over-usd63-000",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-05T23:02:19.013156",
+      "published": "2026-07-06T05:17:47.136854",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -354,7 +354,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 40.04,
+      "total_score": 42.24,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-07-05T23:02:19.793438",
+  "timestamp": "2026-07-06T05:17:47.710218",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
