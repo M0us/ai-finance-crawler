@@ -6,7 +6,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-14T04:07:59.500352",
+      "published": "2026-07-14T07:08:28.832308",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Franklin Crypto CIO says crypto prices are disconnected from fundamentals",
-      "link": "https://www.coindesk.com/markets/2026/07/13/franklin-crypto-cio-says-crypto-prices-are-disconnected-from-fundamentals",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "UBS upgrades Rural Funds Group stock rating on asset sale plan",
+      "link": "https://www.investing.com/news/analyst-ratings/ubs-upgrades-rural-funds-group-stock-rating-on-asset-sale-plan-93CH-4789768",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-07-14T04:07:59.500367",
+      "published": "2026-07-14T07:08:29.237494",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -49,7 +49,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -59,7 +59,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 2.0
       },
-      "total_score": 43.04,
+      "total_score": 42.8,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -72,7 +72,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-07-14T04:07:59.738901",
+      "published": "2026-07-14T07:08:29.102997",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -107,7 +107,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-14T04:07:59.500352",
+      "published": "2026-07-14T07:08:28.832308",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Franklin Crypto CIO says crypto prices are disconnected from fundamentals",
-      "link": "https://www.coindesk.com/markets/2026/07/13/franklin-crypto-cio-says-crypto-prices-are-disconnected-from-fundamentals",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "UBS upgrades Rural Funds Group stock rating on asset sale plan",
+      "link": "https://www.investing.com/news/analyst-ratings/ubs-upgrades-rural-funds-group-stock-rating-on-asset-sale-plan-93CH-4789768",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-07-14T04:07:59.500367",
+      "published": "2026-07-14T07:08:29.237494",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -150,7 +150,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -160,7 +160,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 2.0
       },
-      "total_score": 43.04,
+      "total_score": 42.8,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -173,7 +173,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-07-14T04:07:59.738901",
+      "published": "2026-07-14T07:08:29.102997",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -206,7 +206,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-07-14T04:07:59.738913",
+      "published": "2026-07-14T07:08:29.103007",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -238,7 +238,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-07-14T04:07:59.738918",
+      "published": "2026-07-14T07:08:29.103010",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Abercrombie & Fitch (ANF): Best Quality Stocks to Buy According to Wall Street Analysts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/abercrombie-fitch-anf-best-quality-124315867.html",
+      "title": "Taiwan Semi Stock Is Approaching Fair Value Ahead of July 16. How to Play TSM Here.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semi-stock-approaching-fair-194605952.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-14T04:07:59.201514",
+      "published": "2026-07-14T07:08:28.493834",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -302,7 +302,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-14T04:07:59.500364",
+      "published": "2026-07-14T07:08:28.832310",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Trump's crypto riches loom over Clarity Act talks to ban conflicts for U.S. officials",
-      "link": "https://www.coindesk.com/policy/2026/07/13/trump-s-crypto-riches-loom-over-clarity-act-talks-to-ban-conflicts-for-u-s-officials",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "JPMorgan downgrades Pearson stock rating on valuation concerns",
+      "link": "https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-pearson-stock-rating-on-valuation-concerns-93CH-4789769",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-07-14T04:07:59.500372",
+      "published": "2026-07-14T07:08:29.237492",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -344,7 +344,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -354,7 +354,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.0,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-07-14T04:07:59.894208",
+  "timestamp": "2026-07-14T07:08:29.270175",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
