@@ -1,18 +1,18 @@
 {
   "headlines": [
     {
-      "title": "This Dividend King With a 64-Year Streak Is Beating the Market",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-king-64-streak-beating-233002886.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
+      "link": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-18T06:58:17.093529",
+      "published": "2026-07-18T14:35:05.503115",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 3.9000000000000004,
+        "impact": 6.5,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -22,11 +22,11 @@
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 4.5,
+        "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 44.04,
+      "total_score": 42.64,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
-      "link": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Should You Buy Viking Therapeutics Stock on the Dip? Wall Street Is Screaming \"Yes.\"",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-viking-therapeutics-stock-dip-135000334.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-18T06:58:17.362918",
+      "published": "2026-07-18T14:35:05.300091",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Inside Robinhood’s high-stakes bet to onboard millions of casual users onto decentralized finance",
-      "link": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
+      "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
+      "link": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-18T06:58:17.362933",
+      "published": "2026-07-18T14:35:05.503127",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,18 +102,18 @@
   ],
   "briefs": [
     {
-      "title": "This Dividend King With a 64-Year Streak Is Beating the Market",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-king-64-streak-beating-233002886.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
+      "link": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-18T06:58:17.093529",
+      "published": "2026-07-18T14:35:05.503115",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 3.9000000000000004,
+        "impact": 6.5,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -123,11 +123,11 @@
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 4.5,
+        "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 44.04,
+      "total_score": 42.64,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
-      "link": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Should You Buy Viking Therapeutics Stock on the Dip? Wall Street Is Screaming \"Yes.\"",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-viking-therapeutics-stock-dip-135000334.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-18T06:58:17.362918",
+      "published": "2026-07-18T14:35:05.300091",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Inside Robinhood’s high-stakes bet to onboard millions of casual users onto decentralized finance",
-      "link": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
+      "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
+      "link": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-18T06:58:17.362933",
+      "published": "2026-07-18T14:35:05.503127",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -201,12 +201,12 @@
       "ai_generated": true
     },
     {
-      "title": "A Monster Pile of Airline Points Is Supercharging Summer Travel",
-      "link": "https://www.wsj.com/business/airlines/airline-credit-card-points-94b0a458?siteid=yhoof2&yptr=yahoo",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "ICICI Bank Q1 2027 slides: profit surges 21%, loan growth accelerates",
+      "link": "https://www.investing.com/news/company-news/icici-bank-q1-2027-slides-profit-surges-21-loan-growth-accelerates-93CH-4799623",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-07-18T06:58:17.093517",
+      "published": "2026-07-18T14:35:05.777860",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -216,29 +216,29 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
+        "volatility_impact": 4.0,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 40.04,
+      "total_score": 41.4,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 4,
       "ai_generated": true
     },
     {
-      "title": "The No.1 Commodity Story of the Year Is Flying Under Wall Street’s Radar",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/no-1-commodity-story-flying-000000244.html",
+      "title": "CEO: SpaceX's record IPO was the space economy's opening act. Here's what comes next.",
+      "link": "https://finance.yahoo.com/technology/article/ceo-spacexs-record-ipo-was-the-space-economys-opening-act-heres-what-comes-next-140618299.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-18T06:58:17.093526",
+      "published": "2026-07-18T14:35:05.300084",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "China Could Be About to Remove Oil's Biggest Safety Net",
-      "link": "https://finance.yahoo.com/energy/articles/china-could-remove-oils-biggest-230000174.html",
+      "title": "France pulled $15B in gold from US vaults, and more European countries may follow. Is a global currency shift coming?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/france-pulled-15b-gold-us-134500746.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-18T06:58:17.093531",
+      "published": "2026-07-18T14:35:05.300093",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Lucid Group (LCID) Rockets 29% After CEO Shuts Down Bankruptcy Claims",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-group-lcid-rockets-29-205136452.html",
+      "title": "This week's AI winners and losers",
+      "link": "https://finance.yahoo.com/news/this-weeks-ai-winners-and-losers-131654035.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-18T06:58:17.093533",
+      "published": "2026-07-18T14:35:05.300094",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Stripe and Swift race to control the next generation of global payments infrastructure",
-      "link": "https://www.coindesk.com/business/2026/07/17/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Scott Bessent assures Americans Fort Knox gold is still there — then reminds them the dollar is no longer backed by it",
+      "link": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-assures-americans-fort-131500660.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-18T06:58:17.362928",
+      "published": "2026-07-18T14:35:05.300096",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-07-18T06:58:17.813211",
+  "timestamp": "2026-07-18T14:35:05.810199",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
