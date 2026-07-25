@@ -6,7 +6,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-25T04:16:25.521464",
+      "published": "2026-07-25T07:11:48.482628",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -34,36 +34,36 @@
       "ai_generated": true
     },
     {
-      "title": "Insmed chair and CEO William Lewis sells over $1.1m in company stock",
-      "link": "https://www.investing.com/news/insider-trading-news/insmed-chair-and-ceo-william-lewis-sells-over-11m-in-company-stock-93CH-4812717",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Uniswap Opens Permissioned Pools for Tokenized Funds and Equities",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/uniswap-opens-permissioned-pools-tokenized-021400526.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-25T04:16:26.298600",
+      "published": "2026-07-25T07:11:48.178869",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
+        "policy_surprise": 4.5,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 42.0,
+      "total_score": 42.64,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
-      "brief_rank": 4,
+      "brief_rank": 2,
       "ai_generated": true
     },
     {
@@ -72,7 +72,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-25T04:16:25.521452",
+      "published": "2026-07-25T07:11:48.482614",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -96,7 +96,7 @@
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
-      "brief_rank": 2,
+      "brief_rank": 3,
       "ai_generated": true
     }
   ],
@@ -107,7 +107,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-25T04:16:25.521464",
+      "published": "2026-07-25T07:11:48.482628",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -135,12 +135,45 @@
       "ai_generated": true
     },
     {
+      "title": "Uniswap Opens Permissioned Pools for Tokenized Funds and Equities",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/uniswap-opens-permissioned-pools-tokenized-021400526.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
+      "authority": 4,
+      "published": "2026-07-25T07:11:48.178869",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 3.3000000000000003,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 3.04,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 4.5,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 2.0
+      },
+      "total_score": 42.64,
+      "selected_for_headline": true,
+      "selected_for_brief": true,
+      "headline_rank": 2,
+      "brief_rank": 2,
+      "ai_generated": true
+    },
+    {
       "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
       "link": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-25T04:16:25.521452",
+      "published": "2026-07-25T07:11:48.482614",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -164,7 +197,7 @@
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
-      "brief_rank": 2,
+      "brief_rank": 3,
       "ai_generated": true
     },
     {
@@ -173,7 +206,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-25T04:16:25.521465",
+      "published": "2026-07-25T07:11:48.482631",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -196,49 +229,16 @@
       "total_score": 42.24,
       "selected_for_headline": false,
       "selected_for_brief": true,
-      "brief_rank": 3,
-      "ai_generated": true
-    },
-    {
-      "title": "Insmed chair and CEO William Lewis sells over $1.1m in company stock",
-      "link": "https://www.investing.com/news/insider-trading-news/insmed-chair-and-ceo-william-lewis-sells-over-11m-in-company-stock-93CH-4812717",
-      "source_id": "investing",
-      "source_name": "Investing.com",
-      "authority": 4,
-      "published": "2026-07-25T04:16:26.298600",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 5.5,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 42.0,
-      "selected_for_headline": true,
-      "selected_for_brief": true,
-      "headline_rank": 2,
       "brief_rank": 4,
       "ai_generated": true
     },
     {
-      "title": "US missiles hit Iran as path towards de-escalation uncertain",
-      "link": "https://www.investing.com/news/commodities-news/trump-vows-to-punish-iran-and-houthis-for-attacks-in-red-sea-4810448",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "IMAX Corp (IMAX) Rockets 11.86% on Earnings Beat, H2 Optimism",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/imax-corp-imax-rockets-11-014804578.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-25T04:16:26.298603",
+      "published": "2026-07-25T07:11:48.178874",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -248,7 +248,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -258,7 +258,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 41.6,
+      "total_score": 41.84,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 5,
@@ -270,7 +270,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-25T04:16:25.521461",
+      "published": "2026-07-25T07:11:48.482625",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -302,7 +302,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-25T04:16:25.153959",
+      "published": "2026-07-25T07:11:48.178856",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -334,7 +334,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-25T04:16:25.153970",
+      "published": "2026-07-25T07:11:48.178866",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-07-25T04:16:26.331813",
+  "timestamp": "2026-07-25T07:11:48.934032",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
