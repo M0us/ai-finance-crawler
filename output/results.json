@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "China’s CXMT surges over 500% in Shanghai debut, tops Intel in market value",
-      "link": "https://www.investing.com/news/stock-market-news/chinas-cxmt-surges-470-in-shanghai-debut-after-asias-biggest-2026-ipo-4812945",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Live updates: Ether leads crypto higher. China's gold imports surge",
+      "link": "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-27T04:42:04.378631",
+      "published": "2026-07-27T08:25:50.640981",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -16,7 +16,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 4.0,
@@ -26,7 +26,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 43.6,
+      "total_score": 43.84,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -39,7 +39,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-07-27T04:42:04.299875",
+      "published": "2026-07-27T08:25:51.053796",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Alphabet Is Getting ‘Ambitious’ With AI. Don’t Get Ambitious With GOOGL Stock.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-getting-ambitious-ai-don-173002940.html",
+      "title": "Mortgage and refinance interest rates today, Saturday, July 25, 2026: Highest rates this year",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-july-25-2026-highest-rates-this-year-100000185.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-27T04:42:03.876671",
+      "published": "2026-07-27T08:25:50.480513",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,12 +102,12 @@
   ],
   "briefs": [
     {
-      "title": "China’s CXMT surges over 500% in Shanghai debut, tops Intel in market value",
-      "link": "https://www.investing.com/news/stock-market-news/chinas-cxmt-surges-470-in-shanghai-debut-after-asias-biggest-2026-ipo-4812945",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Live updates: Ether leads crypto higher. China's gold imports surge",
+      "link": "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-27T04:42:04.378631",
+      "published": "2026-07-27T08:25:50.640981",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -117,7 +117,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 4.0,
@@ -127,7 +127,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 43.6,
+      "total_score": 43.84,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -140,7 +140,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-07-27T04:42:04.299875",
+      "published": "2026-07-27T08:25:51.053796",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -173,7 +173,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-07-27T04:42:04.299882",
+      "published": "2026-07-27T08:25:51.053804",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -200,12 +200,12 @@
       "ai_generated": true
     },
     {
-      "title": "Alphabet Is Getting ‘Ambitious’ With AI. Don’t Get Ambitious With GOOGL Stock.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-getting-ambitious-ai-don-173002940.html",
+      "title": "Mortgage and refinance interest rates today, Saturday, July 25, 2026: Highest rates this year",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-july-25-2026-highest-rates-this-year-100000185.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-07-27T04:42:03.876671",
+      "published": "2026-07-27T08:25:50.480513",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "Is NVIDIA Corporation (NVDA) A Good Stock To Buy Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-good-stock-190442460.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Crypto is the canary in the coal mine for the quantum computing threat, experts say",
+      "link": "https://www.coindesk.com/markets/2026/07/27/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-27T04:42:03.876674",
+      "published": "2026-07-27T08:25:50.640991",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "No Matter Who Wins the Smartphone and AI Chip Races, ARM Stock Still Benefits",
-      "link": "https://finance.yahoo.com/technology/ai/articles/no-matter-wins-smartphone-ai-193002317.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "2 weeks left for Clarity: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/07/26/2-weeks-left-for-clarity-state-of-crypto",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-07-27T04:42:03.876677",
+      "published": "2026-07-27T08:25:50.640999",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Mortgage and refinance interest rates today, Saturday, July 25, 2026: Highest rates this year",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-july-25-2026-highest-rates-this-year-100000185.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Why is Forte Biosciences stock surging nearly 40% today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-forte-biosciences-stock-surging-nearly-40-today-93CH-4813135",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-07-27T04:42:03.876679",
+      "published": "2026-07-27T08:25:51.138081",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -312,7 +312,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -322,19 +322,19 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.0,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 7,
       "ai_generated": true
     },
     {
-      "title": "2 weeks left for Clarity: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/07/26/2-weeks-left-for-clarity-state-of-crypto",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Phillip Securities upgrades Alphabet stock rating on AI growth",
+      "link": "https://www.investing.com/news/analyst-ratings/phillip-securities-upgrades-alphabet-stock-rating-on-ai-growth-93CH-4813131",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-07-27T04:42:04.194435",
+      "published": "2026-07-27T08:25:51.138097",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -344,7 +344,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -354,7 +354,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.0,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-07-27T04:42:04.420398",
+  "timestamp": "2026-07-27T08:25:51.179090",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
