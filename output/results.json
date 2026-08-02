@@ -6,7 +6,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-01T22:56:16.560559",
+      "published": "2026-08-02T04:28:15.997546",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -34,22 +34,22 @@
       "ai_generated": true
     },
     {
-      "title": "Soccer-Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
-      "link": "https://www.investing.com/news/world-news/soccerfifa-faces-fresh-transparency-calls-after-retreat-on-world-cup-selloff-plan-4829573",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Apple stock drops 7% as chip squeeze clouds record quarter",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-drops-7-chip-205824154.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-01T22:56:17.008885",
+      "published": "2026-08-02T04:28:15.662228",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 6.5,
+        "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -59,7 +59,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.4,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
+      "title": "Stocks boosted by tech earnings; bond yields hit multi-year highs",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-surge-yen-spotlight-013146618.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-01T22:56:16.265672",
+      "published": "2026-08-02T04:28:15.662231",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -107,7 +107,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-01T22:56:16.560559",
+      "published": "2026-08-02T04:28:15.997546",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -135,22 +135,22 @@
       "ai_generated": true
     },
     {
-      "title": "Soccer-Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
-      "link": "https://www.investing.com/news/world-news/soccerfifa-faces-fresh-transparency-calls-after-retreat-on-world-cup-selloff-plan-4829573",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Apple stock drops 7% as chip squeeze clouds record quarter",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-drops-7-chip-205824154.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-01T22:56:17.008885",
+      "published": "2026-08-02T04:28:15.662228",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 6.5,
+        "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -160,7 +160,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.4,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
+      "title": "Stocks boosted by tech earnings; bond yields hit multi-year highs",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-surge-yen-spotlight-013146618.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-01T22:56:16.265672",
+      "published": "2026-08-02T04:28:15.662231",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -201,12 +201,12 @@
       "ai_generated": true
     },
     {
-      "title": "Microsoft’s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-cybersecurity-push-could-160912618.html",
+      "title": "Ahead of SpaceX Earnings, Here's What Barchart Data Says Comes Next for SPCX Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ahead-spacex-earnings-heres-barchart-210339896.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-01T22:56:16.265676",
+      "published": "2026-08-02T04:28:15.662233",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,32 +233,32 @@
       "ai_generated": true
     },
     {
-      "title": "Visa Stock Looks Attractive After Layoffs, Strong Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-looks-attractive-layoffs-153510757.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Organon Co earnings missed by $0.50, revenue fell short of estimates",
+      "link": "https://www.investing.com/news/earnings/organon-co-earnings-missed-by-050-revenue-fell-short-of-estimates-4829668",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-08-01T22:56:16.265677",
+      "published": "2026-08-02T04:28:16.553828",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
+        "policy_surprise": 4.5,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 41.6,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 5,
@@ -270,7 +270,7 @@
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-08-01T22:56:17.008886",
+      "published": "2026-08-02T04:28:16.553839",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Warren Buffett's Berkshire Could Buy Almost Any S&P 500 Company With Its $397 Billion Cash Pile, but Keeps Waiting for a Better Price",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-could-buy-220500371.html",
+      "title": "Ares Management Corporation Q2 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ares-management-corporation-q2-2026-205640361.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-01T22:56:16.265661",
+      "published": "2026-08-02T04:28:15.662220",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Suriname's $26 Billion Oil Bet Is Finally Paying Off",
-      "link": "https://finance.yahoo.com/energy/articles/surinames-26-billion-oil-bet-210000202.html",
+      "title": "LyondellBasell Industries N.V. Q2 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lyondellbasell-industries-n-v-q2-210530506.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-01T22:56:16.265674",
+      "published": "2026-08-02T04:28:15.662235",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-08-01T22:56:17.040722",
+  "timestamp": "2026-08-02T04:28:16.589653",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
