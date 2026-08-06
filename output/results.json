@@ -1,18 +1,18 @@
 {
   "headlines": [
     {
-      "title": "Dow Jones AI Giant Microsoft Breaks Out After Earnings-Fueled Surge",
-      "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-ai-giant-microsoft-breaks-out-after-earnings-fueled-surge/?src=A00220&yptr=yahoo",
+      "title": "Why Did Western Digital Stock Crash After Earnings?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-western-digital-stock-153949542.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-06T07:35:21.050530",
+      "published": "2026-08-06T15:58:30.837220",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 6.5,
+        "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -26,7 +26,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 44.24,
+      "total_score": 43.84,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -39,7 +39,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-08-06T07:35:21.709284",
+      "published": "2026-08-06T15:58:31.487597",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
-      "link": "https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why",
+      "title": "Crypto for Advisors: Europe's crypto rules, U.S. Preview",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/08/06/crypto-for-advisors-europe-s-crypto-rules-u-s-preview",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-06T07:35:21.393326",
+      "published": "2026-08-06T15:58:31.143980",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,18 +102,18 @@
   ],
   "briefs": [
     {
-      "title": "Dow Jones AI Giant Microsoft Breaks Out After Earnings-Fueled Surge",
-      "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-ai-giant-microsoft-breaks-out-after-earnings-fueled-surge/?src=A00220&yptr=yahoo",
+      "title": "Why Did Western Digital Stock Crash After Earnings?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-western-digital-stock-153949542.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-06T07:35:21.050530",
+      "published": "2026-08-06T15:58:30.837220",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 6.5,
+        "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -127,7 +127,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 44.24,
+      "total_score": 43.84,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -140,7 +140,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-08-06T07:35:21.709284",
+      "published": "2026-08-06T15:58:31.487597",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -173,7 +173,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-08-06T07:35:21.709299",
+      "published": "2026-08-06T15:58:31.487613",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -205,7 +205,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-08-06T07:35:21.709301",
+      "published": "2026-08-06T15:58:31.487615",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -232,12 +232,12 @@
       "ai_generated": true
     },
     {
-      "title": "What Are Wheat Producers Seeing That Traders Aren't?",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/wheat-producers-seeing-traders-arent-192659960.html",
+      "title": "Oscar Health Stock Sinks Amid This Second-Half Risk",
+      "link": "https://www.investors.com/news/oscr-stock-oscar-health-q2-earnings-aca-risk-adjustment-deductibles/?src=A00220&yptr=yahoo",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-06T07:35:21.050528",
+      "published": "2026-08-06T15:58:30.837228",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -264,12 +264,12 @@
       "ai_generated": true
     },
     {
-      "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
-      "link": "https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why",
+      "title": "Crypto for Advisors: Europe's crypto rules, U.S. Preview",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/08/06/crypto-for-advisors-europe-s-crypto-rules-u-s-preview",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-06T07:35:21.393326",
+      "published": "2026-08-06T15:58:31.143980",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
-      "link": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock",
+      "title": "Free Markets and Innovation, Sort Of",
+      "link": "https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-06T07:35:21.393329",
+      "published": "2026-08-06T15:58:31.143997",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Wells Fargo cuts Insulet stock rating on attrition concerns",
-      "link": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-insulet-stock-rating-on-attrition-concerns-93CH-4840176",
+      "title": "US labor market stable; worker productivity accelerates in second quarter",
+      "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-edge-up-planned-layoffs-decline-in-july-4842291",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-08-06T07:35:21.874024",
+      "published": "2026-08-06T15:58:31.585305",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-08-06T07:35:21.915997",
+  "timestamp": "2026-08-06T15:58:31.627844",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
