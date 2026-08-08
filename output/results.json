@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "Veteran manager buys 2 ETFs as market shifts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/veteran-manager-buys-2-etfs-020300490.html",
+      "title": "Stock Market Today: Dow Sinks 464 Points, But Chip Firm Surges; Microsoft Surpasses Buy Zone (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ai-stocks-sandisk-western-digital/?src=A00220&yptr=yahoo",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-07T22:36:41.712002",
+      "published": "2026-08-08T02:56:52.175438",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -19,14 +19,14 @@
         "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
+        "volatility_impact": 4.0,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 2.0
+        "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 43.04,
+      "total_score": 43.84,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -39,7 +39,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-08-07T22:36:42.353010",
+      "published": "2026-08-08T02:56:52.738493",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -72,7 +72,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-07T22:36:42.081662",
+      "published": "2026-08-08T02:56:52.455849",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -96,18 +96,18 @@
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
-      "brief_rank": 4,
+      "brief_rank": 6,
       "ai_generated": true
     }
   ],
   "briefs": [
     {
-      "title": "Veteran manager buys 2 ETFs as market shifts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/veteran-manager-buys-2-etfs-020300490.html",
+      "title": "Stock Market Today: Dow Sinks 464 Points, But Chip Firm Surges; Microsoft Surpasses Buy Zone (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ai-stocks-sandisk-western-digital/?src=A00220&yptr=yahoo",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-07T22:36:41.712002",
+      "published": "2026-08-08T02:56:52.175438",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -120,14 +120,14 @@
         "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
+        "volatility_impact": 4.0,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 2.0
+        "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 43.04,
+      "total_score": 43.84,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -140,7 +140,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-08-07T22:36:42.353010",
+      "published": "2026-08-08T02:56:52.738493",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Is the Intel stock rally back? AlphaSpace stats to know.",
-      "link": "https://finance.yahoo.com/markets/article/is-the-intel-stock-rally-back-alphaspace-stats-to-know-145758235.html",
+      "title": "Palantir CEO drops 11-word bombshell for stock market investors",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-ceo-drops-11-word-160300224.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-07T22:36:41.712018",
+      "published": "2026-08-08T02:56:52.175422",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -200,12 +200,12 @@
       "ai_generated": true
     },
     {
-      "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
-      "link": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Goldman Sachs sees 168% upside in this controversial power stock",
+      "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-sees-168-upside-213300285.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-07T22:36:42.081662",
+      "published": "2026-08-08T02:56:52.175432",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -226,19 +226,18 @@
         "institutional_correlation": 1.2000000000000002
       },
       "total_score": 42.24,
-      "selected_for_headline": true,
+      "selected_for_headline": false,
       "selected_for_brief": true,
-      "headline_rank": 3,
       "brief_rank": 4,
       "ai_generated": true
     },
     {
-      "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
-      "link": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Macom, SiTime Jump As Chip Stocks Stage Comeback",
+      "link": "https://www.investors.com/news/technology/chip-stocks-rally-macom-sitime-diodes-rise/?src=A00220&yptr=yahoo",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-07T22:36:42.081674",
+      "published": "2026-08-08T02:56:52.175440",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +264,45 @@
       "ai_generated": true
     },
     {
-      "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
-      "link": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
+      "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
+      "link": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-07T22:36:42.081677",
+      "published": "2026-08-08T02:56:52.455849",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 5.5,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 3.04,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 1.2000000000000002
+      },
+      "total_score": 42.24,
+      "selected_for_headline": true,
+      "selected_for_brief": true,
+      "headline_rank": 3,
+      "brief_rank": 6,
+      "ai_generated": true
+    },
+    {
+      "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
+      "link": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
+      "authority": 4,
+      "published": "2026-08-08T02:56:52.455852",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -293,48 +325,16 @@
       "total_score": 42.24,
       "selected_for_headline": false,
       "selected_for_brief": true,
-      "brief_rank": 6,
-      "ai_generated": true
-    },
-    {
-      "title": "Thermo Fisher CEO Marc Casper sells $8.6m in TMO stock",
-      "link": "https://www.investing.com/news/insider-trading-news/thermo-fisher-ceo-marc-casper-sells-86m-in-tmo-stock-93CH-4847530",
-      "source_id": "investing",
-      "source_name": "Investing.com",
-      "authority": 4,
-      "published": "2026-08-07T22:36:42.613335",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 5.5,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 42.0,
-      "selected_for_headline": false,
-      "selected_for_brief": true,
       "brief_rank": 7,
       "ai_generated": true
     },
     {
-      "title": "Johnson & Johnson EVP forminard sells $4.09m in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/johnson--johnson-evp-forminard-sells-409m-in-stock-93CH-4847528",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
+      "link": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-07T22:36:42.613346",
+      "published": "2026-08-08T02:56:52.455855",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -344,7 +344,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -354,7 +354,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
+      "total_score": 42.24,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-08-07T22:36:42.655622",
+  "timestamp": "2026-08-08T02:56:52.937432",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
