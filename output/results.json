@@ -6,7 +6,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-14T22:23:29.401553",
+      "published": "2026-08-15T02:15:54.276617",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -39,7 +39,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-08-14T22:23:29.568124",
+      "published": "2026-08-15T02:15:54.708223",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Beyond SpaceX: 4 IPO Stocks Quietly Crushing The Market",
-      "link": "https://www.investors.com/news/spacex-ipo-bending-spoons-dpc-sinda-lime-neutron-holdings-stock-market/?src=A00220&yptr=yahoo",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "VICI Properties L.P. completes $1.75 billion notes offering to refinance debt",
+      "link": "https://www.investing.com/news/sec-filings/vici-properties-lp-completes-175-billion-notes-offering-to-refinance-debt-93CH-4861697",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-08-14T22:23:29.168606",
+      "published": "2026-08-15T02:15:54.859219",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -82,7 +82,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -92,11 +92,11 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.0,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
-      "brief_rank": 3,
+      "brief_rank": 7,
       "ai_generated": true
     }
   ],
@@ -107,7 +107,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-14T22:23:29.401553",
+      "published": "2026-08-15T02:15:54.276617",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -140,7 +140,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-08-14T22:23:29.568124",
+      "published": "2026-08-15T02:15:54.708223",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Beyond SpaceX: 4 IPO Stocks Quietly Crushing The Market",
-      "link": "https://www.investors.com/news/spacex-ipo-bending-spoons-dpc-sinda-lime-neutron-holdings-stock-market/?src=A00220&yptr=yahoo",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
+      "link": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-14T22:23:29.168606",
+      "published": "2026-08-15T02:15:54.276608",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -194,19 +194,18 @@
         "institutional_correlation": 1.2000000000000002
       },
       "total_score": 42.24,
-      "selected_for_headline": true,
+      "selected_for_headline": false,
       "selected_for_brief": true,
-      "headline_rank": 3,
       "brief_rank": 3,
       "ai_generated": true
     },
     {
-      "title": "Relay Therapeutics Stock Is Up Nearly 500% Over the Past Year",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/relay-therapeutics-stock-nearly-500-150003130.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
+      "link": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-14T22:23:29.168611",
+      "published": "2026-08-15T02:15:54.276620",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +232,12 @@
       "ai_generated": true
     },
     {
-      "title": "Are Wall Street Analysts Predicting Clorox Stock Will Climb or Sink?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-clorox-150756816.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
+      "link": "https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-14T22:23:29.168614",
+      "published": "2026-08-15T02:15:54.276623",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +264,12 @@
       "ai_generated": true
     },
     {
-      "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
-      "link": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
+      "title": "Israel’s largest bank to offer crypto trading with Galaxy",
+      "link": "https://www.coindesk.com/markets/2026/08/14/israel-s-largest-bank-partners-with-galaxy-for-crypto-trading",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-14T22:23:29.401564",
+      "published": "2026-08-15T02:15:54.276625",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +296,12 @@
       "ai_generated": true
     },
     {
-      "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
-      "link": "https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "VICI Properties L.P. completes $1.75 billion notes offering to refinance debt",
+      "link": "https://www.investing.com/news/sec-filings/vici-properties-lp-completes-175-billion-notes-offering-to-refinance-debt-93CH-4861697",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-08-14T22:23:29.401568",
+      "published": "2026-08-15T02:15:54.859219",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -312,7 +311,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -322,19 +321,20 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
-      "selected_for_headline": false,
+      "total_score": 42.0,
+      "selected_for_headline": true,
       "selected_for_brief": true,
+      "headline_rank": 3,
       "brief_rank": 7,
       "ai_generated": true
     },
     {
-      "title": "Israel’s largest bank to offer crypto trading with Galaxy",
-      "link": "https://www.coindesk.com/markets/2026/08/14/israel-s-largest-bank-partners-with-galaxy-for-crypto-trading",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Morningstar executive chairman Joseph Mansueto sells over $2.9M in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/morningstar-executive-chairman-joseph-mansueto-sells-over-29m-in-stock-93CH-4861694",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-08-14T22:23:29.401570",
+      "published": "2026-08-15T02:15:54.859228",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -344,7 +344,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -354,7 +354,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.0,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-08-14T22:23:29.792676",
+  "timestamp": "2026-08-15T02:15:54.898889",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
