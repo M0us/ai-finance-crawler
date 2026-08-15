@@ -6,7 +6,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-15T02:15:54.276617",
+      "published": "2026-08-15T05:20:29.248443",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Diffusion Models in Finance: A Survey",
-      "link": "https://arxiv.org/abs/2608.12583",
-      "source_id": "arxiv",
-      "source_name": "arXiv",
+      "title": "Could HCA Healthcare, Inc. (HCA) Stock Rebound After Guidance Cuts and Payer Pressure?",
+      "link": "https://finance.yahoo.com/healthcare/articles/could-hca-healthcare-inc-hca-221733771.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-15T02:15:54.708223",
+      "published": "2026-08-15T05:20:29.074007",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -49,7 +49,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.2,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -59,7 +59,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.4,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "VICI Properties L.P. completes $1.75 billion notes offering to refinance debt",
-      "link": "https://www.investing.com/news/sec-filings/vici-properties-lp-completes-175-billion-notes-offering-to-refinance-debt-93CH-4861697",
+      "title": "Angel Studios CEO Neal Harmon buys $125k in company stock",
+      "link": "https://www.investing.com/news/insider-trading-news/angel-studios-ceo-neal-harmon-buys-125k-in-company-stock-93CH-4861740",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-08-15T02:15:54.859219",
+      "published": "2026-08-15T05:20:29.589863",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -107,7 +107,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-15T02:15:54.276617",
+      "published": "2026-08-15T05:20:29.248443",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Diffusion Models in Finance: A Survey",
-      "link": "https://arxiv.org/abs/2608.12583",
-      "source_id": "arxiv",
-      "source_name": "arXiv",
+      "title": "Could HCA Healthcare, Inc. (HCA) Stock Rebound After Guidance Cuts and Payer Pressure?",
+      "link": "https://finance.yahoo.com/healthcare/articles/could-hca-healthcare-inc-hca-221733771.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-15T02:15:54.708223",
+      "published": "2026-08-15T05:20:29.074007",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -150,7 +150,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.2,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -160,7 +160,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.4,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -173,7 +173,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-15T02:15:54.276608",
+      "published": "2026-08-15T05:20:29.248435",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -205,7 +205,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-15T02:15:54.276620",
+      "published": "2026-08-15T05:20:29.248446",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -237,7 +237,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-15T02:15:54.276623",
+      "published": "2026-08-15T05:20:29.248449",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -269,7 +269,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-15T02:15:54.276625",
+      "published": "2026-08-15T05:20:29.248451",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -296,12 +296,12 @@
       "ai_generated": true
     },
     {
-      "title": "VICI Properties L.P. completes $1.75 billion notes offering to refinance debt",
-      "link": "https://www.investing.com/news/sec-filings/vici-properties-lp-completes-175-billion-notes-offering-to-refinance-debt-93CH-4861697",
+      "title": "Angel Studios CEO Neal Harmon buys $125k in company stock",
+      "link": "https://www.investing.com/news/insider-trading-news/angel-studios-ceo-neal-harmon-buys-125k-in-company-stock-93CH-4861740",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-08-15T02:15:54.859219",
+      "published": "2026-08-15T05:20:29.589863",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Morningstar executive chairman Joseph Mansueto sells over $2.9M in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/morningstar-executive-chairman-joseph-mansueto-sells-over-29m-in-stock-93CH-4861694",
+      "title": "Live Oak Bancshares CEO James Mahan sells $858k in company stock",
+      "link": "https://www.investing.com/news/insider-trading-news/live-oak-bancshares-ceo-james-mahan-sells-858k-in-company-stock-93CH-4861739",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-08-15T02:15:54.859228",
+      "published": "2026-08-15T05:20:29.589866",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-08-15T02:15:54.898889",
+  "timestamp": "2026-08-15T05:20:29.628971",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
