@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "Dell Stock Scores Price-Target Hike After Breakout",
-      "link": "https://www.investors.com/news/technology/dell-stock-scores-price-target-hike-after-breakout/?src=A00220&yptr=yahoo",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "With Fed mum on next move, investors look to earnings to keep stocks afloat",
+      "link": "https://www.investing.com/news/economy-news/with-fed-mum-on-next-move-investors-look-to-earnings-to-keep-stocks-afloat-4861978",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-08-16T05:22:37.568947",
+      "published": "2026-08-16T13:53:51.402531",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -16,7 +16,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -26,7 +26,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 44.84,
+      "total_score": 44.6,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
-      "link": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Why US boomers seriously need to prepare for a stock market crash before it’s too late — 3 red flags and what to do now",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-us-boomers-seriously-prepare-121500467.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-16T05:22:37.868133",
+      "published": "2026-08-16T13:53:50.687318",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -52,14 +52,14 @@
         "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
+        "volatility_impact": 4.0,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 4.5,
+        "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 2.0
+        "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 44.84,
+      "total_score": 43.84,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -72,7 +72,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-16T05:22:37.868126",
+      "published": "2026-08-16T13:53:50.934713",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,12 +102,12 @@
   ],
   "briefs": [
     {
-      "title": "Dell Stock Scores Price-Target Hike After Breakout",
-      "link": "https://www.investors.com/news/technology/dell-stock-scores-price-target-hike-after-breakout/?src=A00220&yptr=yahoo",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "With Fed mum on next move, investors look to earnings to keep stocks afloat",
+      "link": "https://www.investing.com/news/economy-news/with-fed-mum-on-next-move-investors-look-to-earnings-to-keep-stocks-afloat-4861978",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-08-16T05:22:37.568947",
+      "published": "2026-08-16T13:53:51.402531",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -117,7 +117,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -127,7 +127,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 44.84,
+      "total_score": 44.6,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
-      "link": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Why US boomers seriously need to prepare for a stock market crash before it’s too late — 3 red flags and what to do now",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-us-boomers-seriously-prepare-121500467.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-16T05:22:37.868133",
+      "published": "2026-08-16T13:53:50.687318",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -153,14 +153,14 @@
         "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
+        "volatility_impact": 4.0,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 4.5,
+        "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 2.0
+        "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 44.84,
+      "total_score": 43.84,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -173,7 +173,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-16T05:22:37.868126",
+      "published": "2026-08-16T13:53:50.934713",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -201,12 +201,12 @@
       "ai_generated": true
     },
     {
-      "title": "SanDisk CEO reveals what's next after explosive 3,150% stock rally",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-ceo-reveals-whats-next-013700105.html",
+      "title": "Nvidia, ASML Lead Five Stocks Near Buy Points With Roaring Growth",
+      "link": "https://www.investors.com/news/nvidia-stock-asml-avnet-cve-nue-buy-points-bulls-take-charge/?src=A00220&yptr=yahoo",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-16T05:22:37.568933",
+      "published": "2026-08-16T13:53:50.687315",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "The $120 billion market for coveted pre-IPO stock enters its scaling era",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/120-billion-market-coveted-pre-214440693.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
+      "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
+      "link": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-16T05:22:37.568945",
+      "published": "2026-08-16T13:53:50.934696",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -270,7 +270,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-16T05:22:37.868118",
+      "published": "2026-08-16T13:53:50.934711",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Kearny Financial director Leopold Montanaro buys $45,152 in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/kearny-financial-director-leopold-montanaro-buys-45152-in-stock-93CH-4861911",
+      "title": "Paysign CEO Mark Newcomer sells $1.78m in common stock",
+      "link": "https://www.investing.com/news/insider-trading-news/paysign-ceo-mark-newcomer-sells-178m-in-common-stock-93CH-4861980",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-08-16T05:22:38.330474",
+      "published": "2026-08-16T13:53:51.402526",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,18 +329,18 @@
       "ai_generated": true
     },
     {
-      "title": "Neuroone Medical earnings missed by $0.10, revenue fell short of estimates",
-      "link": "https://www.investing.com/news/earnings/neuroone-medical-earnings-missed-by-010-revenue-fell-short-of-estimates-4861910",
+      "title": "Landmark Bancorp director Kohlrus buys $31,767 in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/landmark-bancorp-director-kohlrus-buys-31767-in-stock-93CH-4861979",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-08-16T05:22:38.330476",
+      "published": "2026-08-16T13:53:51.402529",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -350,11 +350,11 @@
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 4.5,
+        "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 41.6,
+      "total_score": 42.0,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-08-16T05:22:38.369867",
+  "timestamp": "2026-08-16T13:53:51.441455",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
