@@ -6,7 +6,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-16T22:21:29.574565",
+      "published": "2026-08-17T02:21:55.693464",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -39,7 +39,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-16T22:21:29.376121",
+      "published": "2026-08-17T02:21:55.271016",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index down 4.29%",
-      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-429-4862013",
+      "title": "Coastal Financial CEO Eric Sprink buys $444,500 in company stock",
+      "link": "https://www.investing.com/news/insider-trading-news/coastal-financial-ceo-eric-sprink-buys-444500-in-company-stock-93CH-4862071",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-08-16T22:21:29.945104",
+      "published": "2026-08-17T02:21:56.110304",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -107,7 +107,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-16T22:21:29.574565",
+      "published": "2026-08-17T02:21:55.693464",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -140,7 +140,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-16T22:21:29.376121",
+      "published": "2026-08-17T02:21:55.271016",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
+      "title": "NOW Stock Has Rebounded Over 54% — Why ServiceNow’s Rally Could Have Further Room to Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/now-stock-rebounded-over-54-150002323.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-16T22:21:29.376134",
+      "published": "2026-08-17T02:21:55.271032",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -205,7 +205,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-16T22:21:29.574554",
+      "published": "2026-08-17T02:21:55.693452",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -237,7 +237,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-16T22:21:29.574568",
+      "published": "2026-08-17T02:21:55.693467",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -269,7 +269,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-08-16T22:21:29.574573",
+      "published": "2026-08-17T02:21:55.693471",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -296,12 +296,12 @@
       "ai_generated": true
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index down 4.29%",
-      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-429-4862013",
+      "title": "Coastal Financial CEO Eric Sprink buys $444,500 in company stock",
+      "link": "https://www.investing.com/news/insider-trading-news/coastal-financial-ceo-eric-sprink-buys-444500-in-company-stock-93CH-4862071",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-08-16T22:21:29.945104",
+      "published": "2026-08-17T02:21:56.110304",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,22 +329,22 @@
       "ai_generated": true
     },
     {
-      "title": "Scholastic EVP, pres. CBG Sasha Quinton sells over $1.2m in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/scholastic-evp-pres-cbg-sasha-quinton-sells-over-12m-in-stock-93CH-4862008",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "53-year-old lawn and garden giant faces Chapter 11, liquidation",
+      "link": "https://finance.yahoo.com/small-business/articles/53-old-lawn-garden-giant-153300199.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-08-16T22:21:29.945108",
+      "published": "2026-08-17T02:21:55.271025",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -354,7 +354,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
+      "total_score": 40.04,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-08-16T22:21:29.986754",
+  "timestamp": "2026-08-17T02:21:56.147298",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
