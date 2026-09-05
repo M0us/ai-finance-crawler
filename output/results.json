@@ -6,7 +6,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-09-05T05:31:22.483290",
+      "published": "2026-09-05T08:45:44.963153",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -34,18 +34,18 @@
       "ai_generated": true
     },
     {
-      "title": "AI Data Center Boom Pushes U.S. Power Equipment to the Breaking Point",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-boom-pushes-220000299.html",
+      "title": "Planet Labs vs. Snowflake: Evaluating the Better High-Growth Stock to Buy for 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-vs-snowflake-evaluating-040902490.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-05T05:31:22.048484",
+      "published": "2026-09-05T08:45:44.591955",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 6.5,
+        "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -59,7 +59,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.64,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Gevo director Patrick Gruber sells $5,671 in company stock",
-      "link": "https://www.investing.com/news/insider-trading-news/gevo-director-patrick-gruber-sells-5671-in-company-stock-93CH-4890162",
+      "title": "Foxconn says third quarter to outperform market expectations on AI strength",
+      "link": "https://www.investing.com/news/stock-market-news/foxconn-says-third-quarter-to-outperform-market-expectations-on-ai-strength-4890181",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-09-05T05:31:22.941829",
+      "published": "2026-09-05T08:45:45.301501",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -107,7 +107,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-09-05T05:31:22.483290",
+      "published": "2026-09-05T08:45:44.963153",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -135,18 +135,18 @@
       "ai_generated": true
     },
     {
-      "title": "AI Data Center Boom Pushes U.S. Power Equipment to the Breaking Point",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-boom-pushes-220000299.html",
+      "title": "Planet Labs vs. Snowflake: Evaluating the Better High-Growth Stock to Buy for 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-vs-snowflake-evaluating-040902490.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-05T05:31:22.048484",
+      "published": "2026-09-05T08:45:44.591955",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 6.5,
+        "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -160,7 +160,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.64,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "XRP Ledger has fewer active accounts, but bigger trades and more value",
+      "title": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
       "link": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-09-05T05:31:22.483279",
+      "published": "2026-09-05T08:45:44.963140",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -205,7 +205,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-09-05T05:31:22.483293",
+      "published": "2026-09-05T08:45:44.963156",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -237,7 +237,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-09-05T05:31:22.483296",
+      "published": "2026-09-05T08:45:44.963159",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -264,12 +264,12 @@
       "ai_generated": true
     },
     {
-      "title": "Gevo director Patrick Gruber sells $5,671 in company stock",
-      "link": "https://www.investing.com/news/insider-trading-news/gevo-director-patrick-gruber-sells-5671-in-company-stock-93CH-4890162",
+      "title": "Foxconn says third quarter to outperform market expectations on AI strength",
+      "link": "https://www.investing.com/news/stock-market-news/foxconn-says-third-quarter-to-outperform-market-expectations-on-ai-strength-4890181",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-09-05T05:31:22.941829",
+      "published": "2026-09-05T08:45:45.301501",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,22 +297,22 @@
       "ai_generated": true
     },
     {
-      "title": "Beta bionics CEO Sean Saint sells $113,258 in company stock",
-      "link": "https://www.investing.com/news/insider-trading-news/beta-bionics-ceo-sean-saint-sells-113258-in-company-stock-93CH-4890161",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "OpenAI Declares “AGI Era” With Astra Launch. Anthropic’s Fable 5.1 More Than Doubled Its Predecessor’s Science Score. MSFT and AMZN Both Win, but One Has A Slight Edge",
+      "link": "https://finance.yahoo.com/technology/ai/articles/openai-declares-agi-era-astra-041130711.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-05T05:31:22.941837",
+      "published": "2026-09-05T08:45:44.591967",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -322,19 +322,19 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
+      "total_score": 40.04,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 7,
       "ai_generated": true
     },
     {
-      "title": "Wheat Faces Thursday Losses on Putin Comments",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/wheat-faces-thursday-losses-putin-215523026.html",
+      "title": "RBC Raised Adobe’s Target Before an “In-Line” Quarter — Because Its Peers Got More Expensive",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-raised-adobe-target-line-040411681.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-05T05:31:22.048495",
+      "published": "2026-09-05T08:45:44.591970",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-09-05T05:31:22.981676",
+  "timestamp": "2026-09-05T08:45:45.344393",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
