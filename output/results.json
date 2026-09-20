@@ -6,7 +6,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-09-19T23:56:14.454167",
+      "published": "2026-09-20T05:58:10.968184",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Prudential (PRU) Is Leaving Emerging Markets, And This $185M Sale Proves It",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prudential-pru-leaving-emerging-markets-201350497.html",
+      "title": "Why DataMEDS’ Acquisition Does Not Seem to Be Very Bullish for MEDS Stock at This Point",
+      "link": "https://finance.yahoo.com/healthcare/articles/why-datameds-acquisition-does-not-221116776.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-19T23:56:14.254033",
+      "published": "2026-09-20T05:58:10.641598",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4908121",
+      "title": "US Treasury’s Bessent, China’s He to launch talks on AI, trade, critical minerals",
+      "link": "https://www.investing.com/news/stock-market-news/us-treasurys-bessent-chinas-he-to-launch-talks-on-ai-trade-critical-minerals-4908142",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-09-19T23:56:14.693867",
+      "published": "2026-09-20T05:58:11.473711",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -96,7 +96,7 @@
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
-      "brief_rank": 3,
+      "brief_rank": 4,
       "ai_generated": true
     }
   ],
@@ -107,7 +107,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-09-19T23:56:14.454167",
+      "published": "2026-09-20T05:58:10.968184",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Prudential (PRU) Is Leaving Emerging Markets, And This $185M Sale Proves It",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prudential-pru-leaving-emerging-markets-201350497.html",
+      "title": "Why DataMEDS’ Acquisition Does Not Seem to Be Very Bullish for MEDS Stock at This Point",
+      "link": "https://finance.yahoo.com/healthcare/articles/why-datameds-acquisition-does-not-221116776.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-19T23:56:14.254033",
+      "published": "2026-09-20T05:58:10.641598",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -168,12 +168,44 @@
       "ai_generated": true
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4908121",
+      "title": "The SEC Greenlights Tokenized Stocks... With Caveats",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/sec-greenlights-tokenized-stocks-caveats-220732726.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
+      "authority": 4,
+      "published": "2026-09-20T05:58:10.641607",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 5.5,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 3.04,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 1.2000000000000002
+      },
+      "total_score": 42.24,
+      "selected_for_headline": false,
+      "selected_for_brief": true,
+      "brief_rank": 3,
+      "ai_generated": true
+    },
+    {
+      "title": "US Treasury’s Bessent, China’s He to launch talks on AI, trade, critical minerals",
+      "link": "https://www.investing.com/news/stock-market-news/us-treasurys-bessent-chinas-he-to-launch-talks-on-ai-trade-critical-minerals-4908142",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-09-19T23:56:14.693867",
+      "published": "2026-09-20T05:58:11.473711",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -197,7 +229,39 @@
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
-      "brief_rank": 3,
+      "brief_rank": 4,
+      "ai_generated": true
+    },
+    {
+      "title": "Bitcoin holds above $80,000 as ETF inflows revive institutional demand",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-80000-as-etf-inflows-revive-institutional-demand-4908141",
+      "source_id": "investing",
+      "source_name": "Investing.com",
+      "authority": 4,
+      "published": "2026-09-20T05:58:11.473714",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 3.3000000000000003,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 2.8000000000000003,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 2.0
+      },
+      "total_score": 40.6,
+      "selected_for_headline": false,
+      "selected_for_brief": true,
+      "brief_rank": 5,
       "ai_generated": true
     },
     {
@@ -206,71 +270,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-19T23:56:14.254022",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 40.04,
-      "selected_for_headline": false,
-      "selected_for_brief": true,
-      "brief_rank": 4,
-      "ai_generated": true
-    },
-    {
-      "title": "Nashville’s Traffic Nightmare Is Now a $9.2B Ferrovial (FER)-Led Project",
-      "link": "https://finance.yahoo.com/real-estate/articles/nashville-traffic-nightmare-now-9-202041295.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
-      "authority": 4,
-      "published": "2026-09-19T23:56:14.254028",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 40.04,
-      "selected_for_headline": false,
-      "selected_for_brief": true,
-      "brief_rank": 5,
-      "ai_generated": true
-    },
-    {
-      "title": "IDEXX (IDXX) Bets an AI Scribe Can Sell More Pet Diagnostics",
-      "link": "https://finance.yahoo.com/technology/ai/articles/idexx-idxx-bets-ai-scribe-201730587.html",
-      "source_id": "yahoo",
-      "source_name": "Yahoo Finance",
-      "authority": 4,
-      "published": "2026-09-19T23:56:14.254031",
+      "published": "2026-09-20T05:58:10.641586",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Interactive Brokers (IBKR) Turns Every Revenue Dollar Into 77 Cents of Pretax Profit",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-ibkr-turns-every-200932877.html",
+      "title": "Wheat Faces Pressure on Friday",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/wheat-faces-pressure-friday-222923465.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-19T23:56:14.254036",
+      "published": "2026-09-20T05:58:10.641602",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Corn Faces Pressure into the Weekend",
+      "link": "https://finance.yahoo.com/news/corn-faces-pressure-weekend-222923016.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-19T23:56:14.454159",
+      "published": "2026-09-20T05:58:10.641604",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-09-19T23:56:14.732269",
+  "timestamp": "2026-09-20T05:58:11.511092",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
