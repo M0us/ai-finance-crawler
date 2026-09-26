@@ -6,7 +6,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-26T06:00:29.800826",
+      "published": "2026-09-26T09:40:12.709764",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -39,7 +39,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-09-26T06:00:29.982577",
+      "published": "2026-09-26T09:40:13.102334",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Medpace CEO August Troendle sells $27.4m in company stock",
-      "link": "https://www.investing.com/news/insider-trading-news/medpace-ceo-august-troendle-sells-274m-in-company-stock-93CH-4918460",
+      "title": "Proto Labs CFO Daniel Schumacher sells $476,604 in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/proto-labs-cfo-daniel-schumacher-sells-476604-in-stock-93CH-4918493",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-09-26T06:00:30.250235",
+      "published": "2026-09-26T09:40:14.089467",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -107,7 +107,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-26T06:00:29.800826",
+      "published": "2026-09-26T09:40:12.709764",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -140,7 +140,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-26T06:00:29.800834",
+      "published": "2026-09-26T09:40:12.709771",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -172,7 +172,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-09-26T06:00:29.982577",
+      "published": "2026-09-26T09:40:13.102334",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -205,7 +205,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-09-26T06:00:29.982582",
+      "published": "2026-09-26T09:40:13.102336",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -232,12 +232,12 @@
       "ai_generated": true
     },
     {
-      "title": "Medpace CEO August Troendle sells $27.4m in company stock",
-      "link": "https://www.investing.com/news/insider-trading-news/medpace-ceo-august-troendle-sells-274m-in-company-stock-93CH-4918460",
+      "title": "Proto Labs CFO Daniel Schumacher sells $476,604 in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/proto-labs-cfo-daniel-schumacher-sells-476604-in-stock-93CH-4918493",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-09-26T06:00:30.250235",
+      "published": "2026-09-26T09:40:14.089467",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,44 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bitcoin holds near $84,000 as rising bond yields offset regulatory progress",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-84000-as-rising-bond-yields-offset-regulatory-progress-4918445",
-      "source_id": "investing",
-      "source_name": "Investing.com",
-      "authority": 4,
-      "published": "2026-09-26T06:00:30.250240",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 5.5,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 42.0,
-      "selected_for_headline": false,
-      "selected_for_brief": true,
-      "brief_rank": 6,
-      "ai_generated": true
-    },
-    {
       "title": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
       "link": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-26T06:00:29.800831",
+      "published": "2026-09-26T09:40:12.709769",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -325,7 +293,7 @@
       "total_score": 40.84,
       "selected_for_headline": false,
       "selected_for_brief": true,
-      "brief_rank": 7,
+      "brief_rank": 6,
       "ai_generated": true
     },
     {
@@ -334,7 +302,39 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-26T06:00:29.800817",
+      "published": "2026-09-26T09:40:12.709757",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 3.3000000000000003,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 3.04,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 1.2000000000000002
+      },
+      "total_score": 40.04,
+      "selected_for_headline": false,
+      "selected_for_brief": true,
+      "brief_rank": 7,
+      "ai_generated": true
+    },
+    {
+      "title": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
+      "authority": 4,
+      "published": "2026-09-26T09:40:12.709766",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-09-26T06:00:30.290688",
+  "timestamp": "2026-09-26T09:40:14.151684",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
