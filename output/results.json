@@ -6,7 +6,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-26T17:21:18.302607",
+      "published": "2026-09-27T00:19:11.256398",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -39,7 +39,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-09-26T17:21:18.592854",
+      "published": "2026-09-27T00:19:11.601243",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -72,7 +72,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-26T17:21:18.302611",
+      "published": "2026-09-27T00:19:11.256405",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -107,7 +107,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-26T17:21:18.302607",
+      "published": "2026-09-27T00:19:11.256398",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -140,7 +140,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-26T17:21:18.302611",
+      "published": "2026-09-27T00:19:11.256405",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -173,7 +173,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-09-26T17:21:18.592854",
+      "published": "2026-09-27T00:19:11.601243",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -206,7 +206,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-26T17:21:18.302610",
+      "published": "2026-09-27T00:19:11.256403",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -238,7 +238,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-26T17:21:18.302597",
+      "published": "2026-09-27T00:19:11.256390",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -270,7 +270,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-26T17:21:18.302609",
+      "published": "2026-09-27T00:19:11.256401",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -302,7 +302,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-09-26T17:21:18.592864",
+      "published": "2026-09-27T00:19:11.601252",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -334,7 +334,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-09-26T17:21:18.592866",
+      "published": "2026-09-27T00:19:11.601255",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-09-26T17:21:19.042604",
+  "timestamp": "2026-09-27T00:19:12.126960",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
