@@ -1,45 +1,12 @@
 {
   "headlines": [
     {
-      "title": "Jobs report, inflation data to test US rate path, economic strength",
-      "link": "https://www.investing.com/news/economy-news/jobs-report-inflation-data-to-test-us-rate-path-economic-strength-4918909",
-      "source_id": "investing",
-      "source_name": "Investing.com",
-      "authority": 4,
-      "published": "2026-09-27T10:19:48.065631",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 5.5,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 3.5,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 43.4,
-      "selected_for_headline": true,
-      "selected_for_brief": true,
-      "headline_rank": 1,
-      "brief_rank": 1,
-      "ai_generated": true
-    },
-    {
       "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
       "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-27T10:19:47.585354",
+      "published": "2026-09-27T17:54:16.792880",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -62,8 +29,8 @@
       "total_score": 42.64,
       "selected_for_headline": true,
       "selected_for_brief": true,
-      "headline_rank": 2,
-      "brief_rank": 2,
+      "headline_rank": 1,
+      "brief_rank": 1,
       "ai_generated": true
     },
     {
@@ -72,7 +39,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-09-27T10:19:47.801386",
+      "published": "2026-09-27T17:54:16.931024",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -95,19 +62,17 @@
       "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
-      "headline_rank": 3,
-      "brief_rank": 4,
+      "headline_rank": 2,
+      "brief_rank": 3,
       "ai_generated": true
-    }
-  ],
-  "briefs": [
+    },
     {
-      "title": "Jobs report, inflation data to test US rate path, economic strength",
-      "link": "https://www.investing.com/news/economy-news/jobs-report-inflation-data-to-test-us-rate-path-economic-strength-4918909",
+      "title": "What are the bond yield effects on European equities? UBS answers",
+      "link": "https://www.investing.com/news/stock-market-news/what-are-the-bond-yield-effects-on-european-equities-ubs-answers-4919062",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-09-27T10:19:48.065631",
+      "published": "2026-09-27T17:54:17.320744",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -122,25 +87,27 @@
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 3.5,
+        "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 43.4,
+      "total_score": 42.0,
       "selected_for_headline": true,
       "selected_for_brief": true,
-      "headline_rank": 1,
-      "brief_rank": 1,
+      "headline_rank": 3,
+      "brief_rank": 4,
       "ai_generated": true
-    },
+    }
+  ],
+  "briefs": [
     {
       "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
       "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-27T10:19:47.585354",
+      "published": "2026-09-27T17:54:16.792880",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -163,8 +130,8 @@
       "total_score": 42.64,
       "selected_for_headline": true,
       "selected_for_brief": true,
-      "headline_rank": 2,
-      "brief_rank": 2,
+      "headline_rank": 1,
+      "brief_rank": 1,
       "ai_generated": true
     },
     {
@@ -173,7 +140,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-27T10:19:47.585361",
+      "published": "2026-09-27T17:54:16.792887",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -196,7 +163,7 @@
       "total_score": 42.24,
       "selected_for_headline": false,
       "selected_for_brief": true,
-      "brief_rank": 3,
+      "brief_rank": 2,
       "ai_generated": true
     },
     {
@@ -205,7 +172,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-09-27T10:19:47.801386",
+      "published": "2026-09-27T17:54:16.931024",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -228,17 +195,50 @@
       "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
+      "headline_rank": 2,
+      "brief_rank": 3,
+      "ai_generated": true
+    },
+    {
+      "title": "What are the bond yield effects on European equities? UBS answers",
+      "link": "https://www.investing.com/news/stock-market-news/what-are-the-bond-yield-effects-on-european-equities-ubs-answers-4919062",
+      "source_id": "investing",
+      "source_name": "Investing.com",
+      "authority": 4,
+      "published": "2026-09-27T17:54:17.320744",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 5.5,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 2.8000000000000003,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 1.2000000000000002
+      },
+      "total_score": 42.0,
+      "selected_for_headline": true,
+      "selected_for_brief": true,
       "headline_rank": 3,
       "brief_rank": 4,
       "ai_generated": true
     },
     {
-      "title": "Sezzle director Bryan Hunt buys $28,965 in company stock",
-      "link": "https://www.investing.com/news/insider-trading-news/sezzle-director-bryan-hunt-buys-28965-in-company-stock-93CH-4918904",
+      "title": "Neostellar capital chairman Klein buys $39,550 in common stock",
+      "link": "https://www.investing.com/news/insider-trading-news/neostellar-capital-chairman-klein-buys-39550-in-common-stock-93CH-4919056",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-09-27T10:19:48.065644",
+      "published": "2026-09-27T17:54:17.320748",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -270,7 +270,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-27T10:19:47.585359",
+      "published": "2026-09-27T17:54:16.792885",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -302,7 +302,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-27T10:19:47.585345",
+      "published": "2026-09-27T17:54:16.792874",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -334,7 +334,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-09-27T10:19:47.585357",
+      "published": "2026-09-27T17:54:16.792883",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-09-27T10:19:48.107024",
+  "timestamp": "2026-09-27T17:54:17.361187",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
