@@ -6,7 +6,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-02T06:53:24.235031",
+      "published": "2026-10-02T10:50:55.411320",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -39,7 +39,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-10-02T06:53:23.973646",
+      "published": "2026-10-02T10:50:55.229660",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -72,7 +72,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-10-02T06:53:24.709305",
+      "published": "2026-10-02T10:50:55.634676",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -107,7 +107,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-02T06:53:24.235031",
+      "published": "2026-10-02T10:50:55.411320",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -140,7 +140,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-10-02T06:53:23.973646",
+      "published": "2026-10-02T10:50:55.229660",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -173,7 +173,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-10-02T06:53:24.709305",
+      "published": "2026-10-02T10:50:55.634676",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -206,7 +206,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-10-02T06:53:23.973652",
+      "published": "2026-10-02T10:50:55.229667",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
+      "title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
+      "link": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-02T06:53:24.235044",
+      "published": "2026-10-02T10:50:55.411303",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
-      "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+      "title": "Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions",
+      "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-02T06:53:24.235046",
+      "published": "2026-10-02T10:50:55.411312",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -302,7 +302,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-10-02T06:53:24.709310",
+      "published": "2026-10-02T10:50:55.634683",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Oil dips as traders weigh U.S.-Iran tensions against supply recovery",
-      "link": "https://www.investing.com/news/commodities-news/oil-holds-gains-as-us-weighs-more-middle-east-military-presence-4928800",
+      "title": "Why is Better Home & Finance stock rallying 5% today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-better-home--finance-stock-rallying-5-today-93CH-4929413",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-02T06:53:24.914954",
+      "published": "2026-10-02T10:50:55.771110",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-10-02T06:53:24.947641",
+  "timestamp": "2026-10-02T10:50:55.810552",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
