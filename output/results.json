@@ -6,7 +6,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-10-04T06:42:59.797835",
+      "published": "2026-10-04T10:51:25.791462",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -39,7 +39,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-04T06:43:00.138299",
+      "published": "2026-10-04T10:51:26.112403",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bitcoin holds near $85,000 as SEC clears first 3x leveraged crypto ETPs",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-85000-as-sec-clears-first-3x-leveraged-crypto-etps-4930906",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
+      "link": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-10-04T06:43:01.109346",
+      "published": "2026-10-04T10:51:25.791469",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -82,7 +82,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -92,11 +92,11 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
-      "brief_rank": 5,
+      "brief_rank": 2,
       "ai_generated": true
     }
   ],
@@ -107,7 +107,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-10-04T06:42:59.797835",
+      "published": "2026-10-04T10:51:25.791462",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -140,7 +140,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-10-04T06:42:59.797842",
+      "published": "2026-10-04T10:51:25.791469",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -161,8 +161,9 @@
         "institutional_correlation": 1.2000000000000002
       },
       "total_score": 42.24,
-      "selected_for_headline": false,
+      "selected_for_headline": true,
       "selected_for_brief": true,
+      "headline_rank": 3,
       "brief_rank": 2,
       "ai_generated": true
     },
@@ -172,7 +173,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-04T06:43:00.138299",
+      "published": "2026-10-04T10:51:26.112403",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -205,7 +206,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-04T06:43:00.138305",
+      "published": "2026-10-04T10:51:26.112408",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -232,68 +233,35 @@
       "ai_generated": true
     },
     {
-      "title": "Bitcoin holds near $85,000 as SEC clears first 3x leveraged crypto ETPs",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-85000-as-sec-clears-first-3x-leveraged-crypto-etps-4930906",
+      "title": "Like a ’vertical roller coaster’: Simulating flight FZ1073’s sudden plunge",
+      "link": "https://www.investing.com/news/stock-market-news/like-a-vertical-roller-coaster-simulating-flight-fz1073s-sudden-plunge-4930921",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-04T06:43:01.109346",
+      "published": "2026-10-04T10:51:26.848911",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
         "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
+        "volatility_impact": 4.0,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
-      "selected_for_headline": true,
-      "selected_for_brief": true,
-      "headline_rank": 3,
-      "brief_rank": 5,
-      "ai_generated": true
-    },
-    {
-      "title": "Citi explains why home improvement stocks are lagging in 2026",
-      "link": "https://www.investing.com/news/stock-market-news/citi-explains-why-home-improvement-stocks-are-lagging-in-2026-4930904",
-      "source_id": "investing",
-      "source_name": "Investing.com",
-      "authority": 4,
-      "published": "2026-10-04T06:43:01.109351",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 5.5,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 42.0,
+      "total_score": 41.4,
       "selected_for_headline": false,
       "selected_for_brief": true,
-      "brief_rank": 6,
+      "brief_rank": 5,
       "ai_generated": true
     },
     {
@@ -302,7 +270,39 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-10-04T06:42:59.797840",
+      "published": "2026-10-04T10:51:25.791467",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 3.3000000000000003,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 3.04,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 2.0
+      },
+      "total_score": 40.84,
+      "selected_for_headline": false,
+      "selected_for_brief": true,
+      "brief_rank": 6,
+      "ai_generated": true
+    },
+    {
+      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+      "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
+      "authority": 4,
+      "published": "2026-10-04T10:51:26.112390",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
-      "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html",
+      "source_id": "yahoo",
+      "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-10-04T06:43:00.138286",
+      "published": "2026-10-04T10:51:25.791450",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -352,9 +352,9 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 2.0
+        "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 40.84,
+      "total_score": 40.04,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-10-04T06:43:01.145674",
+  "timestamp": "2026-10-04T10:51:26.886169",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
