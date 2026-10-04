@@ -6,7 +6,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-10-03T17:32:12.596281",
+      "published": "2026-10-04T00:22:53.262507",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -39,7 +39,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-03T17:32:12.843296",
+      "published": "2026-10-04T00:22:53.536996",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Raven Raises at $90M Valuation From CMCC Global and Coinbase Ventures for Prediction Markets",
-      "link": "https://www.investing.com/news/press-releases/raven-raises-at-90m-valuation-from-cmcc-global-and-coinbase-ventures-for-prediction-markets-4930857",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4930887",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-03T17:32:13.205159",
+      "published": "2026-10-04T00:22:53.971885",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -107,7 +107,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-10-03T17:32:12.596281",
+      "published": "2026-10-04T00:22:53.262507",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -140,7 +140,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-10-03T17:32:12.596286",
+      "published": "2026-10-04T00:22:53.262514",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -172,7 +172,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-03T17:32:12.843296",
+      "published": "2026-10-04T00:22:53.536996",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -205,7 +205,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-03T17:32:12.843300",
+      "published": "2026-10-04T00:22:53.537005",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -232,12 +232,12 @@
       "ai_generated": true
     },
     {
-      "title": "Raven Raises at $90M Valuation From CMCC Global and Coinbase Ventures for Prediction Markets",
-      "link": "https://www.investing.com/news/press-releases/raven-raises-at-90m-valuation-from-cmcc-global-and-coinbase-ventures-for-prediction-markets-4930857",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4930887",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-03T17:32:13.205159",
+      "published": "2026-10-04T00:22:53.971885",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -270,7 +270,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-10-03T17:32:12.596285",
+      "published": "2026-10-04T00:22:53.262512",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -302,7 +302,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-03T17:32:12.843283",
+      "published": "2026-10-04T00:22:53.536977",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -334,7 +334,7 @@
       "source_id": "yahoo",
       "source_name": "Yahoo Finance",
       "authority": 4,
-      "published": "2026-10-03T17:32:12.596274",
+      "published": "2026-10-04T00:22:53.262496",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-10-03T17:32:13.239695",
+  "timestamp": "2026-10-04T00:22:54.013738",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
