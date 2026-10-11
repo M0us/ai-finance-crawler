@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
-      "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+      "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-11T11:09:58.075081",
+      "published": "2026-10-11T18:21:32.784996",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Ligand Pharma CLO Andrew Reardon sells $1.52 million in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/ligand-pharma-clo-andrew-reardon-sells-152-million-in-stock-93CH-4942581",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+      "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-11T11:09:58.820127",
+      "published": "2026-10-11T18:21:32.784979",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -49,7 +49,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -59,11 +59,11 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
-      "brief_rank": 3,
+      "brief_rank": 2,
       "ai_generated": true
     },
     {
@@ -72,7 +72,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-11T11:09:58.075079",
+      "published": "2026-10-11T18:21:32.785000",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -96,18 +96,18 @@
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
-      "brief_rank": 2,
+      "brief_rank": 3,
       "ai_generated": true
     }
   ],
   "briefs": [
     {
-      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
-      "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+      "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-11T11:09:58.075081",
+      "published": "2026-10-11T18:21:32.784996",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -135,12 +135,45 @@
       "ai_generated": true
     },
     {
+      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+      "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
+      "authority": 4,
+      "published": "2026-10-11T18:21:32.784979",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 5.5,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 3.04,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 1.2000000000000002
+      },
+      "total_score": 42.24,
+      "selected_for_headline": true,
+      "selected_for_brief": true,
+      "headline_rank": 2,
+      "brief_rank": 2,
+      "ai_generated": true
+    },
+    {
       "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
       "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-11T11:09:58.075079",
+      "published": "2026-10-11T18:21:32.785000",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -164,39 +197,6 @@
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
-      "brief_rank": 2,
-      "ai_generated": true
-    },
-    {
-      "title": "Ligand Pharma CLO Andrew Reardon sells $1.52 million in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/ligand-pharma-clo-andrew-reardon-sells-152-million-in-stock-93CH-4942581",
-      "source_id": "investing",
-      "source_name": "Investing.com",
-      "authority": 4,
-      "published": "2026-10-11T11:09:58.820127",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 5.5,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 42.0,
-      "selected_for_headline": true,
-      "selected_for_brief": true,
-      "headline_rank": 2,
       "brief_rank": 3,
       "ai_generated": true
     },
@@ -206,7 +206,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-11T11:09:58.075070",
+      "published": "2026-10-11T18:21:32.784998",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,44 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+      "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
+      "link": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-11T11:09:58.075083",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 4.0,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 41.64,
-      "selected_for_headline": false,
-      "selected_for_brief": true,
-      "brief_rank": 5,
-      "ai_generated": true
-    },
-    {
-      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
-      "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
-      "authority": 4,
-      "published": "2026-10-11T11:09:58.075084",
+      "published": "2026-10-11T18:21:32.784993",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -293,16 +261,48 @@
       "total_score": 40.04,
       "selected_for_headline": false,
       "selected_for_brief": true,
+      "brief_rank": 5,
+      "ai_generated": true
+    },
+    {
+      "title": "Onemednet CFO Robert Golden sells $55,290 in shares",
+      "link": "https://www.investing.com/news/insider-trading-news/onemednet-cfo-robert-golden-sells-55290-in-shares-93CH-4942798",
+      "source_id": "investing",
+      "source_name": "Investing.com",
+      "authority": 4,
+      "published": "2026-10-11T18:21:33.107268",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 3.3000000000000003,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 2.8000000000000003,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 1.2000000000000002
+      },
+      "total_score": 39.8,
+      "selected_for_headline": false,
+      "selected_for_brief": true,
       "brief_rank": 6,
       "ai_generated": true
     },
     {
-      "title": "Yemen’s Houthis renew warning over Saudi airports after deadly Riyadh attack",
+      "title": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13",
       "link": "https://www.investing.com/news/commodities-news/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-4942575",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-11T11:09:58.820117",
+      "published": "2026-10-11T18:21:33.107275",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Mueller Water Products director Healy buys $29,927 in shares",
-      "link": "https://www.investing.com/news/insider-trading-news/mueller-water-products-director-healy-buys-29927-in-shares-93CH-4942580",
+      "title": "Iran rejects U.S. stance on Hormuz as Trump weighs strikes over Riyadh attacks",
+      "link": "https://www.investing.com/news/economy-news/trump-weighs-renewed-iran-strikes-as-saudi-airport-attack-kills-12-4942483",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-11T11:09:58.820130",
+      "published": "2026-10-11T18:21:33.107277",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-10-11T11:09:58.853180",
+  "timestamp": "2026-10-11T18:21:33.148673",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
