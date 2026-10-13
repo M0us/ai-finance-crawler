@@ -6,7 +6,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-10-12T21:49:23.059006",
+      "published": "2026-10-13T02:52:11.858836",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -39,7 +39,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-12T21:49:22.619711",
+      "published": "2026-10-13T02:52:11.586407",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Russia stocks higher at close of trade; MOEX Russia Index up 3.07%",
-      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-307-4945237",
+      "title": "Tencent sells dollar, dim sum bonds amid AI spending spree",
+      "link": "https://www.investing.com/news/stock-market-news/tencent-sells-dollar-dim-sum-bonds-amid-ai-spending-spree-4945332",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-12T21:49:23.264948",
+      "published": "2026-10-13T02:52:12.042757",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -107,7 +107,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-10-12T21:49:23.059006",
+      "published": "2026-10-13T02:52:11.858836",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -140,7 +140,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-12T21:49:22.619711",
+      "published": "2026-10-13T02:52:11.586407",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -173,7 +173,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-12T21:49:22.619713",
+      "published": "2026-10-13T02:52:11.586409",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -205,7 +205,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-12T21:49:22.619716",
+      "published": "2026-10-13T02:52:11.586411",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -232,12 +232,12 @@
       "ai_generated": true
     },
     {
-      "title": "Russia stocks higher at close of trade; MOEX Russia Index up 3.07%",
-      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-307-4945237",
+      "title": "Tencent sells dollar, dim sum bonds amid AI spending spree",
+      "link": "https://www.investing.com/news/stock-market-news/tencent-sells-dollar-dim-sum-bonds-amid-ai-spending-spree-4945332",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-12T21:49:23.264948",
+      "published": "2026-10-13T02:52:12.042757",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Mueller Water Products stock falls on CFO transition announcement",
-      "link": "https://www.investing.com/news/stock-market-news/mueller-water-products-stock-falls-on-cfo-transition-announcement-4945236",
+      "title": "Why is Samsung Electronics stock plunging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-4945331",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-12T21:49:23.264950",
+      "published": "2026-10-13T02:52:12.042759",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Mizuho raises Viper Energy stock price target on production outlook",
-      "link": "https://www.investing.com/news/analyst-ratings/mizuho-raises-viper-energy-stock-price-target-on-production-outlook-93CH-4945233",
+      "title": "Why is SK Hynix stock plunging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-plunging-today-93CH-4945330",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-12T21:49:23.264953",
+      "published": "2026-10-13T02:52:12.042760",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -334,7 +334,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-12T21:49:22.619701",
+      "published": "2026-10-13T02:52:11.586402",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-10-12T21:49:23.299411",
+  "timestamp": "2026-10-13T02:52:12.069056",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
