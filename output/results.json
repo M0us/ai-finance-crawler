@@ -1,18 +1,18 @@
 {
   "headlines": [
     {
-      "title": "Fed’s Goolsbee on inflation: discouraging, but still some optimism",
-      "link": "https://www.investing.com/news/economy-news/feds-goolsbee-on-inflation-discouraging-but-still-some-optimism-4952861",
+      "title": "Fed’s Warsh sees US economic tailwinds, mum on rate-path view",
+      "link": "https://www.investing.com/news/economy-news/feds-warsh-gives-no-hint-on-october-policy-decision-4953046",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-16T00:06:47.197758",
+      "published": "2026-10-16T05:41:53.724923",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -21,12 +21,12 @@
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 3.5,
+        "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 43.8,
+      "total_score": 44.6,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Creative destruction: Human-AI competition in an experimental market",
-      "link": "https://arxiv.org/abs/2610.18921",
+      "title": "Long-Horizon Investment with Delayed Information in a Mean-Reverting Market",
+      "link": "https://arxiv.org/abs/2610.21447",
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-10-16T00:06:47.059651",
+      "published": "2026-10-16T05:41:53.581364",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "At the White House, crypto policy vacancy looms large",
-      "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
+      "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+      "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-16T00:06:46.584572",
+      "published": "2026-10-16T05:41:53.169750",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,18 +102,18 @@
   ],
   "briefs": [
     {
-      "title": "Fed’s Goolsbee on inflation: discouraging, but still some optimism",
-      "link": "https://www.investing.com/news/economy-news/feds-goolsbee-on-inflation-discouraging-but-still-some-optimism-4952861",
+      "title": "Fed’s Warsh sees US economic tailwinds, mum on rate-path view",
+      "link": "https://www.investing.com/news/economy-news/feds-warsh-gives-no-hint-on-october-policy-decision-4953046",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-16T00:06:47.197758",
+      "published": "2026-10-16T05:41:53.724923",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -122,12 +122,12 @@
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 3.5,
+        "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 43.8,
+      "total_score": 44.6,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Creative destruction: Human-AI competition in an experimental market",
-      "link": "https://arxiv.org/abs/2610.18921",
+      "title": "Long-Horizon Investment with Delayed Information in a Mean-Reverting Market",
+      "link": "https://arxiv.org/abs/2610.21447",
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-10-16T00:06:47.059651",
+      "published": "2026-10-16T05:41:53.581364",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "At the White House, crypto policy vacancy looms large",
-      "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
+      "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+      "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-16T00:06:46.584572",
+      "published": "2026-10-16T05:41:53.169750",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -201,12 +201,12 @@
       "ai_generated": true
     },
     {
-      "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
+      "title": "At the White House, crypto policy vacancy looms large",
+      "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-16T00:06:46.584580",
+      "published": "2026-10-16T05:41:53.169752",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
-      "link": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
+      "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-16T00:06:46.584582",
+      "published": "2026-10-16T05:41:53.169755",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
-      "link": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
+      "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
+      "link": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-16T00:06:46.584584",
+      "published": "2026-10-16T05:41:53.169757",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 1.00%",
+      "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-100-4953115",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-16T00:06:46.584586",
+      "published": "2026-10-16T05:41:53.724925",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -312,7 +312,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -322,19 +322,19 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.0,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 7,
       "ai_generated": true
     },
     {
-      "title": "Market selloff, rising rates test AI data centre deal boom",
-      "link": "https://www.investing.com/news/economy-news/analysismarket-selloff-rising-rates-test-ai-data-centre-deal-boom-4951734",
+      "title": "How Healey’s first UK budget could ripple through markets",
+      "link": "https://www.investing.com/news/economy-news/how-healeys-first-uk-budget-could-ripple-through-markets-4953110",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-16T00:06:47.197770",
+      "published": "2026-10-16T05:41:53.724927",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-10-16T00:06:47.232376",
+  "timestamp": "2026-10-16T05:41:53.766968",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
