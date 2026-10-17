@@ -1,18 +1,18 @@
 {
   "headlines": [
     {
-      "title": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
-      "link": "https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4955234",
+      "title": "ECB’s Lagarde says bond selloff will slow inflation",
+      "link": "https://www.investing.com/news/economy-news/ecbs-lagarde-says-bond-selloff-will-slow-inflation-4955322",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-17T05:27:07.297929",
+      "published": "2026-10-17T08:58:30.064874",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -22,11 +22,11 @@
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 3.5,
-        "policy_surprise": 4.5,
+        "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 43.0,
+      "total_score": 43.4,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -39,7 +39,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-17T05:27:06.924262",
+      "published": "2026-10-17T08:58:29.721045",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -72,7 +72,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-17T05:27:06.924274",
+      "published": "2026-10-17T08:58:29.721050",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,18 +102,18 @@
   ],
   "briefs": [
     {
-      "title": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
-      "link": "https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4955234",
+      "title": "ECB’s Lagarde says bond selloff will slow inflation",
+      "link": "https://www.investing.com/news/economy-news/ecbs-lagarde-says-bond-selloff-will-slow-inflation-4955322",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-17T05:27:07.297929",
+      "published": "2026-10-17T08:58:30.064874",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -123,11 +123,11 @@
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 3.5,
-        "policy_surprise": 4.5,
+        "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 43.0,
+      "total_score": 43.4,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -140,7 +140,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-17T05:27:06.924262",
+      "published": "2026-10-17T08:58:29.721045",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -173,7 +173,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-17T05:27:06.924274",
+      "published": "2026-10-17T08:58:29.721050",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -206,7 +206,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-17T05:27:06.924276",
+      "published": "2026-10-17T08:58:29.721052",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "United Therapeutics chairperson & CEO sells $5.19m in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/united-therapeutics-chairperson--ceo-sells-519m-in-stock-93CH-4955240",
+      "title": "What’s the likelihood of Yen carry trade reversing?",
+      "link": "https://www.investing.com/news/forex-news/whats-the-likelihood-of-yen-carry-trade-reversing-4955329",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-17T05:27:07.297920",
+      "published": "2026-10-17T08:58:30.064870",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,18 +265,18 @@
       "ai_generated": true
     },
     {
-      "title": "Iran war: Missiles target Saudi oil hub as Yemen conflict escalates",
-      "link": "https://www.investing.com/news/economy-news/iran-war-missiles-target-saudi-oil-hub-as-yemen-conflict-escalates-4955004",
+      "title": "Moderna president Stephen Hoge sells $17m in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/moderna-president-stephen-hoge-sells-17m-in-stock-93CH-4955328",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-17T05:27:07.297908",
+      "published": "2026-10-17T08:58:30.064872",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -286,23 +286,23 @@
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 4.5,
+        "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 41.6,
+      "total_score": 42.0,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 6,
       "ai_generated": true
     },
     {
-      "title": "Big Tech's AI auditors will only see what they're shown",
-      "link": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
+      "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+      "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-17T05:27:06.924271",
+      "published": "2026-10-17T08:58:29.721038",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-      "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
+      "title": "Big Tech's AI auditors will only see what they're shown",
+      "link": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-17T05:27:06.924278",
+      "published": "2026-10-17T08:58:29.721048",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-10-17T05:27:07.338296",
+  "timestamp": "2026-10-17T08:58:30.103559",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
