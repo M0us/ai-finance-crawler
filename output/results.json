@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "First Guaranty Bancshares director Smith buys $822,013 in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/first-guaranty-bancshares-director-smith-buys-822013-in-stock-93CH-4955666",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-17T23:48:58.907201",
+      "published": "2026-10-18T05:39:32.345749",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -16,7 +16,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -26,7 +26,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Limoneira VP, CFO Hamm sells $11,905 of common stock",
-      "link": "https://www.investing.com/news/insider-trading-news/limoneira-vp-cfo-hamm-sells-11905-of-common-stock-93CH-4955645",
+      "title": "Standex director Thomas Chorman sells $13,569 in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/standex-director-thomas-chorman-sells-13569-in-stock-93CH-4955769",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-17T23:48:58.907208",
+      "published": "2026-10-18T05:39:32.780483",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -72,7 +72,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-17T23:48:58.316782",
+      "published": "2026-10-18T05:39:32.345761",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,12 +102,12 @@
   ],
   "briefs": [
     {
-      "title": "First Guaranty Bancshares director Smith buys $822,013 in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/first-guaranty-bancshares-director-smith-buys-822013-in-stock-93CH-4955666",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-17T23:48:58.907201",
+      "published": "2026-10-18T05:39:32.345749",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -117,7 +117,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -127,7 +127,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
+      "total_score": 42.24,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Limoneira VP, CFO Hamm sells $11,905 of common stock",
-      "link": "https://www.investing.com/news/insider-trading-news/limoneira-vp-cfo-hamm-sells-11905-of-common-stock-93CH-4955645",
+      "title": "Standex director Thomas Chorman sells $13,569 in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/standex-director-thomas-chorman-sells-13569-in-stock-93CH-4955769",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-17T23:48:58.907208",
+      "published": "2026-10-18T05:39:32.780483",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -173,7 +173,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-17T23:48:58.316782",
+      "published": "2026-10-18T05:39:32.345761",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -206,7 +206,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-17T23:48:58.316790",
+      "published": "2026-10-18T05:39:32.345764",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -238,7 +238,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-17T23:48:58.316793",
+      "published": "2026-10-18T05:39:32.345765",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -270,7 +270,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-17T23:48:58.316795",
+      "published": "2026-10-18T05:39:32.345767",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
-      "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Rubio heads to Central Asia while other US officials hit foreign policy hot spots",
+      "link": "https://www.investing.com/news/stock-market-news/rubio-heads-to-central-asia-while-other-us-officials-hit-foreign-policy-hot-spots-4955781",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-17T23:48:58.316797",
+      "published": "2026-10-18T05:39:32.780458",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -312,7 +312,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -322,19 +322,19 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 40.04,
+      "total_score": 39.8,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 7,
       "ai_generated": true
     },
     {
-      "title": "PagerDuty executive chair Jennifer Tejada sells $1.6 million in shares",
-      "link": "https://www.investing.com/news/insider-trading-news/pagerduty-executive-chair-jennifer-tejada-sells-16-million-in-shares-93CH-4955675",
+      "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions",
+      "link": "https://www.investing.com/news/commodities-news/rubio-says-trump-to-take-up-to-60-days-to-weigh-russia-sanctions-4955750",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-17T23:48:58.907194",
+      "published": "2026-10-18T05:39:32.780478",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-10-17T23:48:58.946574",
+  "timestamp": "2026-10-18T05:39:32.815094",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
