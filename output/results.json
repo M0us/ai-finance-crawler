@@ -6,7 +6,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-10-19T19:25:22.143978",
+      "published": "2026-10-20T00:55:35.251746",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -39,7 +39,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-19T19:25:22.005089",
+      "published": "2026-10-20T00:55:34.967348",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -72,7 +72,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-10-19T19:25:22.143968",
+      "published": "2026-10-20T00:55:35.251737",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -107,7 +107,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-10-19T19:25:22.143978",
+      "published": "2026-10-20T00:55:35.251746",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -140,7 +140,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-10-19T19:25:22.143968",
+      "published": "2026-10-20T00:55:35.251737",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -173,7 +173,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-10-19T19:25:22.143980",
+      "published": "2026-10-20T00:55:35.251747",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -205,7 +205,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-19T19:25:22.005089",
+      "published": "2026-10-20T00:55:34.967348",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "Icahn Enterprises stock hits 52-week low at 6.51 USD",
-      "link": "https://www.investing.com/news/company-news/icahn-enterprises-stock-hits-52week-low-at-651-usd-93CH-4958169",
+      "title": "Crowdstrike director Johanna Flower disposes of $2.27m in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/crowdstrike-director-johanna-flower-disposes-of-227m-in-stock-93CH-4958579",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-19T19:25:22.262688",
+      "published": "2026-10-20T00:55:35.352344",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bystander on the Fence: Sanctions in a Multipolar World",
-      "link": "https://arxiv.org/abs/2610.22830",
-      "source_id": "arxiv",
-      "source_name": "arXiv",
+      "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+      "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-19T19:25:22.143976",
+      "published": "2026-10-20T00:55:34.967339",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -280,29 +280,29 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.2,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
+        "policy_surprise": 4.5,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 40.2,
+      "total_score": 41.84,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 6,
       "ai_generated": true
     },
     {
-      "title": "Input-output analysis with a sphere packing approach",
-      "link": "https://arxiv.org/abs/2610.23391",
+      "title": "Bystander on the Fence: Sanctions in a Multipolar World",
+      "link": "https://arxiv.org/abs/2610.22830",
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-10-19T19:25:22.143982",
+      "published": "2026-10-20T00:55:35.251744",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
-      "link": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Input-output analysis with a sphere packing approach",
+      "link": "https://arxiv.org/abs/2610.23391",
+      "source_id": "arxiv",
+      "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-10-19T19:25:22.005080",
+      "published": "2026-10-20T00:55:35.251748",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -344,7 +344,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 3.2,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -354,7 +354,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 40.04,
+      "total_score": 40.2,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-10-19T19:25:22.354388",
+  "timestamp": "2026-10-20T00:55:35.380206",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
