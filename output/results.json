@@ -1,12 +1,45 @@
 {
   "headlines": [
     {
-      "title": "AerCap Holdings NV stock hits all-time high at 158.81 USD",
-      "link": "https://www.investing.com/news/company-news/aercap-holdings-nv-stock-hits-alltime-high-at-15881-usd-93CH-4980460",
+      "title": "Gold slips after Fed holds rates, PCE inflation data in focus",
+      "link": "https://www.investing.com/news/commodities-news/gold-slips-after-fed-holds-rates-pce-inflation-data-in-focus-4981309",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-28T19:00:54.470820",
+      "published": "2026-10-29T01:36:28.576105",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 6.5,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 3.3000000000000003,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 2.8000000000000003,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 3.5,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 1.2000000000000002
+      },
+      "total_score": 43.8,
+      "selected_for_headline": true,
+      "selected_for_brief": true,
+      "headline_rank": 1,
+      "brief_rank": 1,
+      "ai_generated": true
+    },
+    {
+      "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens",
+      "link": "https://www.investing.com/news/stock-market-news/alphabets-heavy-cloud-spending-drives-biggerthanexpected-cash-burn-4980612",
+      "source_id": "investing",
+      "source_name": "Investing.com",
+      "authority": 4,
+      "published": "2026-10-29T01:36:28.576119",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -22,15 +55,15 @@
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
+        "policy_surprise": 4.5,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 2.0
+        "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.8,
+      "total_score": 43.8,
       "selected_for_headline": true,
       "selected_for_brief": true,
-      "headline_rank": 1,
-      "brief_rank": 1,
+      "headline_rank": 2,
+      "brief_rank": 2,
       "ai_generated": true
     },
     {
@@ -39,7 +72,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-28T19:00:54.010914",
+      "published": "2026-10-29T01:36:28.101667",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -60,39 +93,6 @@
         "institutional_correlation": 1.2000000000000002
       },
       "total_score": 42.64,
-      "selected_for_headline": true,
-      "selected_for_brief": true,
-      "headline_rank": 2,
-      "brief_rank": 2,
-      "ai_generated": true
-    },
-    {
-      "title": "Leveraging US Commercial Adjustments: MFN Tariffs and Trade Diversion",
-      "link": "https://arxiv.org/abs/2610.35986",
-      "source_id": "arxiv",
-      "source_name": "arXiv",
-      "authority": 4,
-      "published": "2026-10-28T19:00:54.371498",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 5.5,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 3.2,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 42.4,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
@@ -102,12 +102,45 @@
   ],
   "briefs": [
     {
-      "title": "AerCap Holdings NV stock hits all-time high at 158.81 USD",
-      "link": "https://www.investing.com/news/company-news/aercap-holdings-nv-stock-hits-alltime-high-at-15881-usd-93CH-4980460",
+      "title": "Gold slips after Fed holds rates, PCE inflation data in focus",
+      "link": "https://www.investing.com/news/commodities-news/gold-slips-after-fed-holds-rates-pce-inflation-data-in-focus-4981309",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-28T19:00:54.470820",
+      "published": "2026-10-29T01:36:28.576105",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 6.5,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 3.3000000000000003,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 2.8000000000000003,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 3.5,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 1.2000000000000002
+      },
+      "total_score": 43.8,
+      "selected_for_headline": true,
+      "selected_for_brief": true,
+      "headline_rank": 1,
+      "brief_rank": 1,
+      "ai_generated": true
+    },
+    {
+      "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens",
+      "link": "https://www.investing.com/news/stock-market-news/alphabets-heavy-cloud-spending-drives-biggerthanexpected-cash-burn-4980612",
+      "source_id": "investing",
+      "source_name": "Investing.com",
+      "authority": 4,
+      "published": "2026-10-29T01:36:28.576119",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -123,15 +156,15 @@
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
+        "policy_surprise": 4.5,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 2.0
+        "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.8,
+      "total_score": 43.8,
       "selected_for_headline": true,
       "selected_for_brief": true,
-      "headline_rank": 1,
-      "brief_rank": 1,
+      "headline_rank": 2,
+      "brief_rank": 2,
       "ai_generated": true
     },
     {
@@ -140,7 +173,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-28T19:00:54.010914",
+      "published": "2026-10-29T01:36:28.101667",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -163,8 +196,8 @@
       "total_score": 42.64,
       "selected_for_headline": true,
       "selected_for_brief": true,
-      "headline_rank": 2,
-      "brief_rank": 2,
+      "headline_rank": 3,
+      "brief_rank": 3,
       "ai_generated": true
     },
     {
@@ -173,40 +206,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-10-28T19:00:54.371498",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 5.5,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 3.2,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 42.4,
-      "selected_for_headline": true,
-      "selected_for_brief": true,
-      "headline_rank": 3,
-      "brief_rank": 3,
-      "ai_generated": true
-    },
-    {
-      "title": "From Tariff Changes to Trade Effects: A Practical Framework for Empirical Trade Policy Analysis",
-      "link": "https://arxiv.org/abs/2610.36171",
-      "source_id": "arxiv",
-      "source_name": "arXiv",
-      "authority": 4,
-      "published": "2026-10-28T19:00:54.371512",
+      "published": "2026-10-29T01:36:28.349895",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "Crypto isn’t a partisan fight, proven by data",
-      "link": "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "From Tariff Changes to Trade Effects: A Practical Framework for Empirical Trade Policy Analysis",
+      "link": "https://arxiv.org/abs/2610.36171",
+      "source_id": "arxiv",
+      "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-10-28T19:00:54.010901",
+      "published": "2026-10-29T01:36:28.349908",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -248,7 +248,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 3.2,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -258,19 +258,19 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.4,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 5,
       "ai_generated": true
     },
     {
-      "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
-      "link": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
+      "title": "Crypto isn’t a partisan fight, proven by data",
+      "link": "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-28T19:00:54.010916",
+      "published": "2026-10-29T01:36:28.101666",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
+      "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
+      "link": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-10-28T19:00:54.010917",
+      "published": "2026-10-29T01:36:28.101668",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Dynacor at Planet MicroCap Showcase: Toronto 2026: growth tests and new markets",
-      "link": "https://www.investing.com/news/transcripts/dynacor-at-planet-microcap-showcase-toronto-2026-growth-tests-and-new-markets-93CH-4980463",
+      "title": "Jim Lewis, Landmark Bancorp director, sells $5,929 in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/jim-lewis-landmark-bancorp-director-sells-5929-in-stock-93CH-4981305",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-10-28T19:00:54.470817",
+      "published": "2026-10-29T01:36:28.576116",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-10-28T19:00:54.526911",
+  "timestamp": "2026-10-29T01:36:28.607265",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
