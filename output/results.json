@@ -6,7 +6,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-05T07:49:55.923962",
+      "published": "2026-11-05T12:53:55.923293",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
-      "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
+      "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
+      "link": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-05T07:49:55.382945",
+      "published": "2026-11-05T12:53:55.723979",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -72,7 +72,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-05T07:49:55.923977",
+      "published": "2026-11-05T12:53:55.923302",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -107,7 +107,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-05T07:49:55.923962",
+      "published": "2026-11-05T12:53:55.923293",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -140,7 +140,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-05T07:49:55.923977",
+      "published": "2026-11-05T12:53:55.923302",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -173,7 +173,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-05T07:49:55.923979",
+      "published": "2026-11-05T12:53:55.923305",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -200,12 +200,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
-      "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
+      "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
+      "link": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-05T07:49:55.382945",
+      "published": "2026-11-05T12:53:55.723979",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,44 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
-      "link": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
-      "authority": 4,
-      "published": "2026-11-05T07:49:55.382946",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 5.5,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 42.24,
-      "selected_for_headline": false,
-      "selected_for_brief": true,
-      "brief_rank": 5,
-      "ai_generated": true
-    },
-    {
-      "title": "Why is Toyota Motor stock surging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-toyota-motor-stock-surging-today-93CH-5002435",
+      "title": "AI stocks, oil fall as investors bet on change after US election ’blue wave’",
+      "link": "https://www.investing.com/news/economy-news/oil-and-data-centre-stocks-sink-after-us-midterms-5002057",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-05T07:49:56.024988",
+      "published": "2026-11-05T12:53:56.012591",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -293,16 +261,16 @@
       "total_score": 42.0,
       "selected_for_headline": false,
       "selected_for_brief": true,
-      "brief_rank": 6,
+      "brief_rank": 5,
       "ai_generated": true
     },
     {
-      "title": "Camurus third quarter revenue beats expectations on Buvidal gains",
-      "link": "https://www.investing.com/news/stock-market-news/camurus-third-quarter-revenue-beats-expectations-on-buvidal-gains-93CH-5002439",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-05T07:49:56.024979",
+      "published": "2026-11-05T12:53:55.723987",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -312,7 +280,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -322,19 +290,51 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 41.6,
+      "total_score": 41.84,
+      "selected_for_headline": false,
+      "selected_for_brief": true,
+      "brief_rank": 6,
+      "ai_generated": true
+    },
+    {
+      "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
+      "link": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
+      "authority": 4,
+      "published": "2026-11-05T12:53:55.723993",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 3.3000000000000003,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 3.04,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 4.5,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 1.2000000000000002
+      },
+      "total_score": 41.84,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 7,
       "ai_generated": true
     },
     {
-      "title": "Helios Towers raises 2027 tenancy outlook after Q3 beat",
-      "link": "https://www.investing.com/news/stock-market-news/helios-towers-raises-2027-tenancy-outlook-after-q3-beat-93CH-5002434",
+      "title": "Tripadvisor shares tumble 18% on earnings miss, CEO exit",
+      "link": "https://www.investing.com/news/stock-market-news/tripadvisor-shares-tumble-18-on-earnings-miss-ceo-exit-5003844",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-05T07:49:56.024989",
+      "published": "2026-11-05T12:53:56.012577",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-11-05T07:49:56.052998",
+  "timestamp": "2026-11-05T12:53:56.056669",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
