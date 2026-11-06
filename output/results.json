@@ -6,7 +6,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-06T12:40:17.580261",
+      "published": "2026-11-06T20:01:38.403632",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -39,7 +39,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-06T12:40:17.815212",
+      "published": "2026-11-06T20:01:38.819333",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -72,7 +72,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-06T12:40:17.815222",
+      "published": "2026-11-06T20:01:38.819344",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -107,7 +107,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-06T12:40:17.580261",
+      "published": "2026-11-06T20:01:38.403632",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -140,7 +140,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-06T12:40:17.815212",
+      "published": "2026-11-06T20:01:38.819333",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -173,7 +173,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-06T12:40:17.815222",
+      "published": "2026-11-06T20:01:38.819344",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -201,12 +201,12 @@
       "ai_generated": true
     },
     {
-      "title": "Live updates: Nasdaq 100 futures rally points to stock market respite",
-      "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+      "link": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-06T12:40:17.580269",
+      "published": "2026-11-06T20:01:38.403620",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-      "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+      "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-06T12:40:17.580273",
+      "published": "2026-11-06T20:01:38.403628",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Why is Axon Enterprise stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-axon-enterprise-stock-sliding-today-93CH-5007740",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+      "link": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-06T12:40:18.009193",
+      "published": "2026-11-06T20:01:38.403630",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -280,7 +280,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -290,19 +290,19 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
+      "total_score": 42.24,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 6,
       "ai_generated": true
     },
     {
-      "title": "RGC Resources senior VP Lawrence Oliver buys $200 in common stock",
-      "link": "https://www.investing.com/news/insider-trading-news/rgc-resources-senior-vp-lawrence-oliver-buys-200-in-common-stock-93CH-5007735",
+      "title": "Wall Street stocks in relief rally after heavy AI-related selloff",
+      "link": "https://www.investing.com/news/economy-news/asia-stocks-to-drop-after-ai-rout-rocks-us-markets-5006125",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-06T12:40:18.009200",
+      "published": "2026-11-06T20:01:38.977469",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Why is Natera stock tumbling today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-natera-stock-tumbling-today-93CH-5007685",
+      "title": "FBN Securities lowers Five9 stock price target on earnings guidance cut",
+      "link": "https://www.investing.com/news/analyst-ratings/fbn-securities-lowers-five9-stock-price-target-on-earnings-guidance-cut-93CH-5009065",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-06T12:40:18.009204",
+      "published": "2026-11-06T20:01:38.977483",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-11-06T12:40:18.038022",
+  "timestamp": "2026-11-06T20:01:39.006522",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
