@@ -6,7 +6,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-05T20:46:17.097195",
+      "published": "2026-11-06T02:00:24.347928",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Decision Models as Scalable Economic Surrogates that Capture Human Variation",
-      "link": "https://arxiv.org/abs/2611.05553",
-      "source_id": "arxiv",
-      "source_name": "arXiv",
+      "title": "Netflix CFO Spencer Neumann sells $612,109 in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/netflix-cfo-spencer-neumann-sells-612109-in-stock-93CH-5006280",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-05T20:46:17.200446",
+      "published": "2026-11-06T02:00:24.785417",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -49,7 +49,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.2,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -57,9 +57,9 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 42.4,
+      "total_score": 42.8,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Economic Policy Uncertainty Index for Poland: Data, Construction, and Validation",
-      "link": "https://arxiv.org/abs/2611.05640",
+      "title": "Decision Models as Scalable Economic Surrogates that Capture Human Variation",
+      "link": "https://arxiv.org/abs/2611.05553",
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-05T20:46:17.200452",
+      "published": "2026-11-06T02:00:24.680744",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -107,7 +107,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-05T20:46:17.097195",
+      "published": "2026-11-06T02:00:24.347928",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Decision Models as Scalable Economic Surrogates that Capture Human Variation",
-      "link": "https://arxiv.org/abs/2611.05553",
-      "source_id": "arxiv",
-      "source_name": "arXiv",
+      "title": "Netflix CFO Spencer Neumann sells $612,109 in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/netflix-cfo-spencer-neumann-sells-612109-in-stock-93CH-5006280",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-05T20:46:17.200446",
+      "published": "2026-11-06T02:00:24.785417",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -150,7 +150,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.2,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -158,9 +158,9 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 42.4,
+      "total_score": 42.8,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Economic Policy Uncertainty Index for Poland: Data, Construction, and Validation",
-      "link": "https://arxiv.org/abs/2611.05640",
+      "title": "Decision Models as Scalable Economic Surrogates that Capture Human Variation",
+      "link": "https://arxiv.org/abs/2611.05553",
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-05T20:46:17.200452",
+      "published": "2026-11-06T02:00:24.680744",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -201,12 +201,12 @@
       "ai_generated": true
     },
     {
-      "title": "The potential impact of fiscal rule changes on digital products trade",
-      "link": "https://arxiv.org/abs/2611.05714",
+      "title": "Economic Policy Uncertainty Index for Poland: Data, Construction, and Validation",
+      "link": "https://arxiv.org/abs/2611.05640",
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-05T20:46:17.200455",
+      "published": "2026-11-06T02:00:24.680755",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full'",
-      "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "The potential impact of fiscal rule changes on digital products trade",
+      "link": "https://arxiv.org/abs/2611.05714",
+      "source_id": "arxiv",
+      "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-05T20:46:17.097190",
+      "published": "2026-11-06T02:00:24.680756",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -248,7 +248,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 3.2,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -258,19 +258,19 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.4,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 5,
       "ai_generated": true
     },
     {
-      "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
-      "link": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
+      "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+      "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-05T20:46:17.097193",
+      "published": "2026-11-06T02:00:24.347925",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
+      "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
+      "link": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-05T20:46:17.097197",
+      "published": "2026-11-06T02:00:24.347926",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Perdoceo Education Corp stock hits 52-week low at $26.63",
-      "link": "https://www.investing.com/news/company-news/perdoceo-education-corp-stock-hits-52week-low-at-2663-93CH-5005519",
+      "title": "Asia stocks crumble after AI rout rocks US markets",
+      "link": "https://www.investing.com/news/economy-news/asia-stocks-to-drop-after-ai-rout-rocks-us-markets-5006125",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-05T20:46:17.320540",
+      "published": "2026-11-06T02:00:24.785419",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-11-05T20:46:17.359986",
+  "timestamp": "2026-11-06T02:00:24.813365",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
