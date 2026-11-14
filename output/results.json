@@ -6,7 +6,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-14T07:29:57.572037",
+      "published": "2026-11-14T11:54:28.020487",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -34,18 +34,18 @@
       "ai_generated": true
     },
     {
-      "title": "Iran says four tankers hit mines in Hormuz as shipping crisis deepens",
-      "link": "https://www.investing.com/news/economy-news/iran-says-four-tankers-hit-mines-in-hormuz-as-shipping-crisis-deepens-5027172",
+      "title": "Fifth District Bancorp director Sins sells $39,013 in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/fifth-district-bancorp-director-sins-sells-39013-in-stock-93CH-5027306",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-14T07:29:57.844785",
+      "published": "2026-11-14T11:54:28.461546",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 6.5,
+        "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -59,7 +59,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.4,
+      "total_score": 42.0,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Altimmune president and CEO Durso buys $49,694 in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/altimmune-president-and-ceo-durso-buys-49694-in-stock-93CH-5027170",
+      "title": "Babcock & Wilcox CEO Kenneth Young buys $43,500 in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/babcock--wilcox-ceo-kenneth-young-buys-43500-in-stock-93CH-5027305",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-14T07:29:57.844787",
+      "published": "2026-11-14T11:54:28.461556",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -107,7 +107,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-14T07:29:57.572037",
+      "published": "2026-11-14T11:54:28.020487",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -135,18 +135,18 @@
       "ai_generated": true
     },
     {
-      "title": "Iran says four tankers hit mines in Hormuz as shipping crisis deepens",
-      "link": "https://www.investing.com/news/economy-news/iran-says-four-tankers-hit-mines-in-hormuz-as-shipping-crisis-deepens-5027172",
+      "title": "Fifth District Bancorp director Sins sells $39,013 in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/fifth-district-bancorp-director-sins-sells-39013-in-stock-93CH-5027306",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-14T07:29:57.844785",
+      "published": "2026-11-14T11:54:28.461546",
       "dim_scores": {
         "authority": 4.0,
-        "impact": 6.5,
+        "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
+        "relevance": 5.5,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -160,7 +160,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.4,
+      "total_score": 42.0,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Altimmune president and CEO Durso buys $49,694 in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/altimmune-president-and-ceo-durso-buys-49694-in-stock-93CH-5027170",
+      "title": "Babcock & Wilcox CEO Kenneth Young buys $43,500 in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/babcock--wilcox-ceo-kenneth-young-buys-43500-in-stock-93CH-5027305",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-14T07:29:57.844787",
+      "published": "2026-11-14T11:54:28.461556",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -201,12 +201,12 @@
       "ai_generated": true
     },
     {
-      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-      "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "InvestingPro’s Fair Value predicted NextNav’s 46% plunge",
+      "link": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-predicted-nextnavs-46-plunge-93CH-5027292",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-14T07:29:57.572024",
+      "published": "2026-11-14T11:54:28.461561",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -216,29 +216,29 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
+        "volatility_impact": 4.0,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 40.04,
+      "total_score": 41.4,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 4,
       "ai_generated": true
     },
     {
-      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-      "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+      "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-14T07:29:57.572035",
+      "published": "2026-11-14T11:54:28.020478",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-      "link": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+      "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-14T07:29:57.572038",
+      "published": "2026-11-14T11:54:28.020485",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
-      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+      "link": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-14T07:29:57.572040",
+      "published": "2026-11-14T11:54:28.020489",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Earnings call transcript: Viyash Scientific posts strong Q2 2027 growth",
-      "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-viyash-scientific-posts-strong-q2-2027-growth-93CH-5027173",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-14T07:29:57.844774",
+      "published": "2026-11-14T11:54:28.020490",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -344,7 +344,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -354,7 +354,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 39.8,
+      "total_score": 40.04,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 8,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-11-14T07:29:57.877755",
+  "timestamp": "2026-11-14T11:54:28.494797",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
