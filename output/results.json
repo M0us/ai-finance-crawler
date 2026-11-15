@@ -6,7 +6,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-15T07:43:11.305542",
+      "published": "2026-11-15T12:26:57.437988",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Ibex chief people officer sells $100,164 in company stock",
-      "link": "https://www.investing.com/news/insider-trading-news/ibex-chief-people-officer-sells-100164-in-company-stock-93CH-5027707",
+      "title": "Magnite CTO David Buonasera sells $27,960 in company stock",
+      "link": "https://www.investing.com/news/insider-trading-news/magnite-cto-david-buonasera-sells-27960-in-company-stock-93CH-5027866",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-15T07:43:11.591098",
+      "published": "2026-11-15T12:26:57.568986",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -72,7 +72,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-15T07:43:11.305553",
+      "published": "2026-11-15T12:26:57.438000",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -107,7 +107,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-15T07:43:11.305542",
+      "published": "2026-11-15T12:26:57.437988",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -140,7 +140,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-15T07:43:11.305553",
+      "published": "2026-11-15T12:26:57.438000",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -173,7 +173,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-15T07:43:11.305555",
+      "published": "2026-11-15T12:26:57.438001",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -200,12 +200,12 @@
       "ai_generated": true
     },
     {
-      "title": "Ibex chief people officer sells $100,164 in company stock",
-      "link": "https://www.investing.com/news/insider-trading-news/ibex-chief-people-officer-sells-100164-in-company-stock-93CH-5027707",
+      "title": "Magnite CTO David Buonasera sells $27,960 in company stock",
+      "link": "https://www.investing.com/news/insider-trading-news/magnite-cto-david-buonasera-sells-27960-in-company-stock-93CH-5027866",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-15T07:43:11.591098",
+      "published": "2026-11-15T12:26:57.568986",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "Steven Conine, Wayfair director, sells $7.13 million in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/steven-conine-wayfair-director-sells-713-million-in-stock-93CH-5027685",
+      "title": "Fortinet COO John Whittle sells $9.39 million in company stock",
+      "link": "https://www.investing.com/news/insider-trading-news/fortinet-coo-john-whittle-sells-939-million-in-company-stock-93CH-5027865",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-15T07:43:11.591113",
+      "published": "2026-11-15T12:26:57.568987",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -270,7 +270,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-15T07:43:11.305550",
+      "published": "2026-11-15T12:26:57.437997",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,44 @@
       "ai_generated": true
     },
     {
+      "title": "DLH Holdings 10% owner Mink Brook buys $6,225 in shares",
+      "link": "https://www.investing.com/news/insider-trading-news/dlh-holdings-10-owner-mink-brook-buys-6225-in-shares-93CH-5027876",
+      "source_id": "investing",
+      "source_name": "Investing.com",
+      "authority": 4,
+      "published": "2026-11-15T12:26:57.568983",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 3.3000000000000003,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 2.8000000000000003,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 2.0
+      },
+      "total_score": 40.6,
+      "selected_for_headline": false,
+      "selected_for_brief": true,
+      "brief_rank": 7,
+      "ai_generated": true
+    },
+    {
       "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
       "link": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-15T07:43:11.305552",
+      "published": "2026-11-15T12:26:57.437998",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -325,44 +357,12 @@
       "total_score": 40.04,
       "selected_for_headline": false,
       "selected_for_brief": true,
-      "brief_rank": 7,
-      "ai_generated": true
-    },
-    {
-      "title": "Marqeta chief administrative officer Sumner Crystal sells $20,487",
-      "link": "https://www.investing.com/news/insider-trading-news/marqeta-chief-administrative-officer-sumner-crystal-sells-20487-93CH-5027697",
-      "source_id": "investing",
-      "source_name": "Investing.com",
-      "authority": 4,
-      "published": "2026-11-15T07:43:11.591108",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 39.8,
-      "selected_for_headline": false,
-      "selected_for_brief": true,
       "brief_rank": 8,
       "ai_generated": true
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-11-15T07:43:11.650628",
+  "timestamp": "2026-11-15T12:26:57.600034",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
