@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "eDreams stock falls despite earnings beat on investment costs",
-      "link": "https://www.investing.com/news/stock-market-news/edreams-stock-falls-despite-earnings-beat-on-investment-costs-93CH-5032025",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-17T08:57:43.300304",
+      "published": "2026-11-17T14:03:06.026197",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -16,17 +16,17 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 4.5,
+        "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 43.8,
+      "total_score": 43.04,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
-      "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
+      "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+      "link": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-17T08:57:42.960944",
+      "published": "2026-11-17T14:03:06.026188",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
-      "link": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "RBC cuts PicPay stock price target on margin pressure, credit risks",
+      "link": "https://www.investing.com/news/analyst-ratings/rbc-cuts-picpay-stock-price-target-on-margin-pressure-credit-risks-93CH-5033063",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-17T08:57:42.960955",
+      "published": "2026-11-17T14:03:06.500699",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -82,7 +82,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -92,7 +92,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.0,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
@@ -102,12 +102,12 @@
   ],
   "briefs": [
     {
-      "title": "eDreams stock falls despite earnings beat on investment costs",
-      "link": "https://www.investing.com/news/stock-market-news/edreams-stock-falls-despite-earnings-beat-on-investment-costs-93CH-5032025",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-17T08:57:43.300304",
+      "published": "2026-11-17T14:03:06.026197",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -117,17 +117,17 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.04,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
         "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 4.5,
+        "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 43.8,
+      "total_score": 43.04,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
-      "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
+      "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+      "link": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-17T08:57:42.960944",
+      "published": "2026-11-17T14:03:06.026188",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
-      "link": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "RBC cuts PicPay stock price target on margin pressure, credit risks",
+      "link": "https://www.investing.com/news/analyst-ratings/rbc-cuts-picpay-stock-price-target-on-margin-pressure-credit-risks-93CH-5033063",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-17T08:57:42.960955",
+      "published": "2026-11-17T14:03:06.500699",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -183,7 +183,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -193,7 +193,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.0,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
@@ -201,12 +201,12 @@
       "ai_generated": true
     },
     {
-      "title": "Why is Avio stock surging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-avio-stock-surging-today-93CH-5032031",
+      "title": "Medtronic stock gets $110 target at TD Cowen on FDA clearance",
+      "link": "https://www.investing.com/news/analyst-ratings/medtronic-stock-gets-110-target-at-td-cowen-on-fda-clearance-93CH-5033062",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-17T08:57:43.300286",
+      "published": "2026-11-17T14:03:06.500709",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "Why is Deutsche Bank stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-deutsche-bank-stock-sliding-today-93CH-5032030",
+      "title": "RBC Capital reiterates Eli Lilly stock rating on pipeline focus",
+      "link": "https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-eli-lilly-stock-rating-on-pipeline-focus-93CH-5033060",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-17T08:57:43.300300",
+      "published": "2026-11-17T14:03:06.500711",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,12 +265,12 @@
       "ai_generated": true
     },
     {
-      "title": "Marea Therapeutics at Jefferies Global Healthcare Conference: two shots at crowded markets",
-      "link": "https://www.investing.com/news/transcripts/marea-therapeutics-at-jefferies-global-healthcare-conference-two-shots-at-crowded-markets-93CH-5032026",
+      "title": "TD Cowen reiterates Buy on Home Depot stock, names new CEO",
+      "link": "https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-buy-on-home-depot-stock-names-new-ceo-93CH-5033059",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-17T08:57:43.300302",
+      "published": "2026-11-17T14:03:06.500713",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
-      "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+      "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
+      "link": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-17T08:57:42.960958",
+      "published": "2026-11-17T14:03:06.026195",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
-      "link": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
+      "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
+      "link": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-17T08:57:42.960960",
+      "published": "2026-11-17T14:03:06.026199",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-11-17T08:57:43.368844",
+  "timestamp": "2026-11-17T14:03:06.536357",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
