@@ -1,12 +1,12 @@
 {
   "headlines": [
     {
-      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-      "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Southwest Gas Holdings director Brian Sandoval sells $99,904 in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/southwest-gas-holdings-director-brian-sandoval-sells-99904-in-stock-93CH-5043433",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-21T08:09:33.123727",
+      "published": "2026-11-21T13:12:15.624662",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -16,7 +16,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -24,9 +24,9 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 42.24,
+      "total_score": 42.8,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Rigetti Computing CFO Jeffrey Bertelsen sells $30,996 in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/rigetti-computing-cfo-jeffrey-bertelsen-sells-30996-in-stock-93CH-5043265",
+      "title": "Medifast director Parsa Kiai buys over $1.13M in company stock",
+      "link": "https://www.investing.com/news/insider-trading-news/medifast-director-parsa-kiai-buys-over-113m-in-company-stock-93CH-5043432",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-21T08:09:33.589860",
+      "published": "2026-11-21T13:12:15.624664",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Donegal Group sr. vp Pandey sells $17,355 in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/donegal-group-sr-vp-pandey-sells-17355-in-stock-93CH-5043254",
+      "title": "York Water director Douglas Brossman buys $999 in company stock",
+      "link": "https://www.investing.com/news/insider-trading-news/york-water-director-douglas-brossman-buys-999-in-company-stock-93CH-5043431",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-21T08:09:33.589864",
+      "published": "2026-11-21T13:12:15.624665",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -102,12 +102,12 @@
   ],
   "briefs": [
     {
-      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-      "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Southwest Gas Holdings director Brian Sandoval sells $99,904 in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/southwest-gas-holdings-director-brian-sandoval-sells-99904-in-stock-93CH-5043433",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-21T08:09:33.123727",
+      "published": "2026-11-21T13:12:15.624662",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -117,7 +117,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -125,9 +125,9 @@
         "macro_sensitivity": 2.0999999999999996,
         "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
+        "institutional_correlation": 2.0
       },
-      "total_score": 42.24,
+      "total_score": 42.8,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Rigetti Computing CFO Jeffrey Bertelsen sells $30,996 in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/rigetti-computing-cfo-jeffrey-bertelsen-sells-30996-in-stock-93CH-5043265",
+      "title": "Medifast director Parsa Kiai buys over $1.13M in company stock",
+      "link": "https://www.investing.com/news/insider-trading-news/medifast-director-parsa-kiai-buys-over-113m-in-company-stock-93CH-5043432",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-21T08:09:33.589860",
+      "published": "2026-11-21T13:12:15.624664",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Donegal Group sr. vp Pandey sells $17,355 in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/donegal-group-sr-vp-pandey-sells-17355-in-stock-93CH-5043254",
+      "title": "York Water director Douglas Brossman buys $999 in company stock",
+      "link": "https://www.investing.com/news/insider-trading-news/york-water-director-douglas-brossman-buys-999-in-company-stock-93CH-5043431",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-21T08:09:33.589864",
+      "published": "2026-11-21T13:12:15.624665",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -201,44 +201,12 @@
       "ai_generated": true
     },
     {
-      "title": "AgEagle director Brent Klavon buys $2,999 in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/ageagle-director-brent-klavon-buys-2999-in-stock-93CH-5043252",
-      "source_id": "investing",
-      "source_name": "Investing.com",
-      "authority": 4,
-      "published": "2026-11-21T08:09:33.589866",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 5.5,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 42.0,
-      "selected_for_headline": false,
-      "selected_for_brief": true,
-      "brief_rank": 4,
-      "ai_generated": true
-    },
-    {
       "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
       "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-21T08:09:33.123720",
+      "published": "2026-11-21T13:12:15.331796",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -261,6 +229,38 @@
       "total_score": 40.84,
       "selected_for_headline": false,
       "selected_for_brief": true,
+      "brief_rank": 4,
+      "ai_generated": true
+    },
+    {
+      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+      "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+      "source_id": "coindesk",
+      "source_name": "CoinDesk",
+      "authority": 4,
+      "published": "2026-11-21T13:12:15.331787",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 3.3000000000000003,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 3.04,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 2.4000000000000004,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 1.2000000000000002
+      },
+      "total_score": 40.04,
+      "selected_for_headline": false,
+      "selected_for_brief": true,
       "brief_rank": 5,
       "ai_generated": true
     },
@@ -270,7 +270,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-21T08:09:33.123710",
+      "published": "2026-11-21T13:12:15.331794",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -302,7 +302,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-21T08:09:33.123723",
+      "published": "2026-11-21T13:12:15.331797",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -334,7 +334,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-21T08:09:33.123725",
+      "published": "2026-11-21T13:12:15.331799",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-11-21T08:09:33.628144",
+  "timestamp": "2026-11-21T13:12:15.658004",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
