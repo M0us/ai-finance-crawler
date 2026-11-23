@@ -1,18 +1,18 @@
 {
   "headlines": [
     {
-      "title": "Market rout kills 50 basis points December Fed rate hike bets",
-      "link": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
+      "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
+      "link": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-23T08:50:02.926812",
+      "published": "2026-11-23T15:37:26.366433",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -26,7 +26,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 44.84,
+      "total_score": 42.64,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Crypto thieves are using online ads to infect iPhones with a single tap, research finds",
-      "link": "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "CVR Partners LP stock hits 52-week low at 93.08 USD",
+      "link": "https://www.investing.com/news/company-news/cvr-partners-lp-stock-hits-52week-low-at-9308-usd-93CH-5045995",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-23T08:50:02.926798",
+      "published": "2026-11-23T15:37:26.850738",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -49,7 +49,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -59,7 +59,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.0,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -67,12 +67,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
-      "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Turkey stocks lower at close of trade; BIST 100 down 0.24%",
+      "link": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-024-5045989",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-23T08:50:02.926810",
+      "published": "2026-11-23T15:37:26.850753",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -82,7 +82,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -92,7 +92,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.0,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
@@ -102,18 +102,18 @@
   ],
   "briefs": [
     {
-      "title": "Market rout kills 50 basis points December Fed rate hike bets",
-      "link": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
+      "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
+      "link": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-23T08:50:02.926812",
+      "published": "2026-11-23T15:37:26.366433",
       "dim_scores": {
         "authority": 4.0,
         "impact": 6.5,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
@@ -127,7 +127,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 44.84,
+      "total_score": 42.64,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 1,
@@ -135,12 +135,12 @@
       "ai_generated": true
     },
     {
-      "title": "Crypto thieves are using online ads to infect iPhones with a single tap, research finds",
-      "link": "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "CVR Partners LP stock hits 52-week low at 93.08 USD",
+      "link": "https://www.investing.com/news/company-news/cvr-partners-lp-stock-hits-52week-low-at-9308-usd-93CH-5045995",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-23T08:50:02.926798",
+      "published": "2026-11-23T15:37:26.850738",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -150,7 +150,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -160,7 +160,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.0,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 2,
@@ -168,12 +168,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
-      "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
-      "source_id": "coindesk",
-      "source_name": "CoinDesk",
+      "title": "Turkey stocks lower at close of trade; BIST 100 down 0.24%",
+      "link": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-024-5045989",
+      "source_id": "investing",
+      "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-23T08:50:02.926810",
+      "published": "2026-11-23T15:37:26.850753",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -183,7 +183,7 @@
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 3.04,
+        "source_reliability": 2.8000000000000003,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -193,7 +193,7 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.24,
+      "total_score": 42.0,
       "selected_for_headline": true,
       "selected_for_brief": true,
       "headline_rank": 3,
@@ -201,12 +201,44 @@
       "ai_generated": true
     },
     {
-      "title": "Poland’s producer prices rise 8.0% in October, beating forecasts",
-      "link": "https://www.investing.com/news/economic-indicators/polands-producer-prices-rise-80-in-october-beating-forecasts-93CH-5044678",
+      "title": "Nvidia shares surge 35% as board announces Jensen Huang’s reinstatement",
+      "link": "https://www.investing.com/news/stock-market-news/nvidia-shares-surge-30-as-board-announces-jensen-huangs-reinstatement-5045795",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-23T08:50:03.140594",
+      "published": "2026-11-23T15:37:26.850755",
+      "dim_scores": {
+        "authority": 4.0,
+        "impact": 3.9000000000000004,
+        "novelty": 2.7,
+        "timeliness": 3.0,
+        "relevance": 3.3000000000000003,
+        "verifiability": 2.7,
+        "information_density": 2.0999999999999996,
+        "sentiment_polarity": 1.5,
+        "source_reliability": 2.8000000000000003,
+        "diversity_bonus": 1.2000000000000002,
+        "viral_potential": 0.8999999999999999,
+        "volatility_impact": 4.0,
+        "asset_coverage": 1.7999999999999998,
+        "macro_sensitivity": 2.0999999999999996,
+        "policy_surprise": 2.7,
+        "cross_market_contagion": 1.5,
+        "institutional_correlation": 1.2000000000000002
+      },
+      "total_score": 41.4,
+      "selected_for_headline": false,
+      "selected_for_brief": true,
+      "brief_rank": 4,
+      "ai_generated": true
+    },
+    {
+      "title": "Banca Transilvania 9M 2026 slides: profit up 18% amid GDP contraction",
+      "link": "https://www.investing.com/news/company-news/banca-transilvania-9m-2026-slides-profit-up-18-amid-gdp-contraction-93CH-5045992",
+      "source_id": "investing",
+      "source_name": "Investing.com",
+      "authority": 4,
+      "published": "2026-11-23T15:37:26.850750",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -221,15 +253,15 @@
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
         "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 4.5,
+        "macro_sensitivity": 3.5,
+        "policy_surprise": 2.7,
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 41.6,
+      "total_score": 41.2,
       "selected_for_headline": false,
       "selected_for_brief": true,
-      "brief_rank": 4,
+      "brief_rank": 5,
       "ai_generated": true
     },
     {
@@ -238,39 +270,7 @@
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-23T08:50:03.066992",
-      "dim_scores": {
-        "authority": 4.0,
-        "impact": 3.9000000000000004,
-        "novelty": 2.7,
-        "timeliness": 3.0,
-        "relevance": 3.3000000000000003,
-        "verifiability": 2.7,
-        "information_density": 2.0999999999999996,
-        "sentiment_polarity": 1.5,
-        "source_reliability": 3.2,
-        "diversity_bonus": 1.2000000000000002,
-        "viral_potential": 0.8999999999999999,
-        "volatility_impact": 2.4000000000000004,
-        "asset_coverage": 1.7999999999999998,
-        "macro_sensitivity": 2.0999999999999996,
-        "policy_surprise": 2.7,
-        "cross_market_contagion": 1.5,
-        "institutional_correlation": 1.2000000000000002
-      },
-      "total_score": 40.2,
-      "selected_for_headline": false,
-      "selected_for_brief": true,
-      "brief_rank": 5,
-      "ai_generated": true
-    },
-    {
-      "title": "Distributional Deep Hedging",
-      "link": "https://arxiv.org/abs/2611.26652",
-      "source_id": "arxiv",
-      "source_name": "arXiv",
-      "authority": 4,
-      "published": "2026-11-23T08:50:03.067001",
+      "published": "2026-11-23T15:37:26.704108",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -297,12 +297,12 @@
       "ai_generated": true
     },
     {
-      "title": "A Solvency II-Based Framework for Pricing Structural Longevity Risk under an Affine Mortality Model",
-      "link": "https://arxiv.org/abs/2611.26670",
+      "title": "Distributional Deep Hedging",
+      "link": "https://arxiv.org/abs/2611.26652",
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-23T08:50:03.067003",
+      "published": "2026-11-23T15:37:26.704116",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "Error analysis for the numerical approximation of the quantile hedging problem",
-      "link": "https://arxiv.org/abs/2611.26673",
+      "title": "A Solvency II-Based Framework for Pricing Structural Longevity Risk under an Affine Mortality Model",
+      "link": "https://arxiv.org/abs/2611.26670",
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-23T08:50:03.067005",
+      "published": "2026-11-23T15:37:26.704117",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-11-23T08:50:03.185818",
+  "timestamp": "2026-11-23T15:37:26.885355",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
