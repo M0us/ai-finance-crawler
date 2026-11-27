@@ -6,7 +6,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-26T22:30:27.666717",
+      "published": "2026-11-27T03:57:31.671941",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -34,12 +34,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bradesco’s Trabuco accepts invitation to be Brazil’s finance minister, source says",
-      "link": "https://www.investing.com/news/stock-market-news/brazils-lula-sounds-out-bradescochairman-as-finance-minister-sources-say-5052498",
+      "title": "Why is Hansoh Pharmaceutical stock rising today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-hansoh-pharmaceutical-stock-rising-today-93CH-5052832",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-26T22:30:28.089658",
+      "published": "2026-11-27T03:57:32.109173",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -72,7 +72,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-26T22:30:27.666720",
+      "published": "2026-11-27T03:57:31.671943",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -107,7 +107,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-26T22:30:27.666717",
+      "published": "2026-11-27T03:57:31.671941",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -140,7 +140,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-26T22:30:27.666720",
+      "published": "2026-11-27T03:57:31.671943",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -173,7 +173,7 @@
       "source_id": "coindesk",
       "source_name": "CoinDesk",
       "authority": 4,
-      "published": "2026-11-26T22:30:27.666722",
+      "published": "2026-11-27T03:57:31.671945",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -200,12 +200,12 @@
       "ai_generated": true
     },
     {
-      "title": "Bradesco’s Trabuco accepts invitation to be Brazil’s finance minister, source says",
-      "link": "https://www.investing.com/news/stock-market-news/brazils-lula-sounds-out-bradescochairman-as-finance-minister-sources-say-5052498",
+      "title": "Why is Hansoh Pharmaceutical stock rising today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-hansoh-pharmaceutical-stock-rising-today-93CH-5052832",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-26T22:30:28.089658",
+      "published": "2026-11-27T03:57:32.109173",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -233,12 +233,12 @@
       "ai_generated": true
     },
     {
-      "title": "Loonie weakens amid Thanksgiving holiday lull, Canadian labor market data",
-      "link": "https://www.investing.com/news/forex-news/loonie-weakens-amid-thanksgiving-holiday-lull-canadian-labor-market-data-5052729",
+      "title": "Friedman Industries CEO buys $168,730 in company stock",
+      "link": "https://www.investing.com/news/insider-trading-news/friedman-industries-ceo-buys-168730-in-company-stock-93CH-5052828",
       "source_id": "investing",
       "source_name": "Investing.com",
       "authority": 4,
-      "published": "2026-11-26T22:30:28.089660",
+      "published": "2026-11-27T03:57:32.109176",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -265,22 +265,22 @@
       "ai_generated": true
     },
     {
-      "title": "Canadian bonds extend rally amid AI jitters, Macklem comments",
-      "link": "https://www.investing.com/news/stock-market-news/canadian-bonds-extend-rally-amid-ai-jitters-macklem-comments-5052727",
-      "source_id": "investing",
-      "source_name": "Investing.com",
+      "title": "The Information Content of News Embeddings",
+      "link": "https://arxiv.org/abs/2611.33458",
+      "source_id": "arxiv",
+      "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-26T22:30:28.089662",
+      "published": "2026-11-27T03:57:31.978081",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
         "novelty": 2.7,
         "timeliness": 3.0,
-        "relevance": 5.5,
+        "relevance": 3.3000000000000003,
         "verifiability": 2.7,
         "information_density": 2.0999999999999996,
         "sentiment_polarity": 1.5,
-        "source_reliability": 2.8000000000000003,
+        "source_reliability": 3.2,
         "diversity_bonus": 1.2000000000000002,
         "viral_potential": 0.8999999999999999,
         "volatility_impact": 2.4000000000000004,
@@ -290,19 +290,19 @@
         "cross_market_contagion": 1.5,
         "institutional_correlation": 1.2000000000000002
       },
-      "total_score": 42.0,
+      "total_score": 40.2,
       "selected_for_headline": false,
       "selected_for_brief": true,
       "brief_rank": 6,
       "ai_generated": true
     },
     {
-      "title": "The Information Content of News Embeddings",
-      "link": "https://arxiv.org/abs/2611.33458",
+      "title": "How LLM Agents Reshape Financial Knowledge Graphs: A Survey",
+      "link": "https://arxiv.org/abs/2611.33584",
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-26T22:30:28.003603",
+      "published": "2026-11-27T03:57:31.978089",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -329,12 +329,12 @@
       "ai_generated": true
     },
     {
-      "title": "How LLM Agents Reshape Financial Knowledge Graphs: A Survey",
-      "link": "https://arxiv.org/abs/2611.33584",
+      "title": "Retirement Planning with Borrowing Constraints and Income Support",
+      "link": "https://arxiv.org/abs/2611.33603",
       "source_id": "arxiv",
       "source_name": "arXiv",
       "authority": 4,
-      "published": "2026-11-26T22:30:28.003609",
+      "published": "2026-11-27T03:57:31.978091",
       "dim_scores": {
         "authority": 4.0,
         "impact": 3.9000000000000004,
@@ -362,7 +362,7 @@
     }
   ],
   "cost": 0.10000000000000003,
-  "timestamp": "2026-11-26T22:30:28.130861",
+  "timestamp": "2026-11-27T03:57:32.142752",
   "algorithm": "17-dimension scoring with MMR",
   "training_data": "38 days (2026-04-01 to 2026-05-08)"
 }
